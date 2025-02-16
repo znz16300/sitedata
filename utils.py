@@ -10,6 +10,11 @@ from oauth2client.service_account import ServiceAccountCredentials
 from datetime import datetime
 
 def download_file_from_google_drive(file_url, output_folder, name_file):
+    # Очищуємо папку output_folder
+    # if os.path.exists(output_folder):
+    #     shutil.rmtree(output_folder)
+    # os.makedirs(output_folder)
+
     # Парсимо URL, щоб отримати file_id
     parsed_url = urllib.parse.urlparse(file_url)
     query_params = urllib.parse.parse_qs(parsed_url.query)
@@ -131,7 +136,7 @@ def process_downloaded_files(folder):
 
     # # Якщо така папка вже існує, додаємо суфікс -1, -2, ...
     if os.path.exists(new_folder_path) == False:
-        
+
         # Створюємо нову папку
         os.makedirs(new_folder_path)
         print(f"Створено папку: {new_folder_path}")
