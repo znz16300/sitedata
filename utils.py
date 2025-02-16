@@ -156,7 +156,7 @@ def process_downloaded_files(folder):
 
         # Отримуємо список файлів у папці downloaded_files
         files = [f for f in os.listdir(downloaded_dir) if os.path.isfile(os.path.join(downloaded_dir, f))]
-
+        print("Список файлів:", files)
         # Список для зберігання повних URL файлів
         file_urls = []
 
