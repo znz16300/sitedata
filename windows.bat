@@ -1,6 +1,6 @@
 @echo off
 REM Запускаємо Python скрипт
-python getTable.py
+python main.py
 
 REM Додаємо всі зміни до Git
 git add .

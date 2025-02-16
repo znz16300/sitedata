@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Запускаємо Python скрипт
-python3 getTable.py
+python3 main.py
 
 # Додаємо всі зміни до Git
 git add .

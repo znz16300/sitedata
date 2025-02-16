@@ -1,44 +1,20 @@
-import os
-import json
-import subprocess
+import utils
 
-def load_config(config_path="config.json"):
-    """Завантажує конфігурацію з JSON-файлу."""
-    try:
-        with open(config_path, "r", encoding="utf-8") as file:
-            return json.load(file)
-    except FileNotFoundError:
-        print("❌ Файл config.json не знайдено!")
-        exit(1)
-    except json.JSONDecodeError:
-        print("❌ Помилка у форматі config.json!")
-        exit(1)
-
-def run_git_command(command, repo_path):
-    """Виконує Git-команду в заданому репозиторії."""
-    try:
-        result = subprocess.run(command, cwd=repo_path, text=True, check=True, capture_output=True)
-        print(result.stdout)
-    except subprocess.CalledProcessError as e:
-        print(f"❌ Помилка при виконанні команди {command}: {e.stderr}")
-        exit(1)
-
-def push_to_github():
-    """Основна функція для пушу змін у GitHub."""
-    config = load_config()
-    repo_paths = config["repo_path"]
-    branch = config["branch"]
-    commit_message = config["commit_message"]
-
-    # Перевіряємо наявність змін у всіх файлах репозиторію
-    result = subprocess.run(["git", "status", "--porcelain"], cwd='', text=True, capture_output=True)
-
-    # Виконуємо команди Git для додавання змін в основному репозиторії
-    run_git_command(["git", "add", "."], '')
-    run_git_command(["git", "commit", "-m", commit_message], '')
-    run_git_command(["git", "push", "origin", branch], '')
-
-    print(f"✅ Зміни успішно запушені у GitHub для репозиторію: {''}")
-
+# Приклад використання:
 if __name__ == "__main__":
-    push_to_github()
+    
+    # utils.getTable('1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI')
+    # utils.getTable('1G1l3J4HHLOItVLYbrPL08ml3TtON_fAULcpecqn0vwM')
+    # utils.getTable('15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc')
+
+    utils.getTable('1Dk0WYpOKeRoDATgzMkIkFjUcFwNAG5MRn4W7bEyzd0M')
+
+    # listStr = 'https://drive.google.com/open?id=10E28ixlBycFTNSkgn23NhrT8dGdi2nU1, https://drive.google.com/open?id=1SV-ef7siZH_n3J7o85E2SRniEPOKLfqR, https://drive.google.com/open?id=1i3AYLGXizuBHBPsvI-gVdkAuDc1p88Kn, https://drive.google.com/open?id=1dsjwhEmjgOkcheXtot7VAZ0mxIV_MYdS, https://drive.google.com/open?id=1FRYxu7sjr_-E9eD40ZxEUXKo6Daz5ZT8'
+    # listt = listStr.split(', ')
+    # for index, item in enumerate(listt):
+    #     url = "item"
+    #     name = utils.download_file_from_google_drive(item, "downloaded_files", str(index))
+    #     print(name)
+
+    # s = utils.process_downloaded_files()
+    # print(s)
