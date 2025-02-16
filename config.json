@@ -1,0 +1,5 @@
+{
+  "repo_path": ["./data", "./img-news"],
+  "branch": "main",
+  "commit_message": "data"
+}
