@@ -10,10 +10,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 from datetime import datetime
 
 def download_file_from_google_drive(file_url, output_folder, name_file):
-    # Очищуємо папку output_folder
-    # if os.path.exists(output_folder):
-    #     shutil.rmtree(output_folder)
-    # os.makedirs(output_folder)
+
 
     # Парсимо URL, щоб отримати file_id
     parsed_url = urllib.parse.urlparse(file_url)
@@ -61,7 +58,12 @@ def download_file_from_google_drive(file_url, output_folder, name_file):
     return f'{file_path}/{file_path}'
 
 def getTable(idTable):
-    # Налаштовуємо авторизацію
+    #Очищуємо папку output_folder
+    output_folder = "downloaded_files"
+    if os.path.exists(output_folder):
+        shutil.rmtree(output_folder)
+    os.makedirs(output_folder)
+
     scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
     creds = ServiceAccountCredentials.from_json_keyfile_name('project-fa0cf409504d.json', scope)
     client = gspread.authorize(creds)
@@ -90,14 +92,13 @@ def getTable(idTable):
                         name = download_file_from_google_drive(item, "downloaded_files", str(index))
                         names.append(name)
                     name_folder = new_row['Позначка часу'].replace(" ", "_").replace(":", "_")
+
                     newNames = process_downloaded_files(name_folder)
                     new_row[key] = newNames
                 else:
                     pass
 
         new_data.append(new_row)
-
-
 
     # Створюємо шлях до папки "test"
     output_dir = os.path.join(os.getcwd(), 'data')
@@ -112,6 +113,11 @@ def getTable(idTable):
         json.dump(new_data, f, ensure_ascii=False, indent=4)
 
     print(f"JSON файл для таблиці {idTable} створено.")
+            
+    output_folder = "downloaded_files"
+    if os.path.exists(output_folder):
+        shutil.rmtree(output_folder)
+    os.makedirs(output_folder)
 
 def process_downloaded_files(folder):
     """
@@ -134,6 +140,9 @@ def process_downloaded_files(folder):
     new_folder_name = base_folder_name
     new_folder_path = os.path.join(target_dir, new_folder_name)
 
+    # Базовий URL для дописування до імен файлів
+    base_url = "https://znz16300.github.io/sitedata/img-news"
+
     # # Якщо така папка вже існує, додаємо суфікс -1, -2, ...
     if os.path.exists(new_folder_path) == False:
 
@@ -153,8 +162,7 @@ def process_downloaded_files(folder):
         # Список для зберігання повних URL файлів
         file_urls = []
 
-        # Базовий URL для дописування до імен файлів
-        base_url = "https://znz16300.github.io/sitedata/img-news"
+        
 
         # Копіюємо файли у створену папку та видаляємо їх з downloaded_files
         for file_name in files:
@@ -170,6 +178,11 @@ def process_downloaded_files(folder):
             except Exception as e:
                 print(f"Помилка при обробці файлу {file_name}: {e}")
         # Повертаємо результуючий рядок, де імена файлів розділені символом \n
-        return "\n".join(sorted(file_urls))
+    # Отримуємо список файлів у новій папці
+    new_files = [f for f in os.listdir(new_folder_path) if os.path.isfile(os.path.join(new_folder_path, f))]
+    # Додаємо '{base_url}/{new_folder_name}/{f}' до кожного елемента списку і сортуємо список
+    new_files_urls = [f"{base_url}/{new_folder_name}/{f}" for f in sorted(new_files)]
+    return "\n".join(new_files_urls)
+
 
 
