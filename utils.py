@@ -1,3 +1,5 @@
+#### ДОДАЄМО НОВИНУ З ГУГЛ ТАБЛИЦІ
+
 import os
 import requests
 import urllib.parse
@@ -126,59 +128,43 @@ def process_downloaded_files(folder):
     # Формуємо початкове ім'я нової папки
     new_folder_name = base_folder_name
     new_folder_path = os.path.join(target_dir, new_folder_name)
-    suffix = 1
 
     # # Якщо така папка вже існує, додаємо суфікс -1, -2, ...
-    # while os.path.exists(new_folder_path):
-    #     new_folder_name = f"{base_folder_name}-{suffix}"
-    #     new_folder_path = os.path.join(target_dir, new_folder_name)
-    #     suffix += 1
+    if os.path.exists(new_folder_path) == False:
+        
+        # Створюємо нову папку
+        os.makedirs(new_folder_path)
+        print(f"Створено папку: {new_folder_path}")
 
-    # Створюємо нову папку
-    os.makedirs(new_folder_path)
-    print(f"Створено папку: {new_folder_path}")
+        # Шлях до папки з завантаженими файлами
+        downloaded_dir = "downloaded_files"
+        if not os.path.exists(downloaded_dir):
+            print(f"Папка {downloaded_dir} не існує!")
+            return ""
 
-    # Шлях до папки з завантаженими файлами
-    downloaded_dir = "downloaded_files"
-    if not os.path.exists(downloaded_dir):
-        print(f"Папка {downloaded_dir} не існує!")
-        return ""
+        # Отримуємо список файлів у папці downloaded_files
+        files = [f for f in os.listdir(downloaded_dir) if os.path.isfile(os.path.join(downloaded_dir, f))]
 
-    # Отримуємо список файлів у папці downloaded_files
-    files = [f for f in os.listdir(downloaded_dir) if os.path.isfile(os.path.join(downloaded_dir, f))]
+        # Список для зберігання повних URL файлів
+        file_urls = []
 
-    # Список для зберігання повних URL файлів
-    file_urls = []
+        # Базовий URL для дописування до імен файлів
+        base_url = "https://znz16300.github.io/sitedata/img-news"
 
-    # Базовий URL для дописування до імен файлів
-    base_url = "https://znz16300.github.io/sitedata/img-news"
-
-    # Копіюємо файли у створену папку та видаляємо їх з downloaded_files
-    for file_name in files:
-        src_path = os.path.join(downloaded_dir, file_name)
-        dst_path = os.path.join(new_folder_path, file_name)
-        try:
-            shutil.copy2(src_path, dst_path)
-            # Видаляємо файл з папки downloaded_files
-            os.remove(src_path)
-            # Формуємо URL для файлу
-            file_url = f"{base_url}/{new_folder_name}/{file_name}"
-            file_urls.append(file_url)
-        except Exception as e:
-            print(f"Помилка при обробці файлу {file_name}: {e}")
-    # Повертаємо результуючий рядок, де імена файлів розділені символом \n
-    return "\n".join(sorted(file_urls))
+        # Копіюємо файли у створену папку та видаляємо їх з downloaded_files
+        for file_name in files:
+            src_path = os.path.join(downloaded_dir, file_name)
+            dst_path = os.path.join(new_folder_path, file_name)
+            try:
+                shutil.copy2(src_path, dst_path)
+                # Видаляємо файл з папки downloaded_files
+                os.remove(src_path)
+                # Формуємо URL для файлу
+                file_url = f"{base_url}/{new_folder_name}/{file_name}"
+                file_urls.append(file_url)
+            except Exception as e:
+                print(f"Помилка при обробці файлу {file_name}: {e}")
+        # Повертаємо результуючий рядок, де імена файлів розділені символом \n
+        return "\n".join(sorted(file_urls))
 
 
-
-# Приклад використання:
-# if __name__ == "__main__":
-#     listStr = 'https://drive.google.com/open?id=10E28ixlBycFTNSkgn23NhrT8dGdi2nU1, https://drive.google.com/open?id=1SV-ef7siZH_n3J7o85E2SRniEPOKLfqR, https://drive.google.com/open?id=1i3AYLGXizuBHBPsvI-gVdkAuDc1p88Kn, https://drive.google.com/open?id=1dsjwhEmjgOkcheXtot7VAZ0mxIV_MYdS, https://drive.google.com/open?id=1FRYxu7sjr_-E9eD40ZxEUXKo6Daz5ZT8'
-#     listt = listStr.split(', ')
-#     for index, item in enumerate(listt):
-#         url = "item"
-#         name = download_file_from_google_drive(item, "downloaded_files", str(index))
-#         print(name)
-
-#     s = process_downloaded_files()
-#     print(s)
