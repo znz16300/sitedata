@@ -122,20 +122,11 @@ def getTable(idTable):
     os.makedirs(output_folder)
 
 def process_downloaded_files(folder):
-    """
-    Функція створює нову папку в img-news з поточною датою (формат YYYY-MM-DD).
-    Якщо така папка вже існує, додає суфікс -1, -2, ... до отримання унікального імені.
-    Далі копіює всі файли з папки downloaded_files у створену папку,
-    очищає папку downloaded_files, та повертає рядок, де кожне ім'я файлу доповнене
-    префіксом "https://znz16300.github.io/sitedata/img-news/" і розділене символом "\n".
-    """
-    # Отримуємо поточну дату у форматі YYYY-MM-DD
-    # base_folder_name = datetime.now().strftime("%Y-%m-%d")
     output_folder = "downloaded_files"
     if os.path.exists(output_folder):
         shutil.rmtree(output_folder)
     os.makedirs(output_folder)
-    
+
     base_folder_name = folder
     target_dir = "img-news"
     
