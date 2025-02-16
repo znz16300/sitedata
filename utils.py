@@ -37,6 +37,8 @@ def download_file_from_google_drive(file_url, output_folder, name_file):
         ext = '.jpg'
     elif 'image/png' in content_type:
         ext = '.png'
+    elif 'image/webp' in content_type:
+        ext = '.webp'
     else:
         print(f"❌ Невідомий формат файлу або непідтримуваний тип: {content_type}")
         return
@@ -129,6 +131,11 @@ def process_downloaded_files(folder):
     """
     # Отримуємо поточну дату у форматі YYYY-MM-DD
     # base_folder_name = datetime.now().strftime("%Y-%m-%d")
+    output_folder = "downloaded_files"
+    if os.path.exists(output_folder):
+        shutil.rmtree(output_folder)
+    os.makedirs(output_folder)
+    
     base_folder_name = folder
     target_dir = "img-news"
     
