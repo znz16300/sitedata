@@ -93,10 +93,13 @@ def getTable(idTable):
                     for index, item in enumerate(listt):
                         name = download_file_from_google_drive(item, "downloaded_files", str(index))
                         names.append(name)
-                    name_folder = new_row['Позначка часу'].replace(" ", "_").replace(":", "_")
+                    if "Позначка часу" in new_row:
+                        name_folder = new_row['Позначка часу'].replace(" ", "_").replace(":", "_")
 
-                    newNames = process_downloaded_files(name_folder)
-                    new_row[key] = newNames
+                        newNames = process_downloaded_files(name_folder)
+                        new_row[key] = newNames
+                    else:
+                        pass
                 else:
                     pass
 
