@@ -125,10 +125,6 @@ def getTable(idTable):
     os.makedirs(output_folder)
 
 def process_downloaded_files(folder):
-    output_folder = "downloaded_files"
-    if os.path.exists(output_folder):
-        shutil.rmtree(output_folder)
-    os.makedirs(output_folder)
 
     base_folder_name = folder
     target_dir = "img-news"
@@ -144,41 +140,42 @@ def process_downloaded_files(folder):
     # Базовий URL для дописування до імен файлів
     base_url = "https://znz16300.github.io/sitedata/img-news"
 
-    # # Якщо така папка вже існує, додаємо суфікс -1, -2, ...
+    # # Якщо така папка вже існує, 
     if os.path.exists(new_folder_path) == False:
 
         # Створюємо нову папку
         os.makedirs(new_folder_path)
         print(f"Створено папку: {new_folder_path}")
 
-        # Шлях до папки з завантаженими файлами
-        downloaded_dir = "downloaded_files"
-        if not os.path.exists(downloaded_dir):
-            print(f"Папка {downloaded_dir} не існує!")
-            return ""
+    # Шлях до папки з завантаженими файлами
+    downloaded_dir = "downloaded_files"
+    if not os.path.exists(downloaded_dir):
+        print(f"Папка {downloaded_dir} не існує!")
+        return ""
 
-        # Отримуємо список файлів у папці downloaded_files
-        files = [f for f in os.listdir(downloaded_dir) if os.path.isfile(os.path.join(downloaded_dir, f))]
-        print("Список файлів:", files)
-        # Список для зберігання повних URL файлів
-        file_urls = []
+    # Отримуємо список файлів у папці downloaded_files
+    files = [f for f in os.listdir(downloaded_dir) if os.path.isfile(os.path.join(downloaded_dir, f))]
 
-        
+    print("Список файлів:", files)
+    # Список для зберігання повних URL файлів
+    file_urls = []
 
-        # Копіюємо файли у створену папку та видаляємо їх з downloaded_files
-        for file_name in files:
-            src_path = os.path.join(downloaded_dir, file_name)
-            dst_path = os.path.join(new_folder_path, file_name)
-            try:
-                shutil.copy2(src_path, dst_path)
-                # Видаляємо файл з папки downloaded_files
-                os.remove(src_path)
-                # Формуємо URL для файлу
-                file_url = f"{base_url}/{new_folder_name}/{file_name}"
-                file_urls.append(file_url)
-            except Exception as e:
-                print(f"Помилка при обробці файлу {file_name}: {e}")
-        # Повертаємо результуючий рядок, де імена файлів розділені символом \n
+    
+
+    # Копіюємо файли у створену папку та видаляємо їх з downloaded_files----------')
+    for file_name in files:
+        src_path = os.path.join(downloaded_dir, file_name)
+        dst_path = os.path.join(new_folder_path, file_name)
+        try:
+            shutil.copy2(src_path, dst_path)
+            # Видаляємо файл з папки downloaded_files
+            os.remove(src_path)
+            # Формуємо URL для файлу
+            file_url = f"{base_url}/{new_folder_name}/{file_name}"
+            file_urls.append(file_url)
+        except Exception as e:
+            print(f"Помилка при обробці файлу {file_name}: {e}")
+    # Повертаємо результуючий рядок, де імена файлів розділені символом \n
     # Отримуємо список файлів у новій папці
     new_files = [f for f in os.listdir(new_folder_path) if os.path.isfile(os.path.join(new_folder_path, f))]
     # Додаємо '{base_url}/{new_folder_name}/{f}' до кожного елемента списку і сортуємо список
