@@ -617,6 +617,14 @@
     },
     {
         "id": "77",
+        "N": "80",
+        "Title": "Кошторис на 2025 рік",
+        "FathMenu": "1",
+        "show": "1",
+        "link": "https://drive.google.com/drive/folders/1j1mc7ERkC4JxddcrbDJvyHgcinZxMjpA?usp=sharing"
+    },
+    {
+        "id": "78",
         "N": "77",
         "Title": "Участь у проєктах",
         "FathMenu": "1",
@@ -624,7 +632,7 @@
         "link": "https://drive.google.com/file/d/1qmQpBGQtH5zdAnbEzAh6t2KzWywrW_hA/view?usp=sharing"
     },
     {
-        "id": "78",
+        "id": "79",
         "N": "78",
         "Title": "Уведення результатів курсової підготовки",
         "FathMenu": "77",
@@ -632,7 +640,7 @@
         "link": "https://docs.google.com/forms/d/e/1FAIpQLScQf3nU3fBL49wHU7Lg1KCK8RQijuGY6kbGW2TYHPO14YUI8g/viewform"
     },
     {
-        "id": "79",
+        "id": "80",
         "N": "79",
         "Title": "Перегляд результатів курсової підготовки",
         "FathMenu": "77",
