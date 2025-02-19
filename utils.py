@@ -10,8 +10,6 @@ from oauth2client.service_account import ServiceAccountCredentials
 from datetime import datetime
 
 def download_file_from_google_drive(file_url, output_folder, name_file):
-
-
     # Парсимо URL, щоб отримати file_id
     parsed_url = urllib.parse.urlparse(file_url)
     query_params = urllib.parse.parse_qs(parsed_url.query)
@@ -98,6 +96,7 @@ def getTable(idTable):
 
                         newNames = process_downloaded_files(name_folder)
                         new_row[key] = newNames
+                        update_photo_in_table(idTable, new_row['Позначка часу'], newNames)
                     else:
                         pass
                 else:
@@ -182,5 +181,24 @@ def process_downloaded_files(folder):
     new_files_urls = [f"{base_url}/{new_folder_name}/{f}" for f in sorted(new_files)]
     return "\n".join(new_files_urls)
 
+def update_photo_in_table(idTable, timestamp, new_photo_url):
+    scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
+    creds = ServiceAccountCredentials.from_json_keyfile_name('project-fa0cf409504d.json', scope)
+    client = gspread.authorize(creds)
+
+    # Відкриваємо таблицю
+    sheet = client.open_by_url(f'https://docs.google.com/spreadsheets/d/{idTable}/').sheet1
+    
+    # Отримуємо всі дані з таблиці
+    data = sheet.get_all_records()
+    
+    # Знаходимо індекс рядка за значенням "Позначка часу"
+    for index, row in enumerate(data, start=2):  # start=2, бо в Google Sheets індексація з 1 + заголовок
+        if row.get("Позначка часу") == timestamp:
+            sheet.update_cell(index, list(row.keys()).index("Фото") + 1, new_photo_url)
+            print(f"Оновлено значення у стовпці 'Фото' для рядка з 'Позначка часу' = {timestamp}")
+            return
+    
+    print("Рядок із вказаною 'Позначка часу' не знайдено.")
 
 
