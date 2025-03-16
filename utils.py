@@ -8,6 +8,7 @@ import gspread
 import json
 from oauth2client.service_account import ServiceAccountCredentials
 from datetime import datetime
+from PIL import Image
 
 def download_file_from_google_drive(file_url, output_folder, name_file):
     # Парсимо URL, щоб отримати file_id
@@ -57,8 +58,21 @@ def download_file_from_google_drive(file_url, output_folder, name_file):
         print(f"❌ Помилка запису файлу: {e}")
     return f'{file_path}/{file_path}'
 
+
+
+def compress_image(image_path, image_path_dest, max_size_kb=300):
+    """
+    Зменшує розмір зображення до зазначеного розміру (у кілобайтах).
+    """
+    img = Image.open(image_path)
+    quality = 85  # Початкова якість
+    while True:
+        img.save(image_path_dest, format="JPEG", quality=quality)
+        if os.path.getsize(image_path) <= max_size_kb * 1024 or quality <= 10:
+            break
+        quality -= 5
+
 def getTable(idTable):
-    #Очищуємо папку output_folder
     output_folder = "downloaded_files"
     if os.path.exists(output_folder):
         shutil.rmtree(output_folder)
@@ -67,61 +81,112 @@ def getTable(idTable):
     scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
     creds = ServiceAccountCredentials.from_json_keyfile_name('project-fa0cf409504d.json', scope)
     client = gspread.authorize(creds)
-
-    # Відкриваємо таблицю за її URL
     sheet = client.open_by_url(f'https://docs.google.com/spreadsheets/d/{idTable}/').sheet1
-
-    # Отримуємо всі дані з таблиці
     data = sheet.get_all_records()
-
-    # Перетворюємо дані: додаємо поле id, перетворюємо всі значення в рядки,
-    # і видаляємо ключі, які є порожніми ("")
     new_data = []
+    
     for index, row in enumerate(data):
-        new_row = {}
-        new_row['id'] = str(index)
+        new_row = {"id": str(index)}
         for key, value in row.items():
-            if key != "":  # Пропускаємо записи з порожнім ключем
+            if key:
                 new_row[key] = str(value)
+            
             names = []
             if key == "Фото":
                 s = value
                 if s.startswith("https://drive.google.com/open?id="):
                     listt = s.split(', ')
-                    for index, item in enumerate(listt):
-                        name = download_file_from_google_drive(item, "downloaded_files", str(index))
+                    for i, item in enumerate(listt):
+                        name = download_file_from_google_drive(item, "downloaded_files", str(i))
+                        file_path = os.path.join("downloaded_files", name)
+                        
+                        # if os.path.exists(file_path) and os.path.getsize(file_path) > 1 * 1024 * 1024:
+                        #     compress_image(file_path, 'downloaded_files')
+                        
                         names.append(name)
+                    
                     if "Позначка часу" in new_row:
                         name_folder = new_row['Позначка часу'].replace(" ", "_").replace(":", "_")
-
+                        
                         newNames = process_downloaded_files(name_folder)
                         new_row[key] = newNames
                         update_photo_in_table(idTable, new_row['Позначка часу'], newNames)
-                    else:
-                        pass
-                else:
-                    pass
-
+                
         new_data.append(new_row)
 
-    # Створюємо шлях до папки "test"
     output_dir = os.path.join(os.getcwd(), 'data')
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
-        
-    # Створюємо шлях до файлу JSON у папці "test"
+    
     output_file_path = os.path.join(output_dir, f'{idTable}.json')
-
-    # Зберігаємо JSON файл
     with open(output_file_path, 'w', encoding='utf-8') as f:
         json.dump(new_data, f, ensure_ascii=False, indent=4)
 
     print(f"JSON файл для таблиці {idTable} створено.")
-            
-    output_folder = "downloaded_files"
+    
     if os.path.exists(output_folder):
         shutil.rmtree(output_folder)
     os.makedirs(output_folder)
+
+
+# def getTable(idTable):
+#     #Очищуємо папку output_folder
+#     output_folder = "downloaded_files"
+#     if os.path.exists(output_folder):
+#         shutil.rmtree(output_folder)
+#     os.makedirs(output_folder)
+
+#     scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
+#     creds = ServiceAccountCredentials.from_json_keyfile_name('project-fa0cf409504d.json', scope)
+#     client = gspread.authorize(creds)
+#     sheet = client.open_by_url(f'https://docs.google.com/spreadsheets/d/{idTable}/').sheet1
+#     data = sheet.get_all_records()
+#     new_data = []
+#     for index, row in enumerate(data):
+#         new_row = {}
+#         new_row['id'] = str(index)
+#         for key, value in row.items():
+#             if key != "":
+#                 new_row[key] = str(value)
+#             names = []
+#             if key == "Фото":
+#                 s = value
+#                 if s.startswith("https://drive.google.com/open?id="):
+#                     listt = s.split(', ')
+#                     for index, item in enumerate(listt):
+#                         name = download_file_from_google_drive(item, "downloaded_files", str(index))
+#                         names.append(name)
+#                     if "Позначка часу" in new_row:
+#                         name_folder = new_row['Позначка часу'].replace(" ", "_").replace(":", "_")
+
+#                         newNames = process_downloaded_files(name_folder)
+#                         new_row[key] = newNames
+#                         update_photo_in_table(idTable, new_row['Позначка часу'], newNames)
+#                     else:
+#                         pass
+#                 else:
+#                     pass
+
+#         new_data.append(new_row)
+
+#     # Створюємо шлях до папки "test"
+#     output_dir = os.path.join(os.getcwd(), 'data')
+#     if not os.path.exists(output_dir):
+#         os.makedirs(output_dir)
+        
+#     # Створюємо шлях до файлу JSON у папці "test"
+#     output_file_path = os.path.join(output_dir, f'{idTable}.json')
+
+#     # Зберігаємо JSON файл
+#     with open(output_file_path, 'w', encoding='utf-8') as f:
+#         json.dump(new_data, f, ensure_ascii=False, indent=4)
+
+#     print(f"JSON файл для таблиці {idTable} створено.")
+            
+#     output_folder = "downloaded_files"
+#     if os.path.exists(output_folder):
+#         shutil.rmtree(output_folder)
+#     os.makedirs(output_folder)
 
 def process_downloaded_files(folder):
 
@@ -166,7 +231,10 @@ def process_downloaded_files(folder):
         src_path = os.path.join(downloaded_dir, file_name)
         dst_path = os.path.join(new_folder_path, file_name)
         try:
-            shutil.copy2(src_path, dst_path)
+            if os.path.exists(src_path) and os.path.getsize(src_path) > 1 * 1024 * 1024:
+                compress_image(src_path, dst_path)
+            else:
+                shutil.copy2(src_path, dst_path)
             # Видаляємо файл з папки downloaded_files
             os.remove(src_path)
             # Формуємо URL для файлу
@@ -185,20 +253,20 @@ def update_photo_in_table(idTable, timestamp, new_photo_url):
     scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
     creds = ServiceAccountCredentials.from_json_keyfile_name('project-fa0cf409504d.json', scope)
     client = gspread.authorize(creds)
-
-    # Відкриваємо таблицю
     sheet = client.open_by_url(f'https://docs.google.com/spreadsheets/d/{idTable}/').sheet1
-    
-    # Отримуємо всі дані з таблиці
     data = sheet.get_all_records()
-    
-    # Знаходимо індекс рядка за значенням "Позначка часу"
-    for index, row in enumerate(data, start=2):  # start=2, бо в Google Sheets індексація з 1 + заголовок
+    for index, row in enumerate(data, start=2):
         if row.get("Позначка часу") == timestamp:
+            sheet.update_cell(index, list(row.keys()).index("old_photo") + 1, row.get("Фото", ""))
             sheet.update_cell(index, list(row.keys()).index("Фото") + 1, new_photo_url)
             print(f"Оновлено значення у стовпці 'Фото' для рядка з 'Позначка часу' = {timestamp}")
             return
     
     print("Рядок із вказаною 'Позначка часу' не знайдено.")
+
+if __name__ == "__main__":
+    print("Запуск utils.py")
+    compress_image('downloaded_files/1.jpg', 'test/1.jpg', 300)
+
 
 
