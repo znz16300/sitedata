@@ -646,5 +646,13 @@
         "FathMenu": "77",
         "show": "1",
         "link": "/site/kursi.html"
+    },
+    {
+        "id": "81",
+        "N": "81",
+        "Title": "Фінансовий звіт за 2024 рік",
+        "FathMenu": "1",
+        "show": "1",
+        "link": "https://drive.google.com/drive/folders/17sytNdRdRpi7g1Tv-lwFB3GSQH9hDT6b?usp=sharing"
     }
 ]
