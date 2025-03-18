@@ -2,3 +2,4 @@ venv
 project-*.json
 test
 downloaded_files
+apikey.json
