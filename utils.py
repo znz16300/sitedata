@@ -1,6 +1,7 @@
 #### ДОДАЄМО НОВИНУ З ГУГЛ ТАБЛИЦІ
 
 import os
+import re
 import requests
 import urllib.parse
 import shutil
@@ -65,6 +66,24 @@ def get_file_extension(filename: str) -> str:
         return filename.rsplit('.', 1)[-1]
     return ''
 
+def extract_drive_file_id(url: str) -> str:
+    if url.startswith("https://drive.google.com/open?id="):
+        return url.split("id=")[-1]
+    elif url.startswith("https://drive.google.com/file/d/") and "/view" in url:
+        return url.split("/d/")[1].split("/view")[0]
+    elif url.startswith("https://drive.google.com/uc?export=download&id="):
+        return url.split("id=")[-1]
+    elif url.startswith("https://drive.google.com/drive/folders/"):
+        return url.split("folders/")[-1]
+    elif url.startswith("https://drive.google.com/file/d/"):
+        return url.split("d/")[1].split("/")[0]
+    elif url.startswith("https://drive.google.com/open?"):
+        match = re.search(r'id=([a-zA-Z0-9_-]+)', url)
+        if match:
+            return match.group(1)
+
+    return ''
+
 def compress_image(image_path, image_path_dest, max_size_kb=300):
     """
     Зменшує розмір зображення до зазначеного розміру (у кілобайтах).
@@ -119,11 +138,13 @@ def getTable(idTable):
             if key == "Файл(и) документу":
                 file_path = new_row['Файл(и) документу'].split(', ')[0]
                 # Якщо це файл чи папка на гугл диску, то отримуємо його ID
-                if file_path.startswith("https://drive.google.com/open?id="):
-                    file_id = file_path.split('=')[-1]
-                    new_row['info'] = "--"
-                    new_row['ext'] = "--"
-                    new_row['size'] = "--"
+                new_row['info'] = "--"
+                new_row['ext'] = "--"
+                new_row['size'] = "--"
+                # https://drive.google.com/file/d/1A_dnaeuYaOjcat6v0FCSVMRK-JNSj271/view?usp=sharing"
+                file_id = extract_drive_file_id(file_path.split(', ')[0])
+                # print('file_id', file_id)
+                if  file_id != '':
                     try:
                         file_info = get_drive_file_info(file_id)
                         if file_info:
