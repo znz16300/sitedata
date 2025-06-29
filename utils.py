@@ -10,6 +10,8 @@ from oauth2client.service_account import ServiceAccountCredentials
 from datetime import datetime
 from PIL import Image
 
+from getFileInfo import get_drive_file_info
+
 def download_file_from_google_drive(file_url, output_folder, name_file):
     # Парсимо URL, щоб отримати file_id
     parsed_url = urllib.parse.urlparse(file_url)
@@ -58,7 +60,10 @@ def download_file_from_google_drive(file_url, output_folder, name_file):
         print(f"❌ Помилка запису файлу: {e}")
     return f'{file_path}/{file_path}'
 
-
+def get_file_extension(filename: str) -> str:
+    if '.' in filename:
+        return filename.rsplit('.', 1)[-1]
+    return ''
 
 def compress_image(image_path, image_path_dest, max_size_kb=300):
     """
@@ -111,7 +116,23 @@ def getTable(idTable):
                         newNames = process_downloaded_files(name_folder)
                         new_row[key] = newNames
                         update_photo_in_table(idTable, new_row['Позначка часу'], newNames)
-                
+            if key == "Файл(и) документу":
+                file_path = new_row['Файл(и) документу'].split(', ')[0]
+                # Якщо це файл чи папка на гугл диску, то отримуємо його ID
+                if file_path.startswith("https://drive.google.com/open?id="):
+                    file_id = file_path.split('=')[-1]
+                    try:
+                        file_info = get_drive_file_info(file_id)
+                        if file_info:
+                            new_row['info'] = f"{file_info['name']} ({file_info['type']}, {file_info['size_mb']} MB)"
+                            new_row['ext'] = get_file_extension(file_info['name'])
+                            new_row['size'] = f"{file_info['size_mb']}"
+                        else:
+                            new_row['info'] = '--'
+                    except Exception as e:
+                        print(f"Помилка при отриманні інформації про файл {file_id}: {e}")
+                        new_row['info'] = '--'
+            
         new_data.append(new_row)
 
     output_dir = os.path.join(os.getcwd(), 'data')
