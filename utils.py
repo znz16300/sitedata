@@ -66,7 +66,7 @@ def get_file_extension(filename: str) -> str:
         return filename.rsplit('.', 1)[-1]
     return ''
 
-# https://docs.google.com/spreadsheets/d/13aUrQMqqoZT8H8PByphDqln3s06u3Vg_/edit?usp=sharing&ouid=107211966436332045560&rtpof=true&sd=true
+# https://docs.google.com/spreadsheets/d/e/2PACX-1vSOJF8xs5Was2-uPL4tbdbt8O63BgBXddIZjUkmoMJvnzirlxu3mgYpPd50F1eqB0nLbit9LooUuSPU/pubhtml?gid=2113725721&single=true
 def extract_drive_file_id(url: str) -> str:
     if url.startswith("https://drive.google.com/open?id="):
         return url.split("id=")[-1]
@@ -76,6 +76,8 @@ def extract_drive_file_id(url: str) -> str:
         return url.split("id=")[-1]
     elif url.startswith("https://drive.google.com/drive/folders/"):
         return url.split("folders/")[-1]
+    elif url.startswith("https://docs.google.com/spreadsheets/d/e/"):
+        return url.split("d/e/")[1].split("/")[0]
     elif url.startswith("https://docs.google.com/spreadsheets/d/"):
         return url.split("d/")[1].split("/")[0]
     elif url.startswith("https://docs.google.com/document/d/"):
