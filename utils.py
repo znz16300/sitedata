@@ -121,6 +121,9 @@ def getTable(idTable):
                 # Якщо це файл чи папка на гугл диску, то отримуємо його ID
                 if file_path.startswith("https://drive.google.com/open?id="):
                     file_id = file_path.split('=')[-1]
+                    new_row['info'] = "--"
+                    new_row['ext'] = "--"
+                    new_row['size'] = "--"
                     try:
                         file_info = get_drive_file_info(file_id)
                         if file_info:
