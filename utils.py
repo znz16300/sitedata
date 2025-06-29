@@ -139,7 +139,7 @@ def getTable(idTable):
                 file_path = new_row['Файл(и) документу'].split(', ')[0]
                 # Якщо це файл чи папка на гугл диску, то отримуємо його ID
                 new_row['info'] = "--"
-                new_row['ext'] = "--"
+                new_row['type'] = "--"
                 new_row['size'] = "--"
                 # https://drive.google.com/file/d/1A_dnaeuYaOjcat6v0FCSVMRK-JNSj271/view?usp=sharing"
                 file_id = extract_drive_file_id(file_path.split(', ')[0])
@@ -149,7 +149,7 @@ def getTable(idTable):
                         file_info = get_drive_file_info(file_id)
                         if file_info:
                             new_row['info'] = f"{file_info['name']} ({file_info['type']}, {file_info['size_mb']} MB)"
-                            new_row['ext'] = get_file_extension(file_info['name'])
+                            new_row['type'] = get_file_extension(file_info['name'])
                             new_row['size'] = f"{file_info['size_mb']}"
                         else:
                             new_row['info'] = '--'
