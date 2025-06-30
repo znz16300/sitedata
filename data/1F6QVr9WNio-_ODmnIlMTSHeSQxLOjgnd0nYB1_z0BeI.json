@@ -213,7 +213,7 @@
         "Абзац": "Шкільний громадський бюджет",
         "Фото": "./assets/icons/inno.png",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Шкільний громадський бюджет&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=Шкільний громадський бюджет&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "24",
@@ -222,7 +222,7 @@
         "Абзац": "Виховна робота",
         "Фото": "./assets/images/vr.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Виховна робота&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=Виховна робота&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "25",
@@ -375,7 +375,7 @@
         "Абзац": "Предметні олімпіади",
         "Фото": "./assets/images/ol.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Олімпіади&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=Олімпіади&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "42",
@@ -384,7 +384,7 @@
         "Абзац": "Вчительська",
         "Фото": "./assets/images/mo.jpg",
         "Ширина малюнка (%)": "50",
-        "Кнопка з посиланням": "./page.html?titlePages=Вчительська&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=Вчительська&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "43",
@@ -510,7 +510,7 @@
         "Абзац": "Орсагош Оксана Валеріївна",
         "Фото": "./assets/images/teachers/director.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Орсагош Оксана Валеріївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Орсагош Оксана Валеріївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "57",
@@ -519,7 +519,7 @@
         "Абзац": "Зеленський Олександр Станіславович",
         "Фото": "./assets/images/teachers/12.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Зеленський Олександр Станіславович&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Зеленський Олександр Станіславович&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "58",
@@ -528,7 +528,7 @@
         "Абзац": "Мірошник Любов Володимирівна",
         "Фото": "./assets/images/teachers/miroshnik.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Мірошник Любов Володимирівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Мірошник Любов Володимирівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "59",
@@ -537,7 +537,7 @@
         "Абзац": "Атрощенко Зоя Володимирівна",
         "Фото": "./assets/images/teachers/atroshchenko.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Атрощенко Зоя Володимирівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Атрощенко Зоя Володимирівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "60",
@@ -546,7 +546,7 @@
         "Абзац": "Бабак Володимир Григорович",
         "Фото": "./assets/images/teachers/babak.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Бабак Володимир Григорович&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Бабак Володимир Григорович&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "61",
@@ -555,7 +555,7 @@
         "Абзац": "Батицька Оксана Анатоліївна",
         "Фото": "./assets/images/teachers/01.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Батицька Оксана Анатоліївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Батицька Оксана Анатоліївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "62",
@@ -564,7 +564,7 @@
         "Абзац": "Безродна Олена Феодосіївна",
         "Фото": "./assets/images/teachers/bezrodna.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Безродна Олена Феодосіївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Безродна Олена Феодосіївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "63",
@@ -573,7 +573,7 @@
         "Абзац": "Береговець Наталія Василівна",
         "Фото": "./assets/images/teachers/02.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Береговець Наталія Василівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Береговець Наталія Василівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "64",
@@ -582,7 +582,7 @@
         "Абзац": "Богдан Олена Іванівна",
         "Фото": "./assets/images/teachers/40.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Богдан Олена Іванівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Богдан Олена Іванівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "65",
@@ -591,7 +591,7 @@
         "Абзац": "Брюква Ольга Миколаївна",
         "Фото": "./assets/images/teachers/brukva.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Брюква Ольга Миколаївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Брюква Ольга Миколаївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "66",
@@ -600,7 +600,7 @@
         "Абзац": "Бугай Павло Віталійович",
         "Фото": "./assets/images/teachers/34.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Бугай Павло Віталійович&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Бугай Павло Віталійович&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "67",
@@ -609,7 +609,7 @@
         "Абзац": "Волошина Марина Сергіївна",
         "Фото": "./assets/images/woman.png",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Волошина Марина Сергіївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Волошина Марина Сергіївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "68",
@@ -618,7 +618,7 @@
         "Абзац": "Герасименко Віктор Олександрович",
         "Фото": "./assets/images/teachers/04.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Герасименко Віктор Олександрович&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Герасименко Віктор Олександрович&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "69",
@@ -627,7 +627,7 @@
         "Абзац": "Герасименко Марія Петрівна",
         "Фото": "./assets/images/teachers/05.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Герасименко Марія Петрівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Герасименко Марія Петрівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "70",
@@ -636,7 +636,7 @@
         "Абзац": "Герасименко Світлана Петрівна",
         "Фото": "./assets/images/teachers/gerasimenkosp.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Герасименко Світлана Петрівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Герасименко Світлана Петрівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "71",
@@ -645,7 +645,7 @@
         "Абзац": "Глушко Тамара Михайлівна",
         "Фото": "./assets/images/teachers/47.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Глушко Тамара Михайлівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Глушко Тамара Михайлівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "72",
@@ -654,7 +654,7 @@
         "Абзац": "Гнилуша Лілія Володимирівна",
         "Фото": "./assets/images/teachers/06.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Гнилуша Лілія Володимирівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Гнилуша Лілія Володимирівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "73",
@@ -663,7 +663,7 @@
         "Абзац": "Гнилуша Олександр Олександрович",
         "Фото": "./assets/images/teachers/35.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Гнилуша Олександр Олександрович&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Гнилуша Олександр Олександрович&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "74",
@@ -672,7 +672,7 @@
         "Абзац": "Гуща Ірина Віталіївна",
         "Фото": "./assets/images/woman.png",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Гуща Ірина Віталіївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Гуща Ірина Віталіївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "75",
@@ -681,7 +681,7 @@
         "Абзац": "Давиденко Микола Григорович",
         "Фото": "./assets/images/teachers/30.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Давиденко Микола Григорович&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Давиденко Микола Григорович&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "76",
@@ -690,7 +690,7 @@
         "Абзац": "Давиденко Ольга Віталіївна",
         "Фото": "./assets/images/woman.png",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Давиденко Ольга Віталіївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Давиденко Ольга Віталіївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "77",
@@ -699,7 +699,7 @@
         "Абзац": "Димитришина Ярина Дмитрівна",
         "Фото": "./assets/images/teachers/37.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Димитришина Ярина Дмитрівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Димитришина Ярина Дмитрівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "78",
@@ -708,7 +708,7 @@
         "Абзац": "Дитюк Олена Іванівна",
         "Фото": "./assets/images/teachers/29.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Дитюк Олена Іванівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Дитюк Олена Іванівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "79",
@@ -717,7 +717,7 @@
         "Абзац": "Долиненко Вікторія Андріївна",
         "Фото": "./assets/images/teachers/08.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Долиненко Вікторія Андріївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Долиненко Вікторія Андріївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "80",
@@ -726,7 +726,7 @@
         "Абзац": "Дуденко Олена Юріївна",
         "Фото": "./assets/images/woman.png",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Дуденко Олена Юріївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Дуденко Олена Юріївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "81",
@@ -735,7 +735,7 @@
         "Абзац": "Звєрєв Василь Юрійович",
         "Фото": "./assets/images/teachers/09.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Звєрєв Василь Юрійович&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Звєрєв Василь Юрійович&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "82",
@@ -744,7 +744,7 @@
         "Абзац": "Зеленська Галина Олексіївна",
         "Фото": "./assets/images/teachers/10.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Зеленська Галина Олексіївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Зеленська Галина Олексіївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "83",
@@ -753,7 +753,7 @@
         "Абзац": "Зеленська Наталія Василівна",
         "Фото": "./assets/images/teachers/11.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Зеленська Наталія Василівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Зеленська Наталія Василівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "84",
@@ -762,7 +762,7 @@
         "Абзац": "Івахненко Олександр Миколайович",
         "Фото": "./assets/images/teachers/36.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Івахненко Олександр Миколайович&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Івахненко Олександр Миколайович&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "85",
@@ -771,7 +771,7 @@
         "Абзац": "Івашута Наталія Михайлівна",
         "Фото": "./assets/images/teachers/60.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Івашута Наталія Михайлівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Івашута Наталія Михайлівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "86",
@@ -780,7 +780,7 @@
         "Абзац": "Йовенко Олена Василівна",
         "Фото": "./assets/images/teachers/49.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Йовенко Олена Василівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Йовенко Олена Василівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "87",
@@ -789,7 +789,7 @@
         "Абзац": "Йовенко Юлія Вікторівна",
         "Фото": "./assets/images/woman.png",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Йовенко Юлія Вікторівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Йовенко Юлія Вікторівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "88",
@@ -798,7 +798,7 @@
         "Абзац": "Кононенко Валентина Григорівна",
         "Фото": "./assets/images/woman.png",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Кононенко Валентина Григорівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Кононенко Валентина Григорівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "89",
@@ -807,7 +807,7 @@
         "Абзац": "Кононенко Ольга Іванівна",
         "Фото": "./assets/images/teachers/14.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Кононенко Ольга Іванівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Кононенко Ольга Іванівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "90",
@@ -816,7 +816,7 @@
         "Абзац": "Корж Ірина Миколаївна",
         "Фото": "./assets/images/teachers/38.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Корж Ірина Миколаївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Корж Ірина Миколаївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "91",
@@ -825,7 +825,7 @@
         "Абзац": "Корявець Лариса Володимирівна",
         "Фото": "./assets/images/teachers/koravec.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Корявець Лариса Володимирівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Корявець Лариса Володимирівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "92",
@@ -834,7 +834,7 @@
         "Абзац": "Коса Тетяна Михайлівна",
         "Фото": "./assets/images/woman.png",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Коса Тетяна Михайлівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Коса Тетяна Михайлівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "93",
@@ -843,7 +843,7 @@
         "Абзац": "Лапко Юлія Миколаївна",
         "Фото": "./assets/images/teachers/17.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Лапко Юлія Миколаївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Лапко Юлія Миколаївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "94",
@@ -852,7 +852,7 @@
         "Абзац": "Лавренець Юлія Миколаївна",
         "Фото": "./assets/images/teachers/16.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Лавренець Юлія Миколаївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Лавренець Юлія Миколаївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "95",
@@ -861,7 +861,7 @@
         "Абзац": "Литвякова Наталія Вікторівна",
         "Фото": "./assets/images/teachers/52.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Литвякова Наталія Вікторівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Литвякова Наталія Вікторівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "96",
@@ -870,7 +870,7 @@
         "Абзац": "Літушко Ірена Миколаївна",
         "Фото": "./assets/images/teachers/litushko.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Літушко Ірена Миколаївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Літушко Ірена Миколаївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "97",
@@ -879,7 +879,7 @@
         "Абзац": "Лопата Олена Миколаївна",
         "Фото": "./assets/images/teachers/50.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Лопата Олена Миколаївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Лопата Олена Миколаївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "98",
@@ -888,7 +888,7 @@
         "Абзац": "Мартинова Юлія Сергіївна",
         "Фото": "./assets/images/teachers/martinova.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Мартинова Юлія Сергіївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Мартинова Юлія Сергіївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "99",
@@ -897,7 +897,7 @@
         "Абзац": "Мацвійко Валентина Володимирівна",
         "Фото": "./assets/images/teachers/18.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Мацвійко Валентина Володимирівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Мацвійко Валентина Володимирівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "100",
@@ -906,7 +906,7 @@
         "Абзац": "Мельник Валентина Михайлівна",
         "Фото": "./assets/images/teachers/59.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Мельник Валентина Михайлівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Мельник Валентина Михайлівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "101",
@@ -915,7 +915,7 @@
         "Абзац": "Міна Алла Миколаївна",
         "Фото": "./assets/images/teachers/21.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Міна Алла Миколаївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Міна Алла Миколаївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "102",
@@ -924,7 +924,7 @@
         "Абзац": "Мозоль Олена Володимирівна",
         "Фото": "./assets/images/teachers/19.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Мозоль Олена Володимирівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Мозоль Олена Володимирівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "103",
@@ -933,7 +933,7 @@
         "Абзац": "Мурза Світлана Миколаївна",
         "Фото": "./assets/images/teachers/20.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Мурза Світлана Миколаївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Мурза Світлана Миколаївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "104",
@@ -969,7 +969,7 @@
         "Абзац": "Критерії оцінювання",
         "Фото": "./assets/images/kri.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Критерії%20оцінювання&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=Критерії%20оцінювання&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "108",
@@ -987,7 +987,7 @@
         "Абзац": "Методична робота",
         "Фото": "./assets/images/mo.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Методична%20робота%20в%20закладі&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=Методична%20робота%20в%20закладі&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "110",
@@ -996,7 +996,7 @@
         "Абзац": "Інновації",
         "Фото": "./assets/icons/inno.png",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Інновації&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=Інновації&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "111",
@@ -1005,7 +1005,7 @@
         "Абзац": "Законодавство",
         "Фото": "./assets/icons/law.png",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Законодавство&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=Законодавство&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "112",
@@ -1050,7 +1050,7 @@
         "Абзац": "Атестація педагогічних працівників 2024-2025 н.р.",
         "Фото": "./assets/images/mo.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Атестація%20педагогічних%20працівників%202024-2025%20н.р.&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=Атестація%20педагогічних%20працівників%202024-2025%20н.р.&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "117",
@@ -1059,7 +1059,7 @@
         "Абзац": "Атестація педагогічних працівників 2023-2024 н.р.",
         "Фото": "./assets/images/mo.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Атестація%20педагогічних%20працівників%202023-2024%20н.р.&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=Атестація%20педагогічних%20працівників%202023-2024%20н.р.&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "118",
@@ -1149,7 +1149,7 @@
         "Абзац": "Підручники",
         "Фото": "./assets/images/books.png",
         "Ширина малюнка (%)": "50",
-        "Кнопка з посиланням": "./page.html?titlePages=Вибори%20підручників%20та%20посібників&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=Вибори%20підручників%20та%20посібників&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "128",
@@ -1275,7 +1275,7 @@
         "Абзац": "Футбол",
         "Фото": "http://drive.google.com/uc?export=view&id=1pd4VQtQ5PgOkYcV0YMyJoESEggfh6uDE",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Футбол&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=Футбол&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "142",
@@ -1284,7 +1284,7 @@
         "Абзац": "Волейбол",
         "Фото": "http://drive.google.com/uc?export=view&id=1qo71Q-O57CuiVEwxSEQOur0pAIW9L7sG",
         "Ширина малюнка (%)": "50",
-        "Кнопка з посиланням": "./page.html?titlePages=Волейбол&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=Волейбол&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "143",
@@ -1293,7 +1293,7 @@
         "Абзац": "Рукопашний бій",
         "Фото": "http://drive.google.com/uc?export=view&id=1E3chtBwFzbL3uu3lOflT3tCQf-egS7DC",
         "Ширина малюнка (%)": "50",
-        "Кнопка з посиланням": "./page.html?titlePages=Рукопашний%20бій&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=Рукопашний%20бій&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "144",
@@ -1410,7 +1410,7 @@
         "Абзац": "Курінь ім. Ігоря Сніжка",
         "Фото": "./img-pages/kurin.png",
         "Ширина малюнка (%)": "50",
-        "Кнопка з посиланням": "./page.html?titlePages=Курінь ім. Ігоря Сніжка&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=Курінь ім. Ігоря Сніжка&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "157",
@@ -1419,7 +1419,7 @@
         "Абзац": "Ігор Сергійович Сніжок",
         "Фото": "./img-pages/snigok.jpeg",
         "Ширина малюнка (%)": "50",
-        "Кнопка з посиланням": "./page.html?titlePages=Біографія Ігоря Сніжка&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=Біографія Ігоря Сніжка&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "158",
@@ -1428,7 +1428,7 @@
         "Абзац": "Символи куреня",
         "Фото": "./img-pages/kurin.png",
         "Ширина малюнка (%)": "50",
-        "Кнопка з посиланням": "./page.html?titlePages=Символи куреня&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=Символи куреня&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "159",
@@ -1464,7 +1464,7 @@
         "Абзац": "Учительська",
         "Фото": "./assets/images/mo.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Учительська&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=Учительська&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "163",
@@ -1473,7 +1473,7 @@
         "Абзац": "Нагороди",
         "Фото": "./img-pages/vivat.png",
         "Ширина малюнка (%)": "50",
-        "Кнопка з посиланням": "./page.html?titlePages=Нагороди&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=Нагороди&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "164",
@@ -1491,7 +1491,7 @@
         "Абзац": "Рій \"Куликівські соколи\"",
         "Фото": "./img-pages/sokol.png",
         "Ширина малюнка (%)": "50",
-        "Кнопка з посиланням": "./page.html?titlePages=Добрі%20справи&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=Добрі%20справи&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "166",
@@ -1500,7 +1500,7 @@
         "Абзац": "Рій \"Козацька воля\"",
         "Фото": "./img-pages/vola.png",
         "Ширина малюнка (%)": "50",
-        "Кнопка з посиланням": "./page.html?titlePages=Добрі%20справи%20рою&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=Добрі%20справи%20рою&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "167",
@@ -1626,7 +1626,7 @@
         "Абзац": "Рій \"Червона калина\"",
         "Фото": "./assets/images/cherkalina.png",
         "Ширина малюнка (%)": "50",
-        "Кнопка з посиланням": "./page.html?titlePages=Рій%20Червона%20калина&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=Рій%20Червона%20калина&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "181",
@@ -1644,7 +1644,7 @@
         "Абзац": "Ніколаєнко Юлія Олександрівна",
         "Фото": "./assets/images/teachers/42.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Ніколаєнко Юлія Олександрівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Ніколаєнко Юлія Олександрівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "183",
@@ -1653,7 +1653,7 @@
         "Абзац": "Оснач Лариса Миколаївна",
         "Фото": "./assets/images/woman.png",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Оснач Лариса Миколаївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Оснач Лариса Миколаївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "184",
@@ -1662,7 +1662,7 @@
         "Абзац": "Орсагош Руслан Ілліч",
         "Фото": "./assets/images/man.png",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Орсагош Руслан Ілліч&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Орсагош Руслан Ілліч&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "185",
@@ -1671,7 +1671,7 @@
         "Абзац": "Парандич Любов Олександрівна",
         "Фото": "./assets/images/teachers/22.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Парандич Любов Олександрівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Парандич Любов Олександрівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "186",
@@ -1680,7 +1680,7 @@
         "Абзац": "Передерій Олена Пилипівна",
         "Фото": "./assets/images/teachers/perederiy.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Передерій Олена Пилипівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Передерій Олена Пилипівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "187",
@@ -1689,7 +1689,7 @@
         "Абзац": "Пилипенко Лариса Віталіївна",
         "Фото": "./assets/images/teachers/44.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Пилипенко Лариса Віталіївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Пилипенко Лариса Віталіївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "188",
@@ -1698,7 +1698,7 @@
         "Абзац": "Пилипенко Ольга Павлівна",
         "Фото": "./assets/images/teachers/46.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Пилипенко Ольга Павлівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Пилипенко Ольга Павлівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "189",
@@ -1707,7 +1707,7 @@
         "Абзац": "Пильник Світлана Володимирівна",
         "Фото": "./assets/images/woman.png",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Пильник Світлана Володимирівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Пильник Світлана Володимирівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "190",
@@ -1716,7 +1716,7 @@
         "Абзац": "Плеса Інна Вікторівна",
         "Фото": "./assets/images/teachers/56.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Плеса Інна Вікторівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Плеса Інна Вікторівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "191",
@@ -1725,7 +1725,7 @@
         "Абзац": "Прищепа Ольга Григорівна",
         "Фото": "./assets/images/teachers/24.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Прищепа Ольга Григорівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Прищепа Ольга Григорівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "192",
@@ -1734,7 +1734,7 @@
         "Абзац": "Ревко Алла Олександрівна",
         "Фото": "./assets/images/teachers/43.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Ревко Алла Олександрівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Ревко Алла Олександрівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "193",
@@ -1743,7 +1743,7 @@
         "Абзац": "Савченко Алла Іванівна",
         "Фото": "./assets/images/teachers/33.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Савченко Алла Іванівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Савченко Алла Іванівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "194",
@@ -1752,7 +1752,7 @@
         "Абзац": "Савчук Любов Василівна",
         "Фото": "./assets/images/teachers/savchuk.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Савчук Любов Василівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Савчук Любов Василівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "195",
@@ -1761,7 +1761,7 @@
         "Абзац": "Сало Алла Володимирівна",
         "Фото": "./assets/images/teachers/25.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Сало Алла Володимирівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Сало Алла Володимирівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "196",
@@ -1770,7 +1770,7 @@
         "Абзац": "Саповець Ніна Василівна",
         "Фото": "./assets/images/teachers/sapovec.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Саповець Ніна Василівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Саповець Ніна Василівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "197",
@@ -1779,7 +1779,7 @@
         "Абзац": "Солодуненко Тетяна Леонідівна",
         "Фото": "./assets/images/teachers/54.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Солодуненко Тетяна Леонідівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Солодуненко Тетяна Леонідівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "198",
@@ -1788,7 +1788,7 @@
         "Абзац": "Сом Тетяна Миколаївна",
         "Фото": "./assets/images/teachers/51.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Сом Тетяна Миколаївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Сом Тетяна Миколаївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "199",
@@ -1797,7 +1797,7 @@
         "Абзац": "Тарасенко Олена Миколаївна",
         "Фото": "./assets/images/teachers/26.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Тарасенко Олена Миколаївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Тарасенко Олена Миколаївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "200",
@@ -1806,7 +1806,7 @@
         "Абзац": "Таценко Світлана Вікторівна",
         "Фото": "./assets/images/teachers/31.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Таценко Світлана Вікторівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Таценко Світлана Вікторівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "201",
@@ -1815,7 +1815,7 @@
         "Абзац": "Титаренко Альона Сергіївна",
         "Фото": "./assets/images/teachers/55.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Титаренко Альона Сергіївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Титаренко Альона Сергіївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "202",
@@ -1824,7 +1824,7 @@
         "Абзац": "Ткаченко Ярина  Василівна",
         "Фото": "./assets/images/woman.png",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Ткаченко Ярина  Василівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Ткаченко Ярина  Василівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "203",
@@ -1833,7 +1833,7 @@
         "Абзац": "Турченяк Ліна Петрівна",
         "Фото": "./assets/images/teachers/27.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Турченяк Ліна Петрівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Турченяк Ліна Петрівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "204",
@@ -1842,7 +1842,7 @@
         "Абзац": "Халімон Олександр Анатолійович",
         "Фото": "./assets/images/teachers/53.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Халімон Олександр Анатолійович&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Халімон Олександр Анатолійович&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "205",
@@ -1851,7 +1851,7 @@
         "Абзац": "Чава Марія Омелянівна",
         "Фото": "./assets/images/teachers/57.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Чава Марія Омелянівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Чава Марія Омелянівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "206",
@@ -1860,7 +1860,7 @@
         "Абзац": "Чава Сергій Анатолійович",
         "Фото": "./assets/images/teachers/48.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Чава Сергій Анатолійович&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Чава Сергій Анатолійович&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "207",
@@ -1869,7 +1869,7 @@
         "Абзац": "Чала Світлана Борисівна",
         "Фото": "./assets/images/teachers/chala.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Чала Світлана Борисівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Чала Світлана Борисівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "208",
@@ -1878,7 +1878,7 @@
         "Абзац": "Шемендюк Любов Іванівна",
         "Фото": "./assets/images/teachers/28.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Шемендюк Любов Іванівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Шемендюк Любов Іванівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "209",
@@ -1887,7 +1887,7 @@
         "Абзац": "Шиш Наталія Василівна",
         "Фото": "./assets/images/teachers/32.jpg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Шиш Наталія Василівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Шиш Наталія Василівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "210",
@@ -1914,7 +1914,7 @@
         "Абзац": "Ющенко Ольга Сергіївна",
         "Фото": "./assets/images/woman.png",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Ющенко Ольга Сергіївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Ющенко Ольга Сергіївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "213",
@@ -1923,7 +1923,7 @@
         "Абзац": "<p></p>\n<div style=\"width:1200px;text-align:center;font-size:22px;\"line-height: 1.4; color:#545454;font-family: georgia, palatino, serif;\">Центр позашкільної освіти</div>",
         "Фото": "",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "#"
+        "Кнопка з посиланням": "./page?titlePages=<p></p>\n<div style=\"width:1200px;text-align:center;font-size:22px;\"line-height: 1.4; color:#545454;font-family: georgia, palatino, serif;\">Центр позашкільної освіти</div>&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "214",
@@ -1932,7 +1932,7 @@
         "Абзац": "Дорохова Олена Василівна",
         "Фото": "./assets/images/woman.png",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Дорохова Олена Василівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Дорохова Олена Василівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "215",
@@ -1941,7 +1941,7 @@
         "Абзац": "Савенко Лариса Ростиславівна",
         "Фото": "./assets/images/woman.png",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Савенко Лариса Ростиславівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Савенко Лариса Ростиславівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "216",
@@ -1950,7 +1950,7 @@
         "Абзац": "Башта Алла Миколаївна",
         "Фото": "./assets/images/woman.png",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Башта Алла Миколаївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Башта Алла Миколаївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "217",
@@ -1959,7 +1959,7 @@
         "Абзац": "Борисова Юлія Дмитрівна",
         "Фото": "./assets/images/woman.png",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Борисова Юлія Дмитрівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Борисова Юлія Дмитрівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "218",
@@ -1968,7 +1968,7 @@
         "Абзац": "Вишненко Діана Петрівна",
         "Фото": "./assets/images/woman.png",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Вишненко Діана Петрівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Вишненко Діана Петрівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "219",
@@ -1977,7 +1977,7 @@
         "Абзац": "Дєдков Віталій Іванович",
         "Фото": "./assets/images/man.png",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Дєдков Віталій Іванович&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Дєдков Віталій Іванович&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "220",
@@ -1986,7 +1986,7 @@
         "Абзац": "Оснач Лариса Миколаївна",
         "Фото": "./assets/images/woman.png",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Оснач Лариса Миколаївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Оснач Лариса Миколаївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "221",
@@ -1995,7 +1995,7 @@
         "Абзац": "Федоренко Юрій Михайлович",
         "Фото": "./assets/images/man.png",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Федоренко Юрій Михайлович&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Федоренко Юрій Михайлович&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "222",
@@ -2004,7 +2004,7 @@
         "Абзац": "Бабак Володимир Григорович",
         "Фото": "./assets/images/man.png",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Бабак Володимир Григорович&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Бабак Володимир Григорович&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "223",
@@ -2013,7 +2013,7 @@
         "Абзац": "Борисова Наталія Сергіївна",
         "Фото": "./assets/images/woman.png",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Борисова Наталія Сергіївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Борисова Наталія Сергіївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "224",
@@ -2022,7 +2022,7 @@
         "Абзац": "Безкоровайна Алла Михайлівна",
         "Фото": "./assets/images/woman.png",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Безкоровайна Алла Михайлівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Безкоровайна Алла Михайлівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "225",
@@ -2031,7 +2031,7 @@
         "Абзац": "Парандич Любов Олександрівна",
         "Фото": "./assets/images/woman.png",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Парандич Любов Олександрівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Парандич Любов Олександрівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "226",
@@ -2040,7 +2040,7 @@
         "Абзац": "Пилипенко Лариса Віталіївна",
         "Фото": "./assets/images/woman.png",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Пилипенко Лариса Віталіївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Пилипенко Лариса Віталіївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "227",
@@ -2049,7 +2049,7 @@
         "Абзац": "Труба Світлана Петрівна",
         "Фото": "./assets/images/woman.png",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Труба Світлана Петрівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Труба Світлана Петрівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "228",
@@ -2058,7 +2058,7 @@
         "Абзац": "Купріян Людмила Володимирівна",
         "Фото": "./assets/images/woman.png",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page.html?titlePages=Купріян Людмила Володимирівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
+        "Кнопка з посиланням": "./page?titlePages=Купріян Людмила Володимирівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
     {
         "id": "229",
@@ -2598,7 +2598,7 @@
         "Абзац": "«Сокіл» («Джура») 2021",
         "Фото": "./assets/images/dj.jpg",
         "Ширина малюнка (%)": "50",
-        "Кнопка з посиланням": "./page.html?titlePages=«Сокіл» («Джура»)&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=«Сокіл» («Джура»)&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "289",
@@ -2607,7 +2607,7 @@
         "Абзац": "«Сокіл» («Джура») 2022",
         "Фото": "./assets/images/dj.jpg",
         "Ширина малюнка (%)": "50",
-        "Кнопка з посиланням": "./page.html?titlePages=«Сокіл» («Джура») 2022&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=«Сокіл» («Джура») 2022&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "290",
@@ -2616,7 +2616,7 @@
         "Абзац": "«Сокіл» («Джура») 2023",
         "Фото": "./assets/images/dj.jpg",
         "Ширина малюнка (%)": "50",
-        "Кнопка з посиланням": "./page.html?titlePages=«Сокіл» («Джура») 2023&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=«Сокіл» («Джура») 2023&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "291",
@@ -2625,7 +2625,7 @@
         "Абзац": "«Сокіл» («Джура») 2024",
         "Фото": "./assets/images/dj.jpg",
         "Ширина малюнка (%)": "50",
-        "Кнопка з посиланням": "./page.html?titlePages=«Сокіл» («Джура») 2024&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=«Сокіл» («Джура») 2024&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "292",
@@ -2634,7 +2634,7 @@
         "Абзац": "«Сокіл» («Джура») 2025",
         "Фото": "./assets/images/dj.jpg",
         "Ширина малюнка (%)": "50",
-        "Кнопка з посиланням": "./page.html?titlePages=«Сокіл» («Джура») 2025&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=«Сокіл» («Джура») 2025&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "293",
