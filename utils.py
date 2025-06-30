@@ -74,6 +74,8 @@ def extract_drive_file_id(url: str) -> str:
         return url.split("/d/")[1].split("/view")[0]
     elif url.startswith("https://drive.google.com/uc?export=download&id="):
         return url.split("id=")[-1]
+    elif url.startswith("http://drive.google.com/uc?export=view&id="):
+        return url.split("id=")[-1]
     elif url.startswith("https://drive.google.com/drive/folders/"):
         return url.split("folders/")[-1]
     elif url.startswith("https://docs.google.com/spreadsheets/d/e/"):
