@@ -1239,7 +1239,7 @@
         "Абзац": "Модельні навчальні програми",
         "Фото": "./img-pages/model-pr.jpeg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "/site/page.html?titlePages=Модельні%20навчальні%20програми&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=Модельні%20навчальні%20програми&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "138",
@@ -2139,7 +2139,7 @@
         "Абзац": "Кадровий склад закладу освіти згідно з ліцензійними умовами",
         "Фото": "",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "/site/page.html?titlePages=Учительська&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=Учительська&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "238",
@@ -2166,7 +2166,7 @@
         "Абзац": "Ліцензований обсяг та фактична кількість осіб, які навчаються у закладі освіти",
         "Фото": "",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "/site/page.html?titlePages=Ліцензований%20обсяг%20та%20фактична%20кількість%20осіб,%20які%20навчаються%20у%20закладі%20освіти&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=Ліцензований%20обсяг%20та%20фактична%20кількість%20осіб,%20які%20навчаються%20у%20закладі%20освіти&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "241",
@@ -2193,7 +2193,7 @@
         "Абзац": "Матеріально-технічне забезпечення закладу освіти (згідно з ліцензійними умовами)",
         "Фото": "",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "/site/page.html?titlePages=Матеріально-технічна%20база%20закладу&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=Матеріально-технічна%20база%20закладу&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "244",
@@ -2238,7 +2238,7 @@
         "Абзац": "План заходів, спрямованих на запобігання та протидію булінгу в закладі освіти",
         "Фото": "",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "/site/page.html?titlePages=%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B4%D1%96%D1%8F%20%D0%B1%D1%83%D0%BB%D1%96%D0%BD%D0%B3%D1%83&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B4%D1%96%D1%8F%20%D0%B1%D1%83%D0%BB%D1%96%D0%BD%D0%B3%D1%83&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "249",
@@ -2247,7 +2247,7 @@
         "Абзац": "Порядок подання та розгляду (з дотриманням конфіденційності) заяв про випадки булінгу в закладі освіти",
         "Фото": "",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "/site/page.html?titlePages=%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B4%D1%96%D1%8F%20%D0%B1%D1%83%D0%BB%D1%96%D0%BD%D0%B3%D1%83&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B4%D1%96%D1%8F%20%D0%B1%D1%83%D0%BB%D1%96%D0%BD%D0%B3%D1%83&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "250",
@@ -2373,7 +2373,7 @@
         "Абзац": "Кадровий склад закладу освіти згідно з ліцензійними умовами",
         "Фото": "./assets/icons/docum.svg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "/site/page.html?titlePages=Учительська&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=Учительська&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "264",
@@ -2400,7 +2400,7 @@
         "Абзац": "Ліцензований обсяг та фактична кількість осіб, які навчаються у закладі освіти",
         "Фото": "./assets/icons/docum.svg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "/site/page.html?titlePages=Ліцензований%20обсяг%20та%20фактична%20кількість%20осіб,%20які%20навчаються%20у%20закладі%20освіти&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=Ліцензований%20обсяг%20та%20фактична%20кількість%20осіб,%20які%20навчаються%20у%20закладі%20освіти&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "267",
@@ -2427,7 +2427,7 @@
         "Абзац": "Матеріально-технічне забезпечення закладу освіти (згідно з ліцензійними умовами)",
         "Фото": "./assets/icons/docum.svg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "/site/page.html?titlePages=Матеріально-технічна%20база%20закладу&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=Матеріально-технічна%20база%20закладу&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "270",
@@ -2472,7 +2472,7 @@
         "Абзац": "План заходів, спрямованих на запобігання та протидію булінгу в закладі освіти",
         "Фото": "./assets/icons/docum.svg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "/site/page.html?titlePages=%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B4%D1%96%D1%8F%20%D0%B1%D1%83%D0%BB%D1%96%D0%BD%D0%B3%D1%83&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B4%D1%96%D1%8F%20%D0%B1%D1%83%D0%BB%D1%96%D0%BD%D0%B3%D1%83&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "275",
@@ -2481,7 +2481,7 @@
         "Абзац": "Порядок подання та розгляду (з дотриманням конфіденційності) заяв про випадки булінгу в закладі освіти",
         "Фото": "./assets/icons/docum.svg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "/site/page.html?titlePages=%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B4%D1%96%D1%8F%20%D0%B1%D1%83%D0%BB%D1%96%D0%BD%D0%B3%D1%83&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B4%D1%96%D1%8F%20%D0%B1%D1%83%D0%BB%D1%96%D0%BD%D0%B3%D1%83&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "276",
@@ -2499,7 +2499,7 @@
         "Абзац": "Закупівлі",
         "Фото": "./assets/icons/docum.svg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "/site/page.html?titlePages=Закупівлі&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+        "Кнопка з посиланням": "./page?titlePages=Закупівлі&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "278",
