@@ -957,7 +957,7 @@
         "id": "106",
         "Розділ": "Критерії оцінювання",
         "Тип (1 - картки, 2- абзаци)": "",
-        "Абзац": "<p><a href=\"https://mon.gov.ua/npa/pro-zatverdzhennia-rekomendatsii-shchodo-otsiniuvannia-rezultativ-navchannia\"  _target=\"blank\">\nКритерії оцінювання 5-9 класи (НУШ)</a></p>",
+        "Абзац": "<p><a href=\"https://mon.gov.ua/npa/pro-zatverdzhennia-rekomendatsii-shchodo-otsiniuvannia-rezultativ-navchannia\"  target=\"_blank\">\nКритерії оцінювання 5-9 класи (НУШ)</a></p>",
         "Фото": "",
         "Ширина малюнка (%)": "",
         "Кнопка з посиланням": "https://mon.gov.ua/npa/pro-zatverdzhennia-rekomendatsii-shchodo-otsiniuvannia-rezultativ-navchannia"
@@ -966,7 +966,7 @@
         "id": "107",
         "Розділ": "Критерії оцінювання",
         "Тип (1 - картки, 2- абзаци)": "",
-        "Абзац": "<p><a href=\"https://osvita.ua/school/estimation/\" _target=\"blank\">\nКритерії оцінювання 9-11 класи (не НУШ)</a></p>",
+        "Абзац": "<p><a href=\"https://osvita.ua/school/estimation/\" target=\"_blank\">\nКритерії оцінювання 9-11 класи (не НУШ)</a></p>",
         "Фото": "",
         "Ширина малюнка (%)": "",
         "Кнопка з посиланням": "https://zakon.rada.gov.ua/laws/show/z0566-11#Text"
