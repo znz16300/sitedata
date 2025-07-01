@@ -9,7 +9,7 @@ if __name__ == "__main__":
     # Teachers
     # utils.getTable('15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc')
     # News
-    # utils.getTable('1Dk0WYpOKeRoDATgzMkIkFjUcFwNAG5MRn4W7bEyzd0M')
+    utils.getTable('1Dk0WYpOKeRoDATgzMkIkFjUcFwNAG5MRn4W7bEyzd0M')
     # Documents
     # utils.getTable('1O_bJjH8TAHww34uxA51rdyJoX4PaxMGOzL57N8G7H34')
 
