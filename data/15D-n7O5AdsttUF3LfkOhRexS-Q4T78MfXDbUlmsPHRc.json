@@ -3,7 +3,7 @@
         "id": "0",
         "Розділ": "Орсагош Оксана Валеріївна",
         "Тип (1 - картки, 2- абзаци)": "3",
-        "Абзац": "<div style=\"display: flex; gap: 8px; flex-direction: wrap;\"><div><img style=\"margin-bottom: 12px; \" src=\"/assets/images/teachers-l/director.jpg\"></div><div><strong>Посада: </strong>Директор<br><strong>Навчальний заклад: </strong>ЧДПУ, 2001<br><strong>Спеціальність за дипломом: </strong>Історія та українозн.<br><strong>Педагогічний стаж: </strong>19 р.<br><strong>Кваліфікація та звання: </strong>Вища категорія 2024<br><strong>Предмети, що викладає: </strong><br><strong>Нагороди: </strong>Грамота ВО Куликівської РДА (2012)<br><br></div></div>",
+        "Абзац": "<div style=\"display: flex; gap: 8px; flex-direction: wrap;\"><img style=\"display:block; margin-bottom: 12px; \" src=\"/assets/images/teachers-l/director.jpg\"><div><strong>Посада: </strong>Директор<br><strong>Навчальний заклад: </strong>ЧДПУ, 2001<br><strong>Спеціальність за дипломом: </strong>Історія та українозн.<br><strong>Педагогічний стаж: </strong>19 р.<br><strong>Кваліфікація та звання: </strong>Вища категорія 2024<br><strong>Предмети, що викладає: </strong><br><strong>Нагороди: </strong>Грамота ВО Куликівської РДА (2012)<br><br></div></div>",
         "Фото": "/assets/images/teachers-l/director.jpg",
         "Ширина малюнка (%)": "30",
         "Кнопка з посиланням": "",
