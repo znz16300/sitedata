@@ -4,6 +4,7 @@ import utils
 if __name__ == "__main__":
     # Pages
     utils.getTable('1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI')
+    utils.getTable('12tqoeJpUs1qa9paI7YuMpZ17nynq44-qqmn0zgoEup4')
     # Menu
     # utils.getTable('1G1l3J4HHLOItVLYbrPL08ml3TtON_fAULcpecqn0vwM')
     # Teachers
