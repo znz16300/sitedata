@@ -1,5 +1,7 @@
 #!/bin/bash
 
+source venv/bin/activate
+
 # Запускаємо Python скрипт
 python3 main.py
 
