@@ -1669,7 +1669,7 @@
         "Розділ": "Учительська",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Пономаренко Тетяна Олексіївна",
-        "Фото": "./assets/images/woman.png",
+        "Фото": "https://znz16300.github.io/sitedata/images/ponomarenko.jpg",
         "Ширина малюнка (%)": "",
         "Кнопка з посиланням": "./page?titlePages=Пономаренко Тетяна Олексіївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
@@ -1741,7 +1741,7 @@
         "Розділ": "Учительська",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Степанець Вероніка Юріївна",
-        "Фото": "./assets/images/woman.png",
+        "Фото": "https://znz16300.github.io/sitedata/images/stepanec.jpg",
         "Ширина малюнка (%)": "",
         "Кнопка з посиланням": "./page?titlePages=Степанець Вероніка Юріївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
