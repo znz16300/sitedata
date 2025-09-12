@@ -1435,7 +1435,7 @@
         "Розділ": "Робота з дітьми з ООП",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Модифіковані програми для здобувачів освіти з ООП",
-        "Фото": "./assets/images/oop.png",
+        "Фото": "./sitedata/images/oop.png",
         "Ширина малюнка (%)": "",
         "Кнопка з посиланням": "https://drive.google.com/drive/folders/1nfC1nURmaFgQPuu_3lLgwS7uphiOxgW4?usp=sharing"
     },
