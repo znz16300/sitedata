@@ -1111,7 +1111,7 @@
         "Розділ": "Діяльність",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Робота з дітьми з ООП",
-        "Фото": "./assets/images/oop.png",
+        "Фото": "./sitedata/images/oop.png",
         "Ширина малюнка (%)": "",
         "Кнопка з посиланням": "./page?titlePages=Робота%20з%20дітьми%20з%20ООП&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
