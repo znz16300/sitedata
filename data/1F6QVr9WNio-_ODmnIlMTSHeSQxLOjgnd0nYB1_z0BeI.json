@@ -1984,7 +1984,7 @@
         "Розділ": "Учительська",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Федоренко Юрій Михайлович",
-        "Фото": "./assets/images/man.png",
+        "Фото": "https://znz16300.github.io/sitedata/images/fedor.jpg",
         "Ширина малюнка (%)": "",
         "Кнопка з посиланням": "./page?titlePages=Федоренко Юрій Михайлович&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
