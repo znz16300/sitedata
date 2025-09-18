@@ -515,23 +515,14 @@
     {
         "id": "57",
         "Розділ": "Академічна доброчесність",
-        "Тип (1 - картки, 2- абзаци)": "1",
-        "Абзац": "Академічна доброчесність",
-        "Фото": "https://drive.google.com/file/d/1ZswA8MJ99AXuyVMyI5NVQz81-XaQB5zV/view?usp=sharing",
+        "Тип (1 - картки, 2- абзаци)": "",
+        "Абзац": "<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://znz16300.github.io/sitedata/images/1.jpg\" alt=\"\" width=\"800\"></p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://znz16300.github.io/sitedata/images/2.png\" alt=\"\" width=\"800\"></p>",
+        "Фото": "",
         "Ширина малюнка (%)": "",
         "Кнопка з посиланням": ""
     },
     {
         "id": "58",
-        "Розділ": "Академічна доброчесність",
-        "Тип (1 - картки, 2- абзаци)": "1",
-        "Абзац": "Академічна доброчесність",
-        "Фото": "https://drive.google.com/file/d/1XPw3v1aaOeni6ylvMSX0BK0MQ6MQ1bSA/view?usp=sharing",
-        "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": ""
-    },
-    {
-        "id": "59",
         "Розділ": "Публічна інформація",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Атестація педагогічних працівників",
@@ -540,7 +531,7 @@
         "Кнопка з посиланням": "./page.html?titlePages=Атестація%20педагогічних%20працівників%202024-2025%20н.р.&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
-        "id": "60",
+        "id": "59",
         "Розділ": "Всеукраїнські олімпіади ІІ етап",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "2021-2022 н.р.",
@@ -549,7 +540,7 @@
         "Кнопка з посиланням": "https://drive.google.com/drive/folders/1dOy7-Q5FQVit2NF4523xyTjAcqB4dlGA?usp=sharing"
     },
     {
-        "id": "61",
+        "id": "60",
         "Розділ": "Всеукраїнські олімпіади ІІ етап",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "2022-2023 н.р.",
@@ -558,7 +549,7 @@
         "Кнопка з посиланням": "https://drive.google.com/drive/folders/1ef__l9PhA61BJR4EdQ0Q-FkbLnOnckRO?usp=sharing"
     },
     {
-        "id": "62",
+        "id": "61",
         "Розділ": "Всеукраїнські олімпіади ІІ етап",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "2023-2024 н.р.",
@@ -567,7 +558,7 @@
         "Кнопка з посиланням": "https://drive.google.com/drive/folders/17MpFM0yI_jNtLFGgvoqYicf17DzsU8pr?usp=sharing"
     },
     {
-        "id": "63",
+        "id": "62",
         "Розділ": "Всеукраїнські олімпіади ІІ етап",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Раніше",
@@ -576,7 +567,7 @@
         "Кнопка з посиланням": "https://drive.google.com/drive/folders/1dveiTtWveHc-pJwu195tZKjrlixoLo2Y?usp=sharing"
     },
     {
-        "id": "64",
+        "id": "63",
         "Розділ": "Всеукраїнські олімпіади ІІІ етап",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "2023-2024 н.р.",
@@ -585,7 +576,7 @@
         "Кнопка з посиланням": "/page?titlePages=2023-2024 н.р.&keyPages=12tqoeJpUs1qa9paI7YuMpZ17nynq44-qqmn0zgoEup4"
     },
     {
-        "id": "65",
+        "id": "64",
         "Розділ": "Всеукраїнські олімпіади ІІІ етап",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "к. ім. Яцика",
@@ -594,7 +585,7 @@
         "Кнопка з посиланням": "https://docs.google.com/document/d/1gJkANwGN1BVFH_IUYZjU5ufuL7E0Dor1"
     },
     {
-        "id": "66",
+        "id": "65",
         "Розділ": "Всеукраїнські олімпіади ІІІ етап",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Українська мова та література",
@@ -603,7 +594,7 @@
         "Кнопка з посиланням": "https://docs.google.com/document/d/1gf72TRawnYXC8bStDt2mbKCYB3lU6bMT"
     },
     {
-        "id": "67",
+        "id": "66",
         "Розділ": "Всеукраїнські олімпіади ІІІ етап",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Англійська мова",
@@ -612,7 +603,7 @@
         "Кнопка з посиланням": "https://drive.google.com/open?id=1hJjuDQDgS6QKhJfHzOeUw6T8Oyy-0HQd&usp=drive_fs"
     },
     {
-        "id": "68",
+        "id": "67",
         "Розділ": "Всеукраїнські олімпіади ІІІ етап",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Астрономія",
@@ -621,7 +612,7 @@
         "Кнопка з посиланням": "https://drive.google.com/open?id=1hN7yUHgn6aZwGBpz9eijztsr9yzu75mg&usp=drive_fs"
     },
     {
-        "id": "69",
+        "id": "68",
         "Розділ": "Всеукраїнські олімпіади ІІІ етап",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Біологія",
@@ -630,7 +621,7 @@
         "Кнопка з посиланням": "https://drive.google.com/open?id=1hMkZZFXQYoPM6dYvts6pQ725rx8U6au0&usp=drive_fs"
     },
     {
-        "id": "70",
+        "id": "69",
         "Розділ": "Всеукраїнські олімпіади ІІІ етап",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Історія",
@@ -639,7 +630,7 @@
         "Кнопка з посиланням": "https://drive.google.com/open?id=1hNzccpL6RYiDl4tL6q96Zo1KuDgfkIfw&usp=drive_fs"
     },
     {
-        "id": "71",
+        "id": "70",
         "Розділ": "Всеукраїнські олімпіади ІІІ етап",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Фізика",
@@ -648,7 +639,7 @@
         "Кнопка з посиланням": "https://drive.google.com/drive/folders/1iHYhurihObZxjVoENez4fRoskawI5kdZ?usp=sharing"
     },
     {
-        "id": "72",
+        "id": "71",
         "Розділ": "Всеукраїнські олімпіади ІІІ етап",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Правознавство",
@@ -657,7 +648,7 @@
         "Кнопка з посиланням": "https://drive.google.com/drive/folders/1iIBa7hNxDImdq0tLNSktcBRM8S4HDJhE?usp=sharing"
     },
     {
-        "id": "73",
+        "id": "72",
         "Розділ": "Всеукраїнські олімпіади ІІІ етап",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Математика",
@@ -666,7 +657,7 @@
         "Кнопка з посиланням": "https://drive.google.com/drive/folders/1iBTXHcBiSu4bRMzMuPZprIYyFw90_mfB?usp=sharing"
     },
     {
-        "id": "74",
+        "id": "73",
         "Розділ": "Всеукраїнські олімпіади ІІІ етап",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Географія",
@@ -675,7 +666,7 @@
         "Кнопка з посиланням": "https://docs.google.com/document/d/1TMLOncxFMplcrsecOlcb2b5zWMet4wSP/edit?usp=sharing&ouid=107211966436332045560&rtpof=true&sd=true"
     },
     {
-        "id": "75",
+        "id": "74",
         "Розділ": "Публічна інформація",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Кошторис на 2024 рік",
@@ -684,7 +675,7 @@
         "Кнопка з посиланням": "https://drive.google.com/drive/folders/1bZscqs3dMBH1dXlYWP8P2JXpZINBAiZR?usp=sharing"
     },
     {
-        "id": "76",
+        "id": "75",
         "Розділ": "Більше",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Курси",
@@ -693,7 +684,7 @@
         "Кнопка з посиланням": "/page?titlePages=Курси&keyPages=12tqoeJpUs1qa9paI7YuMpZ17nynq44-qqmn0zgoEup4"
     },
     {
-        "id": "77",
+        "id": "76",
         "Розділ": "Курси",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Уведення результатів курсової підготовки",
@@ -702,7 +693,7 @@
         "Кнопка з посиланням": "https://docs.google.com/forms/d/e/1FAIpQLScQf3nU3fBL49wHU7Lg1KCK8RQijuGY6kbGW2TYHPO14YUI8g/viewform"
     },
     {
-        "id": "78",
+        "id": "77",
         "Розділ": "Курси",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Перегляд результатів курсової підготовки",
@@ -711,7 +702,7 @@
         "Кнопка з посиланням": "/kursi"
     },
     {
-        "id": "79",
+        "id": "78",
         "Розділ": "Всеукраїнські олімпіади ІІ етап",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "2024-2025 н.р.",
@@ -720,7 +711,7 @@
         "Кнопка з посиланням": "https://drive.google.com/drive/folders/1JzauAufnDMsyB0ZsuJ8TobVvhvuR5kfD?usp=sharing"
     },
     {
-        "id": "80",
+        "id": "79",
         "Розділ": "Публічна інформація",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Кошторис на 2025 рік",
@@ -729,7 +720,7 @@
         "Кнопка з посиланням": "https://drive.google.com/drive/folders/1j1mc7ERkC4JxddcrbDJvyHgcinZxMjpA?usp=sharing"
     },
     {
-        "id": "81",
+        "id": "80",
         "Розділ": "Публічна інформація",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Фінансовий звіт за 2023 рік",
@@ -738,7 +729,7 @@
         "Кнопка з посиланням": "https://drive.google.com/drive/folders/1-qGZWWSQsuThiO8eOp-0828zhGBU3jnj?usp=sharing"
     },
     {
-        "id": "82",
+        "id": "81",
         "Розділ": "Публічна інформація",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Фінансовий звіт за 2024 рік",
@@ -747,7 +738,7 @@
         "Кнопка з посиланням": "https://drive.google.com/drive/folders/17sytNdRdRpi7g1Tv-lwFB3GSQH9hDT6b?usp=sharing"
     },
     {
-        "id": "83",
+        "id": "82",
         "Розділ": "Публічна інформація",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Участь у проєктах",
@@ -756,7 +747,7 @@
         "Кнопка з посиланням": "https://drive.google.com/file/d/1qmQpBGQtH5zdAnbEzAh6t2KzWywrW_hA/view?usp=sharing"
     },
     {
-        "id": "84",
+        "id": "83",
         "Розділ": "Про ліцей",
         "Тип (1 - картки, 2- абзаци)": "",
         "Абзац": "<h2 style=\"color: #2980b9;\">Загальна інформація</h2>\n<p style=\"margin-bottom: 20px;\">Куликівський ліцей забезпечує початкову, базову, повну загальну середню та позашкільну освіту. У 2024-2025 н.р. у закладі навчалося 799 учнів у 35 класах (середня наповнюваність — 22,5 учні). Ліцей має два підрозділи позашкільної освіти: «Центр позашкільної освіти» (333 вихованці, 19 гуртків) та «Дитячо-юнацька спортивна школа» (165 учнів, 8 спортивних груп).</p>\n\n<h2 style=\"color: #2980b9;\">Педагогічний колектив</h2>\n<p style=\"margin-bottom: 20px;\">У ліцеї працює 94 педагоги з вищою освітою, з них 57 — вищої категорії, 15 — першої, 16 — «старший учитель», 6 — «учитель-методист». Один педагог має звання «Заслужений працівник освіти України». У 2024-2025 н.р. 82 педагоги пройшли 399 курсів підвищення кваліфікації (6948 годин).</p>\n\n<h2 style=\"color: #2980b9;\">Організація освітнього процесу</h2>\n<p style=\"margin-bottom: 20px;\">У 2024-2025 н.р. через брак місць в укриттях (158) 1-4 класи навчалися очно, 5-11 — дистанційно. З ІІ семестру, після будівництва укриття на 1000 осіб, усі класи перейшли на очне навчання. У закладі діяли 6 інклюзивних класів (9 учнів), 8 груп подовженого дня (280 учнів), сімейна, індивідуальна та екстернатна форми навчання.</p>\n\n<h2 style=\"color: #2980b9;\">Позашкільна освіта</h2>\n<p style=\"margin-bottom: 20px;\">Позашкільна освіта охопила 397 вихованців. «Центр позашкільної освіти» пропонує гуртки різних напрямів, а «Дитячо-юнацька спортивна школа» — секції з футболу, волейболу, баскетболу, рукопашного бою та черліденгу, які здобули численні нагороди.</p>\n\n<h2 style=\"color: #2980b9;\">Досягнення учнів</h2>\n<p style=\"margin-bottom: 20px;\">Учні ліцею здобули 5 дипломів ІІІ етапу Всеукраїнських олімпіад, нагороди в конкурсах ім. П. Яцика, Т. Шевченка, «Пліч-о-пліч» та «Сокіл» («Джура»). 58 учнів отримали похвальні листи, 10 — за успіхи з окремих предметів. В онлайн-конкурсах («На Урок», «Всеосвіта») взяли участь 477 учнів, здобувши 956 дипломів.</p>\n\n<h2 style=\"color: #2980b9;\">Виховна та волонтерська діяльність</h2>\n<p style=\"margin-bottom: 20px;\">Ліцей проводить уроки мужності, благодійні ярмарки (зібрано 62 000 грн на ЗСУ), виготовлення окопних свічок, маскувальних сіток, листів захисникам. Учні брали участь у патріотичних акціях, таких як «Смілива гривня» та «Подаруй тепло на Різдво».</p>",
@@ -765,7 +756,7 @@
         "Кнопка з посиланням": ""
     },
     {
-        "id": "85",
+        "id": "84",
         "Розділ": "Матеріально-технічна база",
         "Тип (1 - картки, 2- абзаци)": "",
         "Абзац": "<p>\n  <span\n    style=\"font-size: 18pt; color: rgb(11, 83, 199)\"\n    data-mce-style=\"font-size: 18pt; color: rgb(11, 83, 199);\"\n    ><strong\n      ><span\n        style=\"font-family: arial, helvetica, sans-serif\"\n        data-mce-style=\"font-family: arial, helvetica, sans-serif;\"\n        >Загальні характеристики</span\n      ></strong\n    ></span\n  >\n</p>\n<p>\n  <span\n    style=\"font-size: 14pt; font-family: arial, helvetica, sans-serif\"\n    data-mce-style=\"font-size: 14pt; font-family: arial, helvetica, sans-serif;\"\n    >Куликівський ліцей розташований у типовому приміщенні, побудованому в 1976\n    році, з проєктною потужністю 1000 місць. Загальна площа приміщень — 6073 м².\n    Заклад обладнано сонячною електростанцією (40 кВт) та 8 генераторами (288\n    кВт). Для безпеки створено укриття на 1715 осіб.</span\n  >\n</p>\n<p\n  style=\"display: flex; justify-content: center;flex-wrap: wrap;text-align: center\"\n  data-mce-style=\"display: flex; justify-content: center;flex-wrap: wrap; text-align: center;\"\n>\n  &nbsp;<img\n      src=\"https://znz16300.github.io/assets/images/rooms/12.JPG\"\n      width=\"412\"\n      height=\"309\"\n      data-mce-src=\"https://znz16300.github.io/assets/images/rooms/12.JPG\" />\n    &nbsp;<img\n      src=\"https://znz16300.github.io/sitedata/img-news/2024-05-28_134457.png\"\n      width=\"574\"\n      height=\"309\"\n      data-mce-src=\"https://znz16300.github.io/sitedata/img-news/2024-05-28_134457.png\" />&nbsp;<img\n      src=\"https://znz16300.github.io/assets/images/rooms/13.JPG\"\n      width=\"412\"\n      height=\"309\"\n      data-mce-src=\"https://znz16300.github.io/assets/images/rooms/13.JPG\" />\n    &nbsp;<img\n      src=\"https://znz16300.github.io/sitedata/img-news/27.03.2025_15_24_39/3.jpg\"\n      height=\"309\"\n      data-mce-src=\"https://znz16300.github.io/sitedata/img-news/27.03.2025_15_24_39/3.jpg\"\n  />\n</p>\n<p>\n  <span\n    style=\"color: rgb(11, 83, 199)\"\n    data-mce-style=\"color: rgb(11, 83, 199);\"\n    ><strong\n      ><span\n        style=\"font-size: 18pt; font-family: arial, helvetica, sans-serif\"\n        data-mce-style=\"font-size: 18pt; font-family: arial, helvetica, sans-serif;\"\n        >Навчальні кабінети</span\n      ></strong\n    ></span\n  >\n</p>\n<p>\n  <span\n    style=\"font-size: 14pt; font-family: arial, helvetica, sans-serif\"\n    data-mce-style=\"font-size: 14pt; font-family: arial, helvetica, sans-serif;\"\n    >Ліцей має 39 сучасних предметних кабінетів (інформатики, фізики, хімії,\n    біології, математики, іноземної мови, безпеки, захисту України, початкових\n    класів тощо). Закуплено STEM-обладнання (<span lang=\"UK\">набори з </span\n    >робототехнік<span lang=\"UK\">и</span>, 3D-принтер, 3D-сканер, VR-окуляри,\n    цифровий фрезерний <span lang=\"UK\">верстат</span>). У наявності\n    <span lang=\"UK\">195</span> комп’ютерів<span lang=\"UK\"> чи ноутбуків</span>\n    (<span lang=\"UK\">39</span> — у <span lang=\"UK\">трьох </span>кабінет<span\n      lang=\"UK\"\n      >ах</span\n    >\n    інформатики). Мультимедійне обладнання: 21 проектор, 11 мультимедійних\n    дошок<span lang=\"UK\">, 4 інтерактивні панелі</span>. Інтернет —\n    оптоволоконний, 100 Мбіт/с (Укртелеком, Ведекон).</span\n  >\n</p>\n<p\n  style=\"display: flex; justify-content: center;flex-wrap: wrap;text-align: center\"\n  data-mce-style=\"display: flex; justify-content: center;flex-wrap: wrap;text-align: center;\"\n>\n  &nbsp;<img\n      src=\"https://znz16300.github.io/assets/images/rooms/4.jpg\"\n      alt=\"\"\n      width=\"557\"\n      height=\"309\"\n      data-mce-src=\"https://znz16300.github.io/assets/images/rooms/4.jpg\" />\n    &nbsp;<img\n      src=\"https://znz16300.github.io/assets/images/rooms/16.jpg\"\n      width=\"556\"\n      height=\"309\"\n      data-mce-src=\"https://znz16300.github.io/assets/images/rooms/16.jpg\" />&nbsp;<img\n      src=\"https://znz16300.github.io/assets/images/rooms/14.jpg\"\n      width=\"412\"\n      height=\"309\"\n      data-mce-src=\"https://znz16300.github.io/assets/images/rooms/14.jpg\" />\n    &nbsp;<img\n      src=\"https://znz16300.github.io/assets/images/rooms/8.jpg\"\n      alt=\"\"\n      width=\"550\"\n      height=\"309\"\n      data-mce-src=\"https://znz16300.github.io/assets/images/rooms/8.jpg\"\n  />\n</p>\n<p><br data-mce-bogus=\"1\" /></p>\n<p>\n  <span\n    style=\"font-size: 18pt; color: rgb(11, 83, 199)\"\n    data-mce-style=\"font-size: 18pt; color: rgb(11, 83, 199);\"\n    ><strong\n      ><span\n        style=\"font-family: arial, helvetica, sans-serif\"\n        data-mce-style=\"font-family: arial, helvetica, sans-serif;\"\n        >Спортивна та рекреаційна інфраструктура</span\n      ></strong\n    ></span\n  >\n</p>\n<p>\n  <span\n    style=\"font-size: 14pt; font-family: arial, helvetica, sans-serif\"\n    data-mce-style=\"font-size: 14pt; font-family: arial, helvetica, sans-serif;\"\n    >Заклад має футбольне поле зі штучним покриттям, волейбольний та ігровий\n    майданчики, тренажерний майданчик, мотузкове містечко, дві спортивні\n    зали.</span\n  >\n</p>\n<p\n  style=\"display: flex; justify-content: center;flex-wrap: wrap;text-align: center\"\n  data-mce-style=\"display: flex; justify-content: center;flex-wrap: wrap;text-align: center;\"\n>\n  &nbsp;<img\n      src=\"https://znz16300.github.io/assets/images/rooms/11.JPG\"\n      width=\"412\"\n      height=\"309\"\n      data-mce-src=\"https://znz16300.github.io/assets/images/rooms/11.JPG\" />\n    &nbsp;<img\n      src=\"https://znz16300.github.io/assets/images/rooms/10.JPG\"\n      width=\"412\"\n      height=\"309\"\n      data-mce-src=\"https://znz16300.github.io/assets/images/rooms/10.JPG\" />\n    &nbsp;<img\n      src=\"https://znz16300.github.io/assets/images/rooms/17.jpg\"\n      alt=\"\"\n      width=\"556\"\n      height=\"309\"\n      data-mce-src=\"https://znz16300.github.io/assets/images/rooms/17.jpg\"\n  />\n</p>\n<p>\n  <span\n    style=\"color: rgb(11, 83, 199)\"\n    data-mce-style=\"color: rgb(11, 83, 199);\"\n    ><strong\n      ><span\n        style=\"font-size: 18pt; font-family: arial, helvetica, sans-serif\"\n        data-mce-style=\"font-size: 18pt; font-family: arial, helvetica, sans-serif;\"\n        >Доступність для осіб з особливими освітніми потребами</span\n      ></strong\n    ></span\n  >\n</p>\n<p>\n  <span\n    style=\"font-size: 14pt; font-family: arial, helvetica, sans-serif\"\n    data-mce-style=\"font-size: 14pt; font-family: arial, helvetica, sans-serif;\"\n    >Ліцей забезпечує інклюзивність: обладнано пандус, підйомник, туалетні\n    кабінки для осіб з ООП, відремонтовано корекційну кімнату.</span\n  >\n</p>\n<p>\n  <span\n    style=\"font-size: 18pt; color: rgb(11, 83, 199)\"\n    data-mce-style=\"font-size: 18pt; color: rgb(11, 83, 199);\"\n    ><strong\n      ><span\n        style=\"font-family: arial, helvetica, sans-serif\"\n        data-mce-style=\"font-family: arial, helvetica, sans-serif;\"\n        >Організація підвезення</span\n      ></strong\n    ></span\n  >\n</p>\n<p>\n  <span\n    style=\"font-size: 14pt; font-family: arial, helvetica, sans-serif\"\n    data-mce-style=\"font-size: 14pt; font-family: arial, helvetica, sans-serif;\"\n    >Підвезення організовано для 275 учнів із 13 населених пунктів: Пенязівка\n    (18), С. Дівиця (47), Ковчин (14), Авдіївка (5), Жуківка (70), Вересоч (9),\n    Хибалівка (2), Кладьківка (8), Дрімайлівка (13), Дроздівка (45), Орлівка\n    (29), Грабівка (14), Б. Муравійка (1). Використовується\n    <span lang=\"UK\">11</span> транспортних одиниць (9 автобусів,\n    <span lang=\"UK\">2</span> автомобілі).</span\n  >\n</p>\n<p\n  style=\"display: flex; justify-content: center;flex-wrap: wrap;text-align: center\"\n  data-mce-style=\"display: flex; justify-content: center;flex-wrap: wrap;text-align: center;\"\n>\n  &nbsp;<img\n      src=\"https://znz16300.github.io/sitedata/img-news/2024-10-20/0000-463284836_2375111902824417_9163380703994825465_n.jpg\"\n      alt=\"\"\n      width=\"464\"\n      height=\"309\"\n      data-mce-src=\"https://znz16300.github.io/sitedata/img-news/2024-10-20/0000-463284836_2375111902824417_9163380703994825465_n.jpg\"\n  />\n</p>\n<p>\n  <span\n    style=\"font-size: 18pt; color: rgb(11, 83, 199)\"\n    data-mce-style=\"font-size: 18pt; color: rgb(11, 83, 199);\"\n    ><strong\n      ><span\n        style=\"font-family: arial, helvetica, sans-serif\"\n        data-mce-style=\"font-family: arial, helvetica, sans-serif;\"\n        >Ремонтні роботи та харчування</span\n      ></strong\n    ></span\n  >\n</p>\n<p>\n  <span\n    style=\"font-size: 14pt; font-family: arial, helvetica, sans-serif\"\n    data-mce-style=\"font-size: 14pt; font-family: arial, helvetica, sans-serif;\"\n    ><span lang=\"UK\">У 2024 році відремонтовано</span> третій поверх, майстерні,\n    корекційну кімнату,\n    <span lang=\"UK\"\n      >актову залу, спортивну залу для учнів початкової ланки, </span\n    >кабінети захисту України та <span lang=\"UK\">клас </span>безпеки.\n    Організовано безоплатне харчування для учнів.</span\n  >\n</p>\n<p style=\"display: flex; flex-wrap: wrap; justify-content: center; text-align: center\" data-mce-style=\"text-align: center;\">\n  &nbsp;<img\n      src=\"https://znz16300.github.io/assets/images/rooms/18.jpg\"\n      width=\"449\"\n      height=\"309\"\n      data-mce-src=\"https://znz16300.github.io/assets/images/rooms/18.jpg\"\n  />\n</p>\n<p>\n  <span\n    lang=\"UK\"\n    style=\"font-size: 14pt; font-family: arial, helvetica, sans-serif\"\n    data-mce-style=\"font-size: 14pt; font-family: arial, helvetica, sans-serif;\"\n    >Відремонтовано бібліотеку ліцею.</span\n  >\n</p>\n<p\n  style=\"display: flex; justify-content: center;flex-wrap: wrap;text-align: center\"\n  data-mce-style=\"display: flex; justify-content: center;flex-wrap: wrap;text-align: center;\"\n>\n  &nbsp;<img\n      src=\"https://znz16300.github.io/assets/images/rooms/15.jpg\"\n      alt=\"\"\n      width=\"556\"\n      height=\"309\"\n      data-mce-src=\"https://znz16300.github.io/assets/images/rooms/15.jpg\" />\n    &nbsp;<img\n      src=\"https://znz16300.github.io/assets/images/rooms/6.jpg\"\n      width=\"410\"\n      height=\"309\"\n      data-mce-src=\"https://znz16300.github.io/assets/images/rooms/6.jpg\"\n  />\n</p>\n<p><br data-mce-bogus=\"1\" /></p>\n\n",
@@ -774,7 +765,7 @@
         "Кнопка з посиланням": ""
     },
     {
-        "id": "86",
+        "id": "85",
         "Розділ": "Матеріально-технічна база",
         "Тип (1 - картки, 2- абзаци)": "",
         "Абзац": "<a href=\"https://docs.google.com/document/d/1H4NuYPommPlJIYibaM6XUq7gfIdf0Cny/edit?usp=sharing&ouid=107211966436332045560&rtpof=true&sd=true\" target=\"_blank\">Детальніше тут</a>",
