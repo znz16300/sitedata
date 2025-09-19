@@ -688,7 +688,7 @@
         "Розділ": "Учительська",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Давиденко Ольга Віталіївна",
-        "Фото": "./assets/images/woman.png",
+        "Фото": "./sitedata/images/davidenko_o.jpg",
         "Ширина малюнка (%)": "",
         "Кнопка з посиланням": "./page?titlePages=Давиденко Ольга Віталіївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
@@ -1939,7 +1939,7 @@
         "Розділ": "Учительська",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Савенко Лариса Ростиславівна",
-        "Фото": "./assets/images/woman.png",
+        "Фото": "./sitedata/images/savenko.jpg",
         "Ширина малюнка (%)": "",
         "Кнопка з посиланням": "./page?titlePages=Савенко Лариса Ростиславівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
@@ -1948,7 +1948,7 @@
         "Розділ": "Учительська",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Башта Алла Миколаївна",
-        "Фото": "./assets/images/woman.png",
+        "Фото": "./sitedata/images/bashta.jpg",
         "Ширина малюнка (%)": "",
         "Кнопка з посиланням": "./page?titlePages=Башта Алла Миколаївна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
@@ -2020,7 +2020,7 @@
         "Розділ": "Учительська",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Труба Світлана Петрівна",
-        "Фото": "./assets/images/woman.png",
+        "Фото": "./sitedata/images/truba.jpg",
         "Ширина малюнка (%)": "",
         "Кнопка з посиланням": "./page?titlePages=Труба Світлана Петрівна&keyPages=15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc"
     },
