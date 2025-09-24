@@ -1695,20 +1695,6 @@
     },
     {
         "id": "121",
-        "Позначка часу": "09.09.2025 12:57:26",
-        "Назва документу": "Освітні програми на 2025-2026 навчальний рік",
-        "Посилання на документ (якщо більше одного, то через кому)": "",
-        "Файл(и) документу": "https://drive.google.com/open?id=1Q-Vnd93Z8jrs7gMeIALljU2Iq0DUDdp0, https://drive.google.com/open?id=1sumpDp2N7gPesqL2ecIJRe79A_p07leY, https://drive.google.com/open?id=1LSFD7vWiBIYBSZbhZuHHikodCOvSMzM2, https://drive.google.com/open?id=1aK7MFf-fxEB-yE0Ml9Igi-jk2omVd2mI, https://drive.google.com/open?id=1K2LB2zoCbqWl0qSe4CjEBlyAXa8_Eo8c, https://drive.google.com/open?id=1P4Swcs_1Cuf6TwPJmjOXCHuYjxg5i7pN, https://drive.google.com/open?id=1koFK-gO9pJZ0oaQ4i6dwspjYx4zsVQbf",
-        "info": "Освітня програма 1_2 класи - Олександр Зеленський.pdf (application/pdf, 0.49 MB)",
-        "type": "pdf",
-        "size": "0.49",
-        "Фото (необов'язково)": "",
-        "Категорія": "Освітні програми",
-        "sort": "",
-        "show": "1"
-    },
-    {
-        "id": "122",
         "Позначка часу": "14.09.2025 07:18:42",
         "Назва документу": "Річний план на 2025-2026 н.р.",
         "Посилання на документ (якщо більше одного, то через кому)": "",
@@ -1722,7 +1708,7 @@
         "show": "1"
     },
     {
-        "id": "123",
+        "id": "122",
         "Позначка часу": "15.09.2025 21:43:45",
         "Назва документу": "Правила внутрішнього трудового розпорядку",
         "Посилання на документ (якщо більше одного, то через кому)": "",
@@ -1736,7 +1722,7 @@
         "show": "1"
     },
     {
-        "id": "124",
+        "id": "123",
         "Позначка часу": "16.09.2025 05:24:54",
         "Назва документу": "Паспорт ліцею 2025",
         "Посилання на документ (якщо більше одного, то через кому)": "",
@@ -1746,6 +1732,20 @@
         "size": "0.16",
         "Фото (необов'язково)": "",
         "Категорія": "Звіти та аналітика",
+        "sort": "",
+        "show": "1"
+    },
+    {
+        "id": "124",
+        "Позначка часу": "09.09.2025 12:57:26",
+        "Назва документу": "Освітні програми на 2025-2026 навчальний рік",
+        "Посилання на документ (якщо більше одного, то через кому)": "",
+        "Файл(и) документу": "https://drive.google.com/open?id=1USiS5OKcz3GqJSFsxnnKOir970iWLLbt, https://drive.google.com/open?id=1newWXDk3Zv5RxlY1odBHxqxbn9GdB-0w, https://drive.google.com/open?id=1w5pBRtOtZ9gsNCINVizIWSWP7A-Q7h2E, https://drive.google.com/open?id=1TQlELc8LpH2oKM8SBeEzOxGK-6_6-bmj, https://drive.google.com/open?id=1wIL2A2fUVk1BcDPTmtCwtmq3dSKcu1hG, https://drive.google.com/open?id=1-q1EJYcCR3EQdS7ZBwPqvhXUDLnEt3RD",
+        "info": "Освітня програма 1_2 класи - Олександр Зеленський.pdf (application/pdf, 0.44 MB)",
+        "type": "pdf",
+        "size": "0.44",
+        "Фото (необов'язково)": "",
+        "Категорія": "Освітні програми",
         "sort": "",
         "show": "1"
     }
