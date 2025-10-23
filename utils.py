@@ -12,6 +12,8 @@ from datetime import datetime
 from PIL import Image
 
 from getFileInfo import get_drive_file_info
+from utils_2 import _read_M
+# from utils_2 import _read_M
 
 def download_file_from_google_drive(file_url, output_folder, name_file):
     # Парсимо URL, щоб отримати file_id
@@ -183,65 +185,6 @@ def getTable(idTable):
     os.makedirs(output_folder)
 
 
-# def getTable(idTable):
-#     #Очищуємо папку output_folder
-#     output_folder = "downloaded_files"
-#     if os.path.exists(output_folder):
-#         shutil.rmtree(output_folder)
-#     os.makedirs(output_folder)
-
-#     scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
-#     creds = ServiceAccountCredentials.from_json_keyfile_name('project-fa0cf409504d.json', scope)
-#     client = gspread.authorize(creds)
-#     sheet = client.open_by_url(f'https://docs.google.com/spreadsheets/d/{idTable}/').sheet1
-#     data = sheet.get_all_records()
-#     new_data = []
-#     for index, row in enumerate(data):
-#         new_row = {}
-#         new_row['id'] = str(index)
-#         for key, value in row.items():
-#             if key != "":
-#                 new_row[key] = str(value)
-#             names = []
-#             if key == "Фото":
-#                 s = value
-#                 if s.startswith("https://drive.google.com/open?id="):
-#                     listt = s.split(', ')
-#                     for index, item in enumerate(listt):
-#                         name = download_file_from_google_drive(item, "downloaded_files", str(index))
-#                         names.append(name)
-#                     if "Позначка часу" in new_row:
-#                         name_folder = new_row['Позначка часу'].replace(" ", "_").replace(":", "_")
-
-#                         newNames = process_downloaded_files(name_folder)
-#                         new_row[key] = newNames
-#                         update_photo_in_table(idTable, new_row['Позначка часу'], newNames)
-#                     else:
-#                         pass
-#                 else:
-#                     pass
-
-#         new_data.append(new_row)
-
-#     # Створюємо шлях до папки "test"
-#     output_dir = os.path.join(os.getcwd(), 'data')
-#     if not os.path.exists(output_dir):
-#         os.makedirs(output_dir)
-        
-#     # Створюємо шлях до файлу JSON у папці "test"
-#     output_file_path = os.path.join(output_dir, f'{idTable}.json')
-
-#     # Зберігаємо JSON файл
-#     with open(output_file_path, 'w', encoding='utf-8') as f:
-#         json.dump(new_data, f, ensure_ascii=False, indent=4)
-
-#     print(f"JSON файл для таблиці {idTable} створено.")
-            
-#     output_folder = "downloaded_files"
-#     if os.path.exists(output_folder):
-#         shutil.rmtree(output_folder)
-#     os.makedirs(output_folder)
-
 def process_downloaded_files(folder):
 
     base_folder_name = folder
@@ -317,6 +260,18 @@ def update_photo_in_table(idTable, timestamp, new_photo_url):
             return
     
     print("Рядок із вказаною 'Позначка часу' не знайдено.")
+
+def getSchedules(idTable):
+    data = _read_M(idTable)
+    output_dir = os.path.join(os.getcwd(), 'data')
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+    
+    output_file_path = os.path.join(output_dir, f'{idTable}.json')
+    with open(output_file_path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
+
+    print(f"JSON файл для розкладів {idTable} створено.")
 
 if __name__ == "__main__":
     print("Запуск utils.py")

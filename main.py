@@ -1,6 +1,5 @@
 import utils
 
-# Приклад використання:
 if __name__ == "__main__":
     # Pages
     utils.getTable('1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI')
@@ -16,5 +15,5 @@ if __name__ == "__main__":
     # Documents
     utils.getTable('1O_bJjH8TAHww34uxA51rdyJoX4PaxMGOzL57N8G7H34')
     # Schedules
-    utils.getTable('1vWepnObCCI_61Ubt4Dlh6nWBjOUICCCrn8MyG-od9Sg')
+    utils.getSchedules('1vWepnObCCI_61Ubt4Dlh6nWBjOUICCCrn8MyG-od9Sg')
 
