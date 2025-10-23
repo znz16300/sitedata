@@ -15,4 +15,6 @@ if __name__ == "__main__":
     utils.getTable('1Dk0WYpOKeRoDATgzMkIkFjUcFwNAG5MRn4W7bEyzd0M')
     # Documents
     utils.getTable('1O_bJjH8TAHww34uxA51rdyJoX4PaxMGOzL57N8G7H34')
+    # Schedules
+    utils.getTable('1vWepnObCCI_61Ubt4Dlh6nWBjOUICCCrn8MyG-od9Sg')
 
