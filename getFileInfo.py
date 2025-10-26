@@ -7,7 +7,7 @@ def get_drive_file_info(file_id: str) -> dict:
     """
     url = f"https://www.googleapis.com/drive/v3/files/{file_id}"
 
-    json_file_path = 'apikey.json'
+    json_file_path = 'project-fa0cf409504d.json'
     with open(json_file_path, 'r', encoding='utf-8') as file:
         data = json.load(file)
 

@@ -37,7 +37,7 @@ def get_files_in_folder(folder_id, api_key):
         return json.dumps({'error': 'Не вдалося отримати файли', 'status_code': response.status_code}, indent=4, ensure_ascii=False)
 
 # Шлях до JSON файлу з API ключем
-json_file_path = 'apikey.json'
+json_file_path = 'project-fa0cf409504d.json'
 with open(json_file_path, 'r', encoding='utf-8') as file:
     data = json.load(file)
 
