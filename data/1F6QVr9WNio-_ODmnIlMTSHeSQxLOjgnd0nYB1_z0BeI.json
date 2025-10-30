@@ -399,7 +399,7 @@
         "id": "44",
         "Розділ": "Контакти",
         "Тип (1 - картки, 2- абзаци)": "",
-        "Абзац": "\n<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSd3fmURo9ooxp05Sm_oYRW_WVplRu7bWmrIqHSsv6TjQ_TzqA/viewform?usp=header\">Зворотній звʼязок</a>",
+        "Абзац": "<br>\n<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSd3fmURo9ooxp05Sm_oYRW_WVplRu7bWmrIqHSsv6TjQ_TzqA/viewform?usp=header\">Зворотній звʼязок</a>",
         "Фото": "",
         "Ширина малюнка (%)": "",
         "Кнопка з посиланням": "-"
