@@ -2271,7 +2271,7 @@
         "id": "252",
         "Розділ": "Розклад дзвінків",
         "Тип (1 - картки, 2- абзаци)": "",
-        "Абзац": "<table style=\"margin-left: auto; margin-right: auto; text-align: center; border-collapse: collapse; width: 284px; height: 366.75px;\" border=\"0\" width=\"583\" cellspacing=\"0\" cellpadding=\"0\"><colgroup> </colgroup>\n<tbody>\n<tr style=\"height: 44.5px;\">\n<td style=\"height: 44.5px; width: 282px; text-align: center; background-color: rgb(248, 202, 198);\" colspan=\"5\" height=\"20\">1-і класи</td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td class=\"xl66\" style=\"height: 22.3906px; background-color: rgb(191, 237, 210); width: 70.2031px;\" height=\"20\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 22.3906px; width: 38.6094px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 22.3906px; width: 70.2031px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 22.3906px; width: 32.2031px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 22.3906px; width: 66.7344px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 44.5px;\">\n<td class=\"xl66\" style=\"height: 44.5px; background-color: rgb(191, 237, 210); width: 70.2031px;\" height=\"20\">8:30</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 44.5px; width: 38.6094px;\">-</td>\n<td class=\"xl66\" style=\"background-color: rgb(191, 237, 210); height: 44.5px; width: 70.2031px;\">9:05</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 44.5px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 44.5px; width: 66.7969px;\">1 урок</td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td class=\"xl67\" style=\"height: 22.3906px; background-color: rgb(191, 237, 210); width: 70.1875px;\" height=\"20\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 22.3906px; width: 38.6094px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 22.3906px; width: 70.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 22.3906px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 22.3906px; width: 66.8281px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 44.5px;\">\n<td class=\"xl66\" style=\"height: 44.5px; background-color: rgb(191, 237, 210); width: 70.1875px;\" height=\"20\">9:40</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 44.5px; width: 38.6094px;\">-</td>\n<td class=\"xl66\" style=\"background-color: rgb(191, 237, 210); height: 44.5px; width: 70.1875px;\">10:15</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 44.5px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 44.5px; width: 66.8281px;\">2 урок</td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td class=\"xl67\" style=\"height: 22.3906px; background-color: rgb(191, 237, 210); width: 70.1875px;\" height=\"20\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 22.3906px; width: 38.6094px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 22.3906px; width: 70.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 22.3906px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 22.3906px; width: 66.8281px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 44.5px;\">\n<td class=\"xl66\" style=\"height: 44.5px; background-color: rgb(191, 237, 210); width: 70.1875px;\" height=\"20\">10:55</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 44.5px; width: 38.6094px;\">-</td>\n<td class=\"xl66\" style=\"background-color: rgb(191, 237, 210); height: 44.5px; width: 70.1875px;\">11:30</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 44.5px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 44.5px; width: 66.8281px;\">3 урок</td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td class=\"xl67\" style=\"height: 22.3906px; background-color: rgb(191, 237, 210); width: 70.1875px;\" height=\"20\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 22.3906px; width: 38.6094px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 22.3906px; width: 70.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 22.3906px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 22.3906px; width: 66.8281px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 44.5px;\">\n<td class=\"xl66\" style=\"height: 44.5px; background-color: rgb(191, 237, 210); width: 70.1875px;\" height=\"20\">12:10</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 44.5px; width: 38.6094px;\">-</td>\n<td class=\"xl66\" style=\"background-color: rgb(191, 237, 210); height: 44.5px; width: 70.1875px;\">12:45</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 44.5px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 44.5px; width: 66.8281px;\">4 урок</td>\n</tr>\n<tr style=\"height: 10px;\">\n<td class=\"xl67\" style=\"height: 10px; background-color: rgb(191, 237, 210); width: 70.1875px;\" height=\"20\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 10px; width: 38.6094px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 10px; width: 70.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 10px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 10px; width: 66.8281px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 44.6875px;\">\n<td class=\"xl66\" style=\"height: 44.6875px; background-color: rgb(191, 237, 210); width: 70.1875px;\" height=\"20\">13:05</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 44.6875px; width: 38.6094px;\">-</td>\n<td class=\"xl66\" style=\"background-color: rgb(191, 237, 210); height: 44.6875px; width: 70.1875px;\">13:40</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 44.6875px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 44.6875px; width: 66.8281px;\">5 урок</td>\n</tr>\n</tbody>\n</table>",
+        "Абзац": "<table style=\"margin-left: auto; margin-right: auto; text-align: center; border-collapse: collapse; width: 284px; height: 366.75px;\" border=\"0\" width=\"583\" cellspacing=\"0\" cellpadding=\"0\"><colgroup> </colgroup>\n<tbody>\n<tr style=\"height: 44.5px;\">\n<td style=\"height: 44.5px; width: 282px; text-align: center; background-color: rgb(248, 202, 198);\" colspan=\"5\" height=\"20\">1-і класи</td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td class=\"xl66\" style=\"height: 22.3906px; background-color: rgb(191, 237, 210); width: 70.2031px;\" height=\"20\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 22.3906px; width: 38.6094px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 22.3906px; width: 70.2031px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 22.3906px; width: 32.2031px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 22.3906px; width: 66.7344px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 44.5px;\">\n<td class=\"xl66\" style=\"height: 44.5px; background-color: rgb(191, 237, 210); width: 70.2031px;\" height=\"20\">8:30</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 44.5px; width: 38.6094px;\">-</td>\n<td class=\"xl66\" style=\"background-color: rgb(191, 237, 210); height: 44.5px; width: 70.2031px;\">9:05</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 44.5px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 44.5px; width: 66.7969px;\">1 урок</td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td class=\"xl67\" style=\"height: 22.3906px; background-color: rgb(191, 237, 210); width: 70.1875px;\" height=\"20\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 22.3906px; width: 38.6094px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 22.3906px; width: 70.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 22.3906px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 22.3906px; width: 66.8281px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 44.5px;\">\n<td class=\"xl66\" style=\"height: 44.5px; background-color: rgb(191, 237, 210); width: 70.1875px;\" height=\"20\">9:40</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 44.5px; width: 38.6094px;\">-</td>\n<td class=\"xl66\" style=\"background-color: rgb(191, 237, 210); height: 44.5px; width: 70.1875px;\">10:15</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 44.5px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 44.5px; width: 66.8281px;\">2 урок</td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td class=\"xl67\" style=\"height: 22.3906px; background-color: rgb(191, 237, 210); width: 70.1875px;\" height=\"20\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 22.3906px; width: 38.6094px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 22.3906px; width: 70.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 22.3906px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 22.3906px; width: 66.8281px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 44.5px;\">\n<td class=\"xl66\" style=\"height: 44.5px; background-color: rgb(191, 237, 210); width: 70.1875px;\" height=\"20\">10:55</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 44.5px; width: 38.6094px;\">-</td>\n<td class=\"xl66\" style=\"background-color: rgb(191, 237, 210); height: 44.5px; width: 70.1875px;\">11:30</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 44.5px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 44.5px; width: 66.8281px;\">3 урок</td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td class=\"xl67\" style=\"height: 22.3906px; background-color: rgb(191, 237, 210); width: 70.1875px;\" height=\"20\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 22.3906px; width: 38.6094px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 22.3906px; width: 70.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 22.3906px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 22.3906px; width: 66.8281px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 44.5px;\">\n<td class=\"xl66\" style=\"height: 44.5px; background-color: rgb(191, 237, 210); width: 70.1875px;\" height=\"20\">11:50</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 44.5px; width: 38.6094px;\">-</td>\n<td class=\"xl66\" style=\"background-color: rgb(191, 237, 210); height: 44.5px; width: 70.1875px;\">12:25</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 44.5px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 44.5px; width: 66.8281px;\">4 урок</td>\n</tr>\n<tr style=\"height: 10px;\">\n<td class=\"xl67\" style=\"height: 10px; background-color: rgb(191, 237, 210); width: 70.1875px;\" height=\"20\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 10px; width: 38.6094px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 10px; width: 70.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 10px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 10px; width: 66.8281px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 44.6875px;\">\n<td class=\"xl66\" style=\"height: 44.6875px; background-color: rgb(191, 237, 210); width: 70.1875px;\" height=\"20\">12:45</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 44.6875px; width: 38.6094px;\">-</td>\n<td class=\"xl66\" style=\"background-color: rgb(191, 237, 210); height: 44.6875px; width: 70.1875px;\">13:20</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 44.6875px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(191, 237, 210); height: 44.6875px; width: 66.8281px;\">5 урок</td>\n</tr>\n</tbody>\n</table>",
         "Фото": "",
         "Ширина малюнка (%)": "",
         "Кнопка з посиланням": "#"
@@ -2280,7 +2280,7 @@
         "id": "253",
         "Розділ": "Розклад дзвінків",
         "Тип (1 - картки, 2- абзаци)": "",
-        "Абзац": "<table style=\"margin-top: 24px; margin-left: auto; margin-right: auto; text-align: center; border-collapse: collapse; width: 284px; height: 366.75px;\" border=\"0\" width=\"583\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"width: 70px;\"><col style=\"width: 32px;\"><col style=\"width: 70px;\"><col style=\"width: 26px;\"><col style=\"width: 84px;\"></colgroup>\n<tbody>\n<tr style=\"height: 44.5px;\">\n<td style=\"width: 200pt; text-align: center; height: 22.3906px; background-color: rgb(236, 202, 250);\" colspan=\"5\" width=\"265\">2 - 4 класи</td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td class=\"xl68\" style=\"height: 22.3906px; background-color: rgb(53, 152, 219);\">&nbsp;</td>\n<td class=\"xl68\" style=\"height: 22.3906px; background-color: rgb(53, 152, 219);\">&nbsp;</td>\n<td class=\"xl68\" style=\"height: 22.3906px; background-color: rgb(53, 152, 219);\">&nbsp;</td>\n<td class=\"xl68\" style=\"height: 22.3906px; background-color: rgb(53, 152, 219);\">&nbsp;</td>\n<td class=\"xl68\" style=\"height: 22.3906px; background-color: rgb(53, 152, 219);\">&nbsp;</td>\n</tr>\n<tr style=\"height: 44.5px;\">\n<td class=\"xl66\" style=\"height: 44.5px; background-color: rgb(53, 152, 219); width: 70.2031px;\" height=\"20\">8:30</td>\n<td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 38.6094px;\">-</td>\n<td class=\"xl66\" style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 70.2031px;\">9:10</td>\n<td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 66.7969px;\">1 урок</td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td class=\"xl67\" style=\"height: 22.3906px; background-color: rgb(53, 152, 219); width: 70.1875px;\" height=\"20\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 38.6094px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 70.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 66.8281px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 44.5px;\">\n<td class=\"xl66\" style=\"height: 44.5px; background-color: rgb(53, 152, 219); width: 70.1875px;\" height=\"20\">9:40</td>\n<td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 38.6094px;\">-</td>\n<td class=\"xl66\" style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 70.1875px;\">10:20</td>\n<td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 66.8281px;\">2 урок</td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td class=\"xl67\" style=\"height: 22.3906px; background-color: rgb(53, 152, 219); width: 70.1875px;\" height=\"20\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 38.6094px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 70.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 66.8281px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 44.5px;\">\n<td class=\"xl66\" style=\"height: 44.5px; background-color: rgb(53, 152, 219); width: 70.1875px;\" height=\"20\">10:55</td>\n<td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 38.6094px;\">-</td>\n<td class=\"xl66\" style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 70.1875px;\">11:35</td>\n<td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 66.8281px;\">3 урок</td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td class=\"xl67\" style=\"height: 22.3906px; background-color: rgb(53, 152, 219); width: 70.1875px;\" height=\"20\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 38.6094px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 70.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 66.8281px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 44.5px;\">\n<td class=\"xl66\" style=\"height: 44.5px; background-color: rgb(53, 152, 219); width: 70.1875px;\" height=\"20\">12:10</td>\n<td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 38.6094px;\">-</td>\n<td class=\"xl66\" style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 70.1875px;\">12:50</td>\n<td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 66.8281px;\">4 урок</td>\n</tr>\n<tr style=\"height: 10px;\">\n<td class=\"xl67\" style=\"height: 10px; background-color: rgb(53, 152, 219); width: 70.1875px;\" height=\"20\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 10px; width: 38.6094px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 10px; width: 70.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 10px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 10px; width: 66.8281px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 44.6875px;\">\n<td class=\"xl66\" style=\"height: 44.6875px; background-color: rgb(53, 152, 219); width: 70.1875px;\" height=\"20\">13:05</td>\n<td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 44.6875px; width: 38.6094px;\">-</td>\n<td class=\"xl66\" style=\"background-color: rgb(53, 152, 219); height: 44.6875px; width: 70.1875px;\">13:45</td>\n<td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 44.6875px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 44.6875px; width: 66.8281px;\">5 урок</td>\n</tr>\n</tbody>\n</table>",
+        "Абзац": "<table style=\"margin-top: 24px; margin-left: auto; margin-right: auto; text-align: center; border-collapse: collapse; width: 284px; height: 366.75px;\" border=\"0\" width=\"583\" cellspacing=\"0\" cellpadding=\"0\" data-mce-style=\"margin-top: 24px; margin-left: auto; margin-right: auto; text-align: center; border-collapse: collapse; width: 284px; height: 366.75px;\" class=\"mce-item-table\"><colgroup><col style=\"width: 70px;\" data-mce-style=\"width: 70px;\"><col style=\"width: 32px;\" data-mce-style=\"width: 32px;\"><col style=\"width: 70px;\" data-mce-style=\"width: 70px;\"><col style=\"width: 26px;\" data-mce-style=\"width: 26px;\"><col style=\"width: 84px;\" data-mce-style=\"width: 84px;\"></colgroup><tbody><tr style=\"height: 44.5px;\" data-mce-style=\"height: 44.5px;\"><td style=\"width: 200pt; text-align: center; height: 22.3906px; background-color: rgb(236, 202, 250);\" colspan=\"5\" width=\"265\" data-mce-style=\"width: 200pt; text-align: center; height: 22.3906px; background-color: rgb(236, 202, 250);\">2 - 4 класи</td></tr><tr style=\"height: 22.3906px;\" data-mce-style=\"height: 22.3906px;\"><td class=\"xl68\" style=\"height: 22.3906px; background-color: rgb(53, 152, 219);\" data-mce-style=\"height: 22.3906px; background-color: rgb(53, 152, 219);\"><br data-mce-bogus=\"1\"></td><td class=\"xl68\" style=\"height: 22.3906px; background-color: rgb(53, 152, 219);\" data-mce-style=\"height: 22.3906px; background-color: rgb(53, 152, 219);\"><br data-mce-bogus=\"1\"></td><td class=\"xl68\" style=\"height: 22.3906px; background-color: rgb(53, 152, 219);\" data-mce-style=\"height: 22.3906px; background-color: rgb(53, 152, 219);\"><br data-mce-bogus=\"1\"></td><td class=\"xl68\" style=\"height: 22.3906px; background-color: rgb(53, 152, 219);\" data-mce-style=\"height: 22.3906px; background-color: rgb(53, 152, 219);\"><br data-mce-bogus=\"1\"></td><td class=\"xl68\" style=\"height: 22.3906px; background-color: rgb(53, 152, 219);\" data-mce-style=\"height: 22.3906px; background-color: rgb(53, 152, 219);\"><br data-mce-bogus=\"1\"></td></tr><tr style=\"height: 44.5px;\" data-mce-style=\"height: 44.5px;\"><td class=\"xl66\" style=\"height: 44.5px; background-color: rgb(53, 152, 219); width: 70.2031px;\" height=\"20\" data-mce-style=\"height: 44.5px; background-color: rgb(53, 152, 219); width: 70.2031px;\">8:30</td><td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 38.6094px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 38.6094px;\">-</td><td class=\"xl66\" style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 70.2031px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 70.2031px;\">9:10</td><td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 32.1875px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 32.1875px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 66.7969px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 66.7969px;\">1 урок</td></tr><tr style=\"height: 22.3906px;\" data-mce-style=\"height: 22.3906px;\"><td class=\"xl67\" style=\"height: 22.3906px; background-color: rgb(53, 152, 219); width: 70.1875px;\" height=\"20\" data-mce-style=\"height: 22.3906px; background-color: rgb(53, 152, 219); width: 70.1875px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 38.6094px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 38.6094px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 70.1875px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 70.1875px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 32.1875px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 32.1875px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 66.8281px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 66.8281px;\"><br data-mce-bogus=\"1\"></td></tr><tr style=\"height: 44.5px;\" data-mce-style=\"height: 44.5px;\"><td class=\"xl66\" style=\"height: 44.5px; background-color: rgb(53, 152, 219); width: 70.1875px;\" height=\"20\" data-mce-style=\"height: 44.5px; background-color: rgb(53, 152, 219); width: 70.1875px;\">9:40</td><td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 38.6094px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 38.6094px;\">-</td><td class=\"xl66\" style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 70.1875px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 70.1875px;\">10:20</td><td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 32.1875px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 32.1875px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 66.8281px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 66.8281px;\">2 урок</td></tr><tr style=\"height: 22.3906px;\" data-mce-style=\"height: 22.3906px;\"><td class=\"xl67\" style=\"height: 22.3906px; background-color: rgb(53, 152, 219); width: 70.1875px;\" height=\"20\" data-mce-style=\"height: 22.3906px; background-color: rgb(53, 152, 219); width: 70.1875px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 38.6094px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 38.6094px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 70.1875px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 70.1875px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 32.1875px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 32.1875px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 66.8281px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 66.8281px;\"><br data-mce-bogus=\"1\"></td></tr><tr style=\"height: 44.5px;\" data-mce-style=\"height: 44.5px;\"><td class=\"xl66\" style=\"height: 44.5px; background-color: rgb(53, 152, 219); width: 70.1875px;\" height=\"20\" data-mce-style=\"height: 44.5px; background-color: rgb(53, 152, 219); width: 70.1875px;\">10:55</td><td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 38.6094px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 38.6094px;\">-</td><td class=\"xl66\" style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 70.1875px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 70.1875px;\">11:35</td><td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 32.1875px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 32.1875px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 66.8281px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 66.8281px;\">3 урок</td></tr><tr style=\"height: 22.3906px;\" data-mce-style=\"height: 22.3906px;\"><td class=\"xl67\" style=\"height: 22.3906px; background-color: rgb(53, 152, 219); width: 70.1875px;\" height=\"20\" data-mce-style=\"height: 22.3906px; background-color: rgb(53, 152, 219); width: 70.1875px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 38.6094px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 38.6094px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 70.1875px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 70.1875px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 32.1875px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 32.1875px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 66.8281px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 22.3906px; width: 66.8281px;\"><br data-mce-bogus=\"1\"></td></tr><tr style=\"height: 44.5px;\" data-mce-style=\"height: 44.5px;\"><td class=\"xl66\" style=\"height: 44.5px; background-color: rgb(53, 152, 219); width: 70.1875px;\" height=\"20\" data-mce-style=\"height: 44.5px; background-color: rgb(53, 152, 219); width: 70.1875px;\">11:50</td><td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 38.6094px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 38.6094px;\">-</td><td class=\"xl66\" style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 70.1875px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 70.1875px;\">12:30</td><td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 32.1875px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 32.1875px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 66.8281px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 44.5px; width: 66.8281px;\">4 урок</td></tr><tr style=\"height: 10px;\" data-mce-style=\"height: 10px;\"><td class=\"xl67\" style=\"height: 10px; background-color: rgb(53, 152, 219); width: 70.1875px;\" height=\"20\" data-mce-style=\"height: 10px; background-color: rgb(53, 152, 219); width: 70.1875px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 10px; width: 38.6094px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 10px; width: 38.6094px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 10px; width: 70.1875px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 10px; width: 70.1875px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 10px; width: 32.1875px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 10px; width: 32.1875px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 10px; width: 66.8281px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 10px; width: 66.8281px;\"><br data-mce-bogus=\"1\"></td></tr><tr style=\"height: 44.6875px;\" data-mce-style=\"height: 44.6875px;\"><td class=\"xl66\" style=\"height: 44.6875px; background-color: rgb(53, 152, 219); width: 70.1875px;\" height=\"20\" data-mce-style=\"height: 44.6875px; background-color: rgb(53, 152, 219); width: 70.1875px;\">12:45</td><td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 44.6875px; width: 38.6094px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 44.6875px; width: 38.6094px;\">-</td><td class=\"xl66\" style=\"background-color: rgb(53, 152, 219); height: 44.6875px; width: 70.1875px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 44.6875px; width: 70.1875px;\">13:25</td><td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 44.6875px; width: 32.1875px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 44.6875px; width: 32.1875px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(53, 152, 219); height: 44.6875px; width: 66.8281px;\" data-mce-style=\"background-color: rgb(53, 152, 219); height: 44.6875px; width: 66.8281px;\">5 урок</td></tr></tbody></table>",
         "Фото": "",
         "Ширина малюнка (%)": "",
         "Кнопка з посиланням": "#"
@@ -2289,13 +2289,22 @@
         "id": "254",
         "Розділ": "Розклад дзвінків",
         "Тип (1 - картки, 2- абзаци)": "",
-        "Абзац": "<table style=\"margin-left: auto; margin-right: auto; text-align: center; border-collapse: collapse; width: 284px; height: 295px;\" border=\"0\" width=\"583\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"width: 61px;\" span=\"5\" width=\"53\"></colgroup>\n<tbody>\n<tr style=\"height: 39.875px;\">\n<td style=\"height: 39.875px; text-align: center; background-color: rgb(224, 62, 45);\" colspan=\"5\">5 - 11 класи</td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td class=\"xl71\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\">&nbsp;</td>\n<td class=\"xl70\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\">&nbsp;</td>\n<td class=\"xl70\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\">&nbsp;</td>\n<td class=\"xl70\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\">&nbsp;</td>\n<td class=\"xl70\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\">&nbsp;</td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td class=\"xl66\" style=\"height: 44.5px; background-color: rgb(251, 238, 184); width: 70.2031px;\" height=\"20\">8:30</td>\n<td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 38.6094px;\">-</td>\n<td class=\"xl66\" style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 70.2031px;\">9:15</td>\n<td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 66.7969px;\">1 урок</td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td class=\"xl67\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184); width: 70.1875px;\" height=\"20\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 38.6094px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 70.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 66.8281px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td class=\"xl66\" style=\"height: 44.5px; background-color: rgb(251, 238, 184); width: 70.1875px;\" height=\"20\">9:40</td>\n<td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 38.6094px;\">-</td>\n<td class=\"xl66\" style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 70.1875px;\">10:25</td>\n<td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 66.8281px;\">2 урок</td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td class=\"xl67\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184); width: 70.1875px;\" height=\"20\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 38.6094px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 70.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 66.8281px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td class=\"xl66\" style=\"height: 44.5px; background-color: rgb(251, 238, 184); width: 70.1875px;\" height=\"20\">10:55</td>\n<td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 38.6094px;\">-</td>\n<td class=\"xl66\" style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 70.1875px;\">11:40</td>\n<td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 66.8281px;\">3 урок</td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td class=\"xl67\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184); width: 70.1875px;\" height=\"20\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 38.6094px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 70.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 66.8281px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td class=\"xl66\" style=\"height: 44.5px; background-color: rgb(251, 238, 184); width: 70.1875px;\" height=\"20\">12:10</td>\n<td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 38.6094px;\">-</td>\n<td class=\"xl66\" style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 70.1875px;\">12:55</td>\n<td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 66.8281px;\">4 урок</td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td class=\"xl67\" style=\"height: 10px; background-color: rgb(251, 238, 184); width: 70.1875px;\" height=\"20\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 10px; width: 38.6094px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 10px; width: 70.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 10px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 10px; width: 66.8281px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td class=\"xl66\" style=\"height: 44.6875px; background-color: rgb(251, 238, 184); width: 70.1875px;\" height=\"20\">13:05</td>\n<td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 44.6875px; width: 38.6094px;\">-</td>\n<td class=\"xl66\" style=\"background-color: rgb(251, 238, 184); height: 44.6875px; width: 70.1875px;\">13:50</td>\n<td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 44.6875px; width: 32.1875px;\">&nbsp;</td>\n<td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 44.6875px; width: 66.8281px;\">5 урок</td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td class=\"xl70\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\">&nbsp;</td>\n<td class=\"xl70\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\">&nbsp;</td>\n<td class=\"xl70\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\">&nbsp;</td>\n<td class=\"xl70\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\">&nbsp;</td>\n<td class=\"xl70\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\">&nbsp;</td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td class=\"xl71\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\">14:00</td>\n<td class=\"xl70\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\">-</td>\n<td class=\"xl71\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\">14:45</td>\n<td class=\"xl70\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\">&nbsp;</td>\n<td class=\"xl70\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\">6 урок</td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td class=\"xl70\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\">&nbsp;</td>\n<td class=\"xl70\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\">&nbsp;</td>\n<td class=\"xl70\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\">&nbsp;</td>\n<td class=\"xl70\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\">&nbsp;</td>\n<td class=\"xl70\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\">&nbsp;</td>\n</tr>\n<tr style=\"height: 14.0625px;\">\n<td class=\"xl71\" style=\"height: 14.0625px; background-color: rgb(251, 238, 184);\">14:55</td>\n<td class=\"xl70\" style=\"height: 14.0625px; background-color: rgb(251, 238, 184);\">-</td>\n<td class=\"xl71\" style=\"height: 14.0625px; background-color: rgb(251, 238, 184);\">15:40</td>\n<td class=\"xl70\" style=\"height: 14.0625px; background-color: rgb(251, 238, 184);\">&nbsp;</td>\n<td class=\"xl70\" style=\"height: 14.0625px; background-color: rgb(251, 238, 184);\">7 урок</td>\n</tr>\n</tbody>\n</table>",
+        "Абзац": "<table style=\"margin-left: auto; margin-right: auto; text-align: center; border-collapse: collapse; width: 284px; height: 295px;\" border=\"0\" width=\"583\" cellspacing=\"0\" cellpadding=\"0\" data-mce-style=\"margin-left: auto; margin-right: auto; text-align: center; border-collapse: collapse; width: 284px; height: 295px;\" class=\"mce-item-table\"><colgroup><col style=\"width: 61px;\" span=\"5\" width=\"53\" data-mce-style=\"width: 61px;\"></colgroup><tbody><tr style=\"height: 39.875px;\" data-mce-style=\"height: 39.875px;\"><td style=\"height: 39.875px; text-align: center; background-color: rgb(224, 62, 45);\" colspan=\"5\" data-mce-style=\"height: 39.875px; text-align: center; background-color: rgb(224, 62, 45);\">5 - 11 класи</td></tr><tr style=\"height: 22.3906px;\" data-mce-style=\"height: 22.3906px;\"><td class=\"xl71\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\" data-mce-style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\"><br data-mce-bogus=\"1\"></td><td class=\"xl70\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\" data-mce-style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\"><br data-mce-bogus=\"1\"></td><td class=\"xl70\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\" data-mce-style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\"><br data-mce-bogus=\"1\"></td><td class=\"xl70\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\" data-mce-style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\"><br data-mce-bogus=\"1\"></td><td class=\"xl70\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\" data-mce-style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\"><br data-mce-bogus=\"1\"></td></tr><tr style=\"height: 22.3906px;\" data-mce-style=\"height: 22.3906px;\"><td class=\"xl66\" style=\"height: 44.5px; background-color: rgb(251, 238, 184); width: 70.2031px;\" height=\"20\" data-mce-style=\"height: 44.5px; background-color: rgb(251, 238, 184); width: 70.2031px;\">8:30</td><td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 38.6094px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 38.6094px;\">-</td><td class=\"xl66\" style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 70.2031px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 70.2031px;\">9:15</td><td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 32.1875px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 32.1875px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 66.7969px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 66.7969px;\">1 урок</td></tr><tr style=\"height: 22.3906px;\" data-mce-style=\"height: 22.3906px;\"><td class=\"xl67\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184); width: 70.1875px;\" height=\"20\" data-mce-style=\"height: 22.3906px; background-color: rgb(251, 238, 184); width: 70.1875px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 38.6094px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 38.6094px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 70.1875px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 70.1875px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 32.1875px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 32.1875px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 66.8281px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 66.8281px;\"><br data-mce-bogus=\"1\"></td></tr><tr style=\"height: 22.3906px;\" data-mce-style=\"height: 22.3906px;\"><td class=\"xl66\" style=\"height: 44.5px; background-color: rgb(251, 238, 184); width: 70.1875px;\" height=\"20\" data-mce-style=\"height: 44.5px; background-color: rgb(251, 238, 184); width: 70.1875px;\">9:40</td><td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 38.6094px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 38.6094px;\">-</td><td class=\"xl66\" style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 70.1875px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 70.1875px;\">10:25</td><td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 32.1875px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 32.1875px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 66.8281px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 66.8281px;\">2 урок</td></tr><tr style=\"height: 22.3906px;\" data-mce-style=\"height: 22.3906px;\"><td class=\"xl67\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184); width: 70.1875px;\" height=\"20\" data-mce-style=\"height: 22.3906px; background-color: rgb(251, 238, 184); width: 70.1875px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 38.6094px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 38.6094px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 70.1875px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 70.1875px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 32.1875px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 32.1875px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 66.8281px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 66.8281px;\"><br data-mce-bogus=\"1\"></td></tr><tr style=\"height: 22.3906px;\" data-mce-style=\"height: 22.3906px;\"><td class=\"xl66\" style=\"height: 44.5px; background-color: rgb(251, 238, 184); width: 70.1875px;\" height=\"20\" data-mce-style=\"height: 44.5px; background-color: rgb(251, 238, 184); width: 70.1875px;\">10:55</td><td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 38.6094px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 38.6094px;\">-</td><td class=\"xl66\" style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 70.1875px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 70.1875px;\">11:40</td><td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 32.1875px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 32.1875px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 66.8281px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 66.8281px;\">3 урок</td></tr><tr style=\"height: 22.3906px;\" data-mce-style=\"height: 22.3906px;\"><td class=\"xl67\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184); width: 70.1875px;\" height=\"20\" data-mce-style=\"height: 22.3906px; background-color: rgb(251, 238, 184); width: 70.1875px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 38.6094px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 38.6094px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 70.1875px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 70.1875px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 32.1875px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 32.1875px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 66.8281px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 22.3906px; width: 66.8281px;\"><br data-mce-bogus=\"1\"></td></tr><tr style=\"height: 22.3906px;\" data-mce-style=\"height: 22.3906px;\"><td class=\"xl66\" style=\"height: 44.5px; background-color: rgb(251, 238, 184); width: 70.1875px;\" height=\"20\" data-mce-style=\"height: 44.5px; background-color: rgb(251, 238, 184); width: 70.1875px;\">11:50</td><td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 38.6094px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 38.6094px;\">-</td><td class=\"xl66\" style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 70.1875px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 70.1875px;\">12:35</td><td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 32.1875px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 32.1875px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 66.8281px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 44.5px; width: 66.8281px;\">4 урок</td></tr><tr style=\"height: 22.3906px;\" data-mce-style=\"height: 22.3906px;\"><td class=\"xl67\" style=\"height: 10px; background-color: rgb(251, 238, 184); width: 70.1875px;\" height=\"20\" data-mce-style=\"height: 10px; background-color: rgb(251, 238, 184); width: 70.1875px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 10px; width: 38.6094px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 10px; width: 38.6094px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 10px; width: 70.1875px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 10px; width: 70.1875px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 10px; width: 32.1875px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 10px; width: 32.1875px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 10px; width: 66.8281px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 10px; width: 66.8281px;\"><br data-mce-bogus=\"1\"></td></tr><tr style=\"height: 22.3906px;\" data-mce-style=\"height: 22.3906px;\"><td class=\"xl66\" style=\"height: 44.6875px; background-color: rgb(251, 238, 184); width: 70.1875px;\" height=\"20\" data-mce-style=\"height: 44.6875px; background-color: rgb(251, 238, 184); width: 70.1875px;\">12:45</td><td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 44.6875px; width: 38.6094px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 44.6875px; width: 38.6094px;\">-</td><td class=\"xl66\" style=\"background-color: rgb(251, 238, 184); height: 44.6875px; width: 70.1875px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 44.6875px; width: 70.1875px;\">13:30</td><td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 44.6875px; width: 32.1875px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 44.6875px; width: 32.1875px;\"><br data-mce-bogus=\"1\"></td><td class=\"xl67\" style=\"background-color: rgb(251, 238, 184); height: 44.6875px; width: 66.8281px;\" data-mce-style=\"background-color: rgb(251, 238, 184); height: 44.6875px; width: 66.8281px;\">5 урок</td></tr><tr style=\"height: 22.3906px;\" data-mce-style=\"height: 22.3906px;\"><td class=\"xl70\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\" data-mce-style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\"><br data-mce-bogus=\"1\"></td><td class=\"xl70\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\" data-mce-style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\"><br data-mce-bogus=\"1\"></td><td class=\"xl70\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\" data-mce-style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\"><br data-mce-bogus=\"1\"></td><td class=\"xl70\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\" data-mce-style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\"><br data-mce-bogus=\"1\"></td><td class=\"xl70\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\" data-mce-style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\"><br data-mce-bogus=\"1\"></td></tr><tr style=\"height: 22.3906px;\" data-mce-style=\"height: 22.3906px;\"><td class=\"xl71\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\" data-mce-style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\">13:40</td><td class=\"xl70\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\" data-mce-style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\">-</td><td class=\"xl71\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\" data-mce-style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\">14:25</td><td class=\"xl70\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\" data-mce-style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\"><br data-mce-bogus=\"1\"></td><td class=\"xl70\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\" data-mce-style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\">6 урок</td></tr><tr style=\"height: 22.3906px;\" data-mce-style=\"height: 22.3906px;\"><td class=\"xl70\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\" data-mce-style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\"><br data-mce-bogus=\"1\"></td><td class=\"xl70\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\" data-mce-style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\"><br data-mce-bogus=\"1\"></td><td class=\"xl70\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\" data-mce-style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\"><br data-mce-bogus=\"1\"></td><td class=\"xl70\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\" data-mce-style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\"><br data-mce-bogus=\"1\"></td><td class=\"xl70\" style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\" data-mce-style=\"height: 22.3906px; background-color: rgb(251, 238, 184);\"><br data-mce-bogus=\"1\"></td></tr><tr style=\"height: 14.0625px;\" data-mce-style=\"height: 14.0625px;\"><td class=\"xl71\" style=\"height: 14.0625px; background-color: rgb(251, 238, 184);\" data-mce-style=\"height: 14.0625px; background-color: rgb(251, 238, 184);\">14:35</td><td class=\"xl70\" style=\"height: 14.0625px; background-color: rgb(251, 238, 184);\" data-mce-style=\"height: 14.0625px; background-color: rgb(251, 238, 184);\">-</td><td class=\"xl71\" style=\"height: 14.0625px; background-color: rgb(251, 238, 184);\" data-mce-style=\"height: 14.0625px; background-color: rgb(251, 238, 184);\">15:20</td><td class=\"xl70\" style=\"height: 14.0625px; background-color: rgb(251, 238, 184);\" data-mce-style=\"height: 14.0625px; background-color: rgb(251, 238, 184);\"><br data-mce-bogus=\"1\"></td><td class=\"xl70\" style=\"height: 14.0625px; background-color: rgb(251, 238, 184);\" data-mce-style=\"height: 14.0625px; background-color: rgb(251, 238, 184);\">7 урок</td></tr></tbody></table>",
         "Фото": "",
         "Ширина малюнка (%)": "",
         "Кнопка з посиланням": "#"
     },
     {
         "id": "255",
+        "Розділ": "Розклад змішаного навчання",
+        "Тип (1 - картки, 2- абзаци)": "",
+        "Абзац": "<p align=\"center\"><span style=\"font-size: 18pt;\" data-mce-style=\"font-size: 18pt;\"><strong><span lang=\"UK\">Графік змішаного навчання</span></strong></span></p><p align=\"center\"><strong><span lang=\"UK\">з 03.11.2025 року</span></strong></p><table border=\"1\" width=\"652\" cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; width: 652px; border-width: 1px; border-spacing: 0px; border-style: none; margin-left: auto; margin-right: auto; height: 675.179px;\"><tbody><tr style=\"height: 54.3984px;\"><td rowspan=\"2\" width=\"179\" style=\"background-color: rgb(241, 196, 15); height: 108.797px;\"><p align=\"center\"><strong><span lang=\"RU\">Укриття, де проходить навчання у разі тривоги</span></strong></p></td><td colspan=\"2\" width=\"472\" style=\"background-color: rgb(241, 196, 15); height: 54.3984px;\"><p align=\"center\"><strong><span lang=\"RU\">Класи</span></strong></p></td></tr><tr style=\"height: 54.3984px;\"><td width=\"246\" style=\"background-color: rgb(241, 196, 15); height: 54.3984px;\"><p align=\"center\"><strong><span lang=\"RU\">з 03.11.2025</span></strong></p></td><td width=\"227\" style=\"background-color: rgb(241, 196, 15); height: 54.3984px;\"><p align=\"center\"><strong><span lang=\"RU\">з 10.11.2025</span></strong></p></td></tr><tr style=\"height: 76.7969px;\"><td valign=\"top\" width=\"179\" style=\"background-color: rgb(194, 224, 244); height: 76.7969px; text-align: center;\" data-mce-style=\"background-color: rgb(194, 224, 244); height: 76.7969px; text-align: center;\"><p><span lang=\"RU\">Укриття початкової школи</span></p></td><td valign=\"top\" width=\"246\" style=\"background-color: rgb(194, 224, 244); height: 76.7969px; text-align: center;\" data-mce-style=\"background-color: rgb(194, 224, 244); height: 76.7969px; text-align: center;\"><p><span lang=\"RU\">4-А, 4-Б, 4-В</span></p></td><td valign=\"top\" width=\"227\" style=\"background-color: rgb(194, 224, 244); height: 76.7969px; text-align: center;\" data-mce-style=\"background-color: rgb(194, 224, 244); height: 76.7969px; text-align: center;\"><p><span lang=\"RU\">3-А, 3-Б, 3-В</span></p></td></tr><tr style=\"height: 54.3984px;\"><td valign=\"top\" width=\"179\" style=\"background-color: rgb(194, 224, 244); height: 54.3984px; text-align: center;\" data-mce-style=\"background-color: rgb(194, 224, 244); height: 54.3984px; text-align: center;\"><p><span lang=\"RU\">Укриття № 1</span></p></td><td valign=\"top\" width=\"246\" style=\"background-color: rgb(194, 224, 244); height: 54.3984px; text-align: center;\" data-mce-style=\"background-color: rgb(194, 224, 244); height: 54.3984px; text-align: center;\"><p><span lang=\"RU\">1-А, 1-Б </span></p></td><td valign=\"top\" width=\"227\" style=\"background-color: rgb(194, 224, 244); height: 54.3984px; text-align: center;\" data-mce-style=\"background-color: rgb(194, 224, 244); height: 54.3984px; text-align: center;\"><p><span lang=\"RU\">1-А, 1-Б</span></p></td></tr><tr style=\"height: 54.3984px;\"><td valign=\"top\" width=\"179\" style=\"background-color: rgb(194, 224, 244); height: 54.3984px; text-align: center;\" data-mce-style=\"background-color: rgb(194, 224, 244); height: 54.3984px; text-align: center;\"><p><span lang=\"RU\">Укриття № 2</span></p></td><td valign=\"top\" width=\"246\" style=\"background-color: rgb(194, 224, 244); height: 54.3984px; text-align: center;\" data-mce-style=\"background-color: rgb(194, 224, 244); height: 54.3984px; text-align: center;\"><p><span lang=\"RU\">10-А</span></p></td><td valign=\"top\" width=\"227\" style=\"background-color: rgb(194, 224, 244); height: 54.3984px; text-align: center;\" data-mce-style=\"background-color: rgb(194, 224, 244); height: 54.3984px; text-align: center;\"><p><span lang=\"RU\">9-А</span></p></td></tr><tr style=\"height: 54.3984px;\"><td valign=\"top\" width=\"179\" style=\"background-color: rgb(194, 224, 244); height: 54.3984px; text-align: center;\" data-mce-style=\"background-color: rgb(194, 224, 244); height: 54.3984px; text-align: center;\"><p><span lang=\"RU\">Укриття № 3</span></p></td><td valign=\"top\" width=\"246\" style=\"background-color: rgb(194, 224, 244); height: 54.3984px; text-align: center;\" data-mce-style=\"background-color: rgb(194, 224, 244); height: 54.3984px; text-align: center;\"><p><span lang=\"RU\">2-А</span></p></td><td valign=\"top\" width=\"227\" style=\"background-color: rgb(194, 224, 244); height: 54.3984px; text-align: center;\" data-mce-style=\"background-color: rgb(194, 224, 244); height: 54.3984px; text-align: center;\"><p><span lang=\"RU\">5-В</span></p></td></tr><tr style=\"height: 54.3984px;\"><td valign=\"top\" width=\"179\" style=\"background-color: rgb(194, 224, 244); height: 54.3984px; text-align: center;\" data-mce-style=\"background-color: rgb(194, 224, 244); height: 54.3984px; text-align: center;\"><p><span lang=\"RU\">Укриття № 4</span></p></td><td valign=\"top\" width=\"246\" style=\"background-color: rgb(194, 224, 244); height: 54.3984px; text-align: center;\" data-mce-style=\"background-color: rgb(194, 224, 244); height: 54.3984px; text-align: center;\"><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><span lang=\"RU\">8-А, 8-Г</span></p></td><td valign=\"top\" width=\"227\" style=\"background-color: rgb(194, 224, 244); text-align: center; height: 54.3984px;\" data-mce-style=\"background-color: rgb(194, 224, 244); text-align: center; height: 54.3984px;\"><p><span lang=\"RU\">8-Б, 8-В</span></p></td></tr><tr style=\"text-align: center; height: 54.3984px;\"><td valign=\"top\" width=\"179\" style=\"background-color: rgb(194, 224, 244); height: 54.3984px;\"><p><span lang=\"RU\">Укриття № 5</span></p></td><td valign=\"top\" width=\"246\" style=\"background-color: rgb(194, 224, 244); height: 54.3984px;\"><p><span lang=\"RU\">6-В, 6-Г</span></p></td><td valign=\"top\" width=\"227\" style=\"background-color: rgb(194, 224, 244); height: 54.3984px;\"><p><span lang=\"RU\">6-А, 6-Б</span></p></td></tr><tr style=\"text-align: center; height: 54.3984px;\"><td valign=\"top\" width=\"179\" style=\"background-color: rgb(194, 224, 244); height: 54.3984px;\"><p><span lang=\"RU\">Укриття № 6</span></p></td><td valign=\"top\" width=\"246\" style=\"background-color: rgb(194, 224, 244); height: 54.3984px;\"><p><span lang=\"RU\">2-Б, 2-В</span></p></td><td valign=\"top\" width=\"227\" style=\"background-color: rgb(194, 224, 244); height: 54.3984px;\"><p><span lang=\"RU\">11-А, 11-Б</span></p></td></tr><tr style=\"text-align: center; height: 54.3984px;\"><td valign=\"top\" width=\"179\" style=\"background-color: rgb(194, 224, 244); height: 54.3984px;\"><p><span lang=\"RU\">Укриття № 7</span></p></td><td valign=\"top\" width=\"246\" style=\"background-color: rgb(194, 224, 244); height: 54.3984px;\"><p><span lang=\"RU\">7-А, 7-Б</span></p></td><td valign=\"top\" width=\"227\" style=\"background-color: rgb(194, 224, 244); height: 54.3984px;\"><p><span lang=\"RU\">7-В, 7-Г</span></p></td></tr><tr style=\"text-align: center; height: 54.3984px;\"><td valign=\"top\" width=\"179\" style=\"background-color: rgb(194, 224, 244); height: 54.3984px;\"><p><span lang=\"RU\">Укриття № 8</span></p></td><td valign=\"top\" width=\"246\" style=\"background-color: rgb(194, 224, 244); height: 54.3984px;\"><p><span lang=\"RU\">9-Б, 9-В</span></p></td><td valign=\"top\" width=\"227\" style=\"background-color: rgb(194, 224, 244); height: 54.3984px;\"><p><span lang=\"RU\">5-А, 5-Б</span></p></td></tr><tr style=\"text-align: center; height: 54.3984px;\"><td valign=\"top\" width=\"179\" style=\"background-color: rgb(194, 224, 244); height: 54.3984px;\"><p><span lang=\"RU\">Коридор укриття</span></p></td><td valign=\"top\" width=\"246\" style=\"background-color: rgb(194, 224, 244); height: 54.3984px;\"><p><span lang=\"RU\">10-Б</span></p></td><td valign=\"top\" width=\"227\" style=\"background-color: rgb(194, 224, 244); height: 54.3984px;\"><p><span lang=\"RU\">&nbsp;</span></p></td></tr></tbody></table>",
+        "Фото": "",
+        "Ширина малюнка (%)": "",
+        "Кнопка з посиланням": "#"
+    },
+    {
+        "id": "256",
         "Розділ": "Атестація педагогічних працівників 2023-2024 н.р.",
         "Тип (1 - картки, 2- абзаци)": "",
         "Абзац": "<table style=\"border-collapse: collapse; width: 100%; height: 111.953px;\" border=\"1\"><colgroup><col style=\"width: 100%;\"></colgroup>\n<tbody>\n<tr style=\"height: 22.3906px;\">\n<td style=\"text-align: center; height: 22.3906px;\"><a href=\"https://drive.google.com/open?id=1cndve-fFnIuVhda_f2cheo4wuzUT_uMb&amp;usp=drive_fs\" target=\"_blank\" rel=\"noopener\">Протокол засідання атестаційної комісії №1</a></td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td style=\"text-align: center; height: 22.3906px;\"><a href=\"https://docs.google.com/spreadsheets/d/1luf6IkH4S2Z_UUYN7TWhNKZu1-wVtSE3?rtpof=true&amp;usp=drive_fs\" target=\"_blank\" rel=\"noopener\">Аркуш самооцінювання</a></td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td style=\"height: 22.3906px; text-align: center;\"><a style=\"text-align: center;\" href=\"https://drive.google.com/open?id=1Im6tz67heEWePzPAghvoNsov_dHiai0J&amp;usp=drive_fs\" target=\"_blank\" rel=\"noopener\">Протокол засідання атестаційної комісії №2</a></td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td style=\"height: 22.3906px; text-align: center;\"><a href=\"https://drive.google.com/open?id=1cQOqfIxqdIrBbqJ4jPdLfQdNwOLapjsU&amp;usp=drive_fs\">Протокол засідання атестаційної комісії №3</a></td>\n</tr>\n<tr style=\"height: 22.3906px;\">\n<td style=\"height: 22.3906px; text-align: center;\"><a href=\"https://drive.google.com/open?id=1dpBGvopRCtJ6_b5cB6znEYMqYGw8FSR8&amp;usp=drive_fs\">Протокол засідання атестаційної комісії №4</a></td>\n</tr>\n<tr>\n<td style=\"text-align: center;\"><a href=\"https://drive.google.com/file/d/11k9IBAk6Cqu5uPXqpw53ZrrR7wmdwUrg/view\">Протокол засідання атестаційної комісії №5</a></td>\n</tr>\n</tbody>\n</table>",
@@ -2304,7 +2313,7 @@
         "Кнопка з посиланням": "#"
     },
     {
-        "id": "256",
+        "id": "257",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Статут закладу освіти",
@@ -2313,7 +2322,7 @@
         "Кнопка з посиланням": "https://drive.google.com/open?id=1Drk2ImJTaCGXRMXrFlEytjFJ7HT8cA0v&usp=drive_fs"
     },
     {
-        "id": "257",
+        "id": "258",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Стратегія розвитку на 2025-2026 роки",
@@ -2322,7 +2331,7 @@
         "Кнопка з посиланням": "https://drive.google.com/open?id=1P7vTUnoshkqLCaRj8r8jI5WnAss0tBL-"
     },
     {
-        "id": "258",
+        "id": "259",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Ліцензії на провадження освітньої діяльності ",
@@ -2331,7 +2340,7 @@
         "Кнопка з посиланням": "https://drive.google.com/file/d/1jDF6unG_pRHNwJrLwwZyTYkJ2zdYH6-o/view?usp=sharing"
     },
     {
-        "id": "259",
+        "id": "260",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Ліцензії на провадження освітньої діяльності",
@@ -2340,7 +2349,7 @@
         "Кнопка з посиланням": "https://docs.google.com/document/d/1i1AVufR9BtmoVjGhPHeamnuYsu_7CGv_/edit?usp=sharing&ouid=107211966"
     },
     {
-        "id": "260",
+        "id": "261",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Сертифікати про акредитацію освітніх програм",
@@ -2349,7 +2358,7 @@
         "Кнопка з посиланням": "https://docs.google.com/document/d/1hv4dlMcfLedpQCLR-i1tiaheufGTDWWY/edit?usp=sharing&ouid=107211966436332045560&rtpof=true&sd=true"
     },
     {
-        "id": "261",
+        "id": "262",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Правила прийому до закладу освіти",
@@ -2358,7 +2367,7 @@
         "Кнопка з посиланням": "https://drive.google.com/file/d/1jYUnwtfrDzymZxgNh6rjilyhyhw-7Ugb/view"
     },
     {
-        "id": "262",
+        "id": "263",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Річний звіт про діяльність закладу освіти",
@@ -2367,7 +2376,7 @@
         "Кнопка з посиланням": "https://drive.google.com/open?id=1L28BdyO810LfW29vCkYxjMVyaXrGBjdW"
     },
     {
-        "id": "263",
+        "id": "264",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Структура та органи управління закладу освіти",
@@ -2376,7 +2385,7 @@
         "Кнопка з посиланням": "https://docs.google.com/document/d/1hwtbSFbtL2Z6I0SNKEe2Ch4AdKi-qXrI/edit?usp=sharing&ouid=107211966436332045560&rtpof=true&sd=true"
     },
     {
-        "id": "264",
+        "id": "265",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Кадровий склад закладу освіти згідно з ліцензійними умовами",
@@ -2385,7 +2394,7 @@
         "Кнопка з посиланням": "./page?titlePages=Учительська&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
-        "id": "265",
+        "id": "266",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Освітні програми, що реалізуються в закладі освіти, та перелік освітніх компонентів, що передбачені відповідною освітньою програмою",
@@ -2394,7 +2403,7 @@
         "Кнопка з посиланням": "https://drive.google.com/drive/u/2/folders/1DGJTGrrXmUMjLUFlxlekKR-s1fACd8PL"
     },
     {
-        "id": "266",
+        "id": "267",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Територія обслуговування, закріплена за закладом освіти його засновником",
@@ -2403,7 +2412,7 @@
         "Кнопка з посиланням": "https://drive.google.com/open?id=1bTD010OZEo9koirO8oIuvVSn65yAr0IF"
     },
     {
-        "id": "267",
+        "id": "268",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Ліцензований обсяг та фактична кількість осіб, які навчаються у закладі освіти",
@@ -2412,7 +2421,7 @@
         "Кнопка з посиланням": "./page?titlePages=Ліцензований%20обсяг%20та%20фактична%20кількість%20осіб,%20які%20навчаються%20у%20закладі%20освіти&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
-        "id": "268",
+        "id": "269",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Мова (мови) освітнього процесу",
@@ -2421,7 +2430,7 @@
         "Кнопка з посиланням": "https://drive.google.com/open?id=1w7Ix7tbRsugYoXhVA-eDLe_ZxOvIMHRU&usp=drive_fs"
     },
     {
-        "id": "269",
+        "id": "270",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Наявність вакантних посад, порядок і умови проведення конкурсу на їх заміщення (у разі його проведення)",
@@ -2430,7 +2439,7 @@
         "Кнопка з посиланням": "https://docs.google.com/document/d/1EQ21OtQ4eoI9gHarcYH8zMulXQYCE4er?rtpof=true&usp=drive_fs"
     },
     {
-        "id": "270",
+        "id": "271",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Матеріально-технічне забезпечення закладу освіти (згідно з ліцензійними умовами)",
@@ -2439,7 +2448,7 @@
         "Кнопка з посиланням": "./page?titlePages=%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE-%D1%82%D0%B5%D1%85%D0%BD%D1%96%D1%87%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B0&keyPages=12tqoeJpUs1qa9paI7YuMpZ17nynq44-qqmn0zgoEup4"
     },
     {
-        "id": "271",
+        "id": "272",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Результати моніторингу якості освіти",
@@ -2448,7 +2457,7 @@
         "Кнопка з посиланням": "https://docs.google.com/document/d/1hvM4Ndy2sgWtbPLyiJUDvzIEtHumG__p/edit?usp=sharing&ouid=107211966436332045560&rtpof=true&sd=true"
     },
     {
-        "id": "272",
+        "id": "273",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Умови доступності закладу освіти для навчання осіб з особливими освітніми потребами",
@@ -2457,7 +2466,7 @@
         "Кнопка з посиланням": "https://docs.google.com/document/d/1hrUfGYj2XFDIXGJMoNNSXhQdw6n6EgBv/edit?usp=sharing&ouid=107211966436332045560&rtpof=true&sd=true"
     },
     {
-        "id": "273",
+        "id": "274",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Перелік додаткових освітніх та інших послуг, їх вартість, порядок надання та оплати",
@@ -2466,7 +2475,7 @@
         "Кнопка з посиланням": "./page?titlePages=Перелік додаткових освітніх та інших послуг, їх вартість, порядок надання та оплати&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
-        "id": "274",
+        "id": "275",
         "Розділ": "Перелік додаткових освітніх та інших послуг, їх вартість, порядок надання та оплати",
         "Тип (1 - картки, 2- абзаци)": "",
         "Абзац": "<p><a href=\"https://drive.google.com/file/d/1s_wHbFbHnbE7fefQloNo58euxgLzqf-O/view?usp=sharing\" target=\"_blank\" rel=\"noopener\">Порядок надання платних послуг з виробництва та реалізації продукції громадського харчування, організації її споживання у Куликівському ліцеї</a></p>\n<p><a href=\"https://drive.google.com/file/d/1vFBfROj42q35bAZ5wXFzOp7L3NbaxgxN/view?usp=sharing\" target=\"_blank\" rel=\"noopener\">Розпорядження про затвердження калькуляції вартості разового харчування для працівників Куликівського ліцею 05.03.2025</a></p>\n<p><a href=\"https://drive.google.com/file/d/1_balM2fHVuawu0vdnlDIipNYJ65az_Od/view?usp=sharing\" target=\"_blank\" rel=\"noopener\">Калькуляція харчування 05.03.2025</a></p>\n<p><a href=\"https://drive.google.com/file/d/1fq8IDe-z3i9HG-XHcPlqe5zDEWUKExQR/view?usp=sharing\" target=\"_blank\" rel=\"noopener\">Калькуляція харчування 29.09.2025</a></p>",
@@ -2475,7 +2484,7 @@
         "Кнопка з посиланням": "#"
     },
     {
-        "id": "275",
+        "id": "276",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Правила поведінки здобувача освіти в закладі освіти",
@@ -2484,7 +2493,7 @@
         "Кнопка з посиланням": "https://drive.google.com/file/d/1vg-BzgtyalxjVKztV_cOp461k51LZs27/view"
     },
     {
-        "id": "276",
+        "id": "277",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "План заходів, спрямованих на запобігання та протидію булінгу в закладі освіти",
@@ -2493,7 +2502,7 @@
         "Кнопка з посиланням": "./page?titlePages=%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B4%D1%96%D1%8F%20%D0%B1%D1%83%D0%BB%D1%96%D0%BD%D0%B3%D1%83&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
-        "id": "277",
+        "id": "278",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Порядок подання та розгляду (з дотриманням конфіденційності) заяв про випадки булінгу в закладі освіти",
@@ -2502,7 +2511,7 @@
         "Кнопка з посиланням": "./page?titlePages=%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B4%D1%96%D1%8F%20%D0%B1%D1%83%D0%BB%D1%96%D0%BD%D0%B3%D1%83&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
-        "id": "278",
+        "id": "279",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Порядок реагування на доведені випадки булінгу в закладі освіти та відповідальність осіб, причетних до булінгу",
@@ -2511,7 +2520,7 @@
         "Кнопка з посиланням": "https://docs.google.com/document/d/1nvGN4R0-dYMDeteVtWiEL1m58FMISGoo/edit?usp=sharing&ouid=107211966436332045560&rtpof=true&sd=true"
     },
     {
-        "id": "279",
+        "id": "280",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Закупівлі",
@@ -2520,7 +2529,7 @@
         "Кнопка з посиланням": "./page?titlePages=Закупівлі&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
-        "id": "280",
+        "id": "281",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Фінансовий звіт за 2024 рік",
@@ -2529,7 +2538,7 @@
         "Кнопка з посиланням": "https://drive.google.com/drive/folders/17sytNdRdRpi7g1Tv-lwFB3GSQH9hDT6b?usp=sharing"
     },
     {
-        "id": "281",
+        "id": "282",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Фінансовий звіт за 2023 рік",
@@ -2538,7 +2547,7 @@
         "Кнопка з посиланням": "https://drive.google.com/drive/folders/1-qGZWWSQsuThiO8eOp-0828zhGBU3jnj?usp=sharing"
     },
     {
-        "id": "282",
+        "id": "283",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Орієнтовний план підвищення кваліфікації педагогічних працівників на 2024 рік",
@@ -2547,7 +2556,7 @@
         "Кнопка з посиланням": "https://drive.google.com/open?id=1KKGGYwUZzhLgHF0SgCdhQAGW-oc8RtaJ"
     },
     {
-        "id": "283",
+        "id": "284",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Орієнтовний план підвищення кваліфікації педагогічних працівників на 2025 рік",
@@ -2556,7 +2565,7 @@
         "Кнопка з посиланням": "https://docs.google.com/document/d/10TZMTScWyLYQHNMJJ7T1bo26wl4-81_a/edit?usp=sharing&ouid=107211966436332045560&rtpof=true&sd=true"
     },
     {
-        "id": "284",
+        "id": "285",
         "Розділ": "Вибори підручників та посібників",
         "Тип (1 - картки, 2- абзаци)": "",
         "Абзац": "<div style=\"text-align: center;\"> <table style=\"border-collapse: collapse; width: 100%; border-width: 0px; border-spacing: 0px; height: 895.624px;\" border=\"1\" width=\"64\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"width: 1240px;\" width=\"64\"></colgroup> <tbody> <tr style=\"height: 22.3906px;\"> <td style=\"width: 48pt; text-align: center; background-color: rgb(194, 224, 244); height: 22.3906px;\"><strong>2024-2025 навчальний рік</strong></td> </tr> <tr style=\"height: 22.3906px;\"> <td style=\"width: 48pt; text-align: center; height: 22.3906px;\"><a href=\"https://drive.google.com/uc?export=download&id=1lEH11DOdJp2IZF1esYKP5BPICc8nTMBd\" target=\"_blank\" rel=\"noopener\">Результати вибору для 1 класу</a></td> </tr> <tr style=\"height: 22.3906px;\"> <td style=\"width: 48pt; text-align: center; height: 22.3906px;\"><a href=\"https://drive.google.com/uc?export=download&id=1lEdd48LBxrCWSezvA7hfy052v3g-c3Z6\" target=\"_blank\" rel=\"noopener\">Результати вибору для 2 класу</a></td> </tr> <tr> <td style=\"width: 48pt; text-align: center;\"><a href=\"https://drive.google.com/uc?export=download&id=1BrLrXFARmxFlySiLAmNqG9MSXZWjwOZi\" target=\"_blank\" rel=\"noopener\">Результати вибору для 3 класу</a></td> </tr> <tr style=\"height: 22.3906px;\"> <td style=\"width: 48pt; text-align: center; height: 22.3906px;\"><a href=\"https://drive.google.com/uc?export=download&id=1AZ6nVLSfH17YJaNETcOHUaeVHIXeG8Dn\">Результати вибору для 8 класу&nbsp;</a></td> </tr> <tr style=\"height: 22.3906px;\"> <td style=\"width: 48pt; text-align: center; height: 22.3906px;\">&nbsp;</td> </tr> <tr style=\"height: 22.3906px;\"> <td style=\"height: 22.3906px; width: 48pt; text-align: center; background-color: rgb(194, 224, 244);\" width=\"64\" height=\"20\"><strong>2023-2024 навчальний рік</strong></td> </tr> <tr style=\"height: 22.3906px;\"> <td class=\"xl65\" style=\"height: 22.3906px; text-align: center; padding: 3px;\" height=\"20\"><a href=\"https://drive.google.com/uc?export=download&id=1IJB42fUZ47jlqDoRuNEooRNjeWfuFu0L\" target=\"_blank\" rel=\"noopener\">Результати вибору для 1 класу</a></td> </tr> <tr style=\"height: 22.3906px;\"> <td style=\"height: 22.3906px; text-align: center; padding: 3px;\" height=\"20\"><a href=\"https://drive.google.com/open?id=1TRY8nic72YkpKzmr8fcSKGmnGgl_2dB7&amp;usp=drive_fs\" target=\"_blank\" rel=\"noopener\">Результати вибору для 2 класу</a></td> </tr> <tr style=\"height: 22.3906px;\"> <td style=\"height: 22.3906px; text-align: center; padding: 3px;\" height=\"20\"><a href=\"https://drive.google.com/open?id=1awpDwLKfu6YfgvYWe_MzUOiO-eeCFeVC&amp;usp=drive_fs\" target=\"_blank\" rel=\"noopener\">Результати вибору для 7 класу</a></td> </tr> <tr style=\"height: 22.3906px;\"> <td style=\"height: 22.3906px; text-align: center; padding: 3px;\" height=\"20\"><a href=\"https://drive.google.com/uc?export=download&id=12ABOk6sf77GdIzvv56uyTMfqVy9L_URG\">Результати вибору для 11 класу</a></td> </tr> <tr style=\"height: 22.3906px;\"> <td style=\"height: 22.3906px; text-align: center; padding: 3px;\" height=\"20\"><a href=\"https://drive.google.com/uc?export=download&id=1RjJJVxTCqjjdpc_N4S70z93rEJSm4wMl\">Результати вибору для 11 класу</a></td> </tr> <tr style=\"height: 22.3906px;\"> <td style=\"text-align: center; height: 22.3906px;\">&nbsp;</td> </tr> <tr style=\"height: 22.3906px;\"> <td style=\"height: 22.3906px; text-align: center; background-color: rgb(194, 224, 244);\" height=\"20\"><strong>2022-2023 навчальний рік</strong></td> </tr> <tr style=\"height: 22.3906px;\"> <td class=\"xl65\" style=\"height: 22.3906px; text-align: center; padding: 3px;\" height=\"20\"><a href=\"https://drive.google.com/uc?export=download&id=1zXAdAxPqZ9Ge5WGJdy1x2wWAJgq5mQJi\" target=\"_blank\" rel=\"noopener\">Результати вибору для 1 класу</a></td> </tr> <tr style=\"height: 22.3906px;\"> <td class=\"xl65\" style=\"height: 22.3906px; text-align: center; padding: 3px;\" height=\"20\"><a href=\"https://drive.google.com/uc?export=download&id=1BYF6Hy32kRJrVGO235MvrRCZ4Fn5REjO\" target=\"_blank\" rel=\"noopener\">Результати вибору для 6 класу</a></td> </tr> <tr style=\"height: 22.3906px;\"> <td class=\"xl65\" style=\"height: 22.3906px; text-align: center; padding: 3px;\" height=\"20\"><a href=\"https://drive.google.com/uc?export=download&id=1uaS85kgEZr1xulBrfiriNuuaR6nK7G8x\" target=\"_blank\" rel=\"noopener\">Результати вибору для 10 класу</a></td> </tr> <tr style=\"height: 22.3906px;\"> <td style=\"height: 22.3906px; text-align: center; padding: 3px;\" height=\"20\">&nbsp;</td> </tr> <tr style=\"height: 22.3906px;\"> <td style=\"height: 22.3906px; text-align: center; background-color: rgb(194, 224, 244);\" height=\"20\"><strong>2021-2022 навчальний рік</strong></td> </tr> <tr style=\"height: 22.3906px;\"> <td class=\"xl65\" style=\"height: 22.3906px; text-align: center; padding: 3px;\" height=\"20\"><a href=\"https://drive.google.com/uc?export=download&id=1nTXmWIVgEeU8SVsNEUBb7kozAHCKeerw\" target=\"_blank\" rel=\"noopener\">Результати вибору для 5 класу</a></td> </tr> <tr style=\"height: 22.3906px;\"> <td class=\"xl65\" style=\"height: 22.3906px; text-align: center; padding: 3px;\" height=\"20\"><a href=\"https://drive.google.com/uc?export=download&id=1IMPliCs6IN3x68HCpUKdeliHxPAzi023\" target=\"_blank\" rel=\"noopener\">Результати вибору для додруку підручників 9 класу</a></td> </tr> <tr style=\"height: 22.3906px;\"> <td class=\"xl65\" style=\"height: 22.3906px; text-align: center; padding: 3px;\" height=\"20\"><a href=\"https://drive.google.com/uc?export=download&id=1ITymilaXiYlh8yrDrcIF-q62h2zhSj0M\" target=\"_blank\" rel=\"noopener\">Результати вибору для повторного видання підручників 9 класу</a></td> </tr> <tr style=\"height: 22.3906px;\"> <td style=\"height: 22.3906px; text-align: center; padding: 3px;\" height=\"20\">&nbsp;</td> </tr> <tr style=\"height: 22.3906px;\"> <td style=\"height: 22.3906px; text-align: center; background-color: rgb(194, 224, 244);\" height=\"20\"><strong>2020-2021 навчальний рік</strong></td> </tr> <tr style=\"height: 22.3906px;\"> <td class=\"xl65\" style=\"height: 22.3906px; text-align: center; padding: 3px;\" height=\"20\"><a href=\"https://drive.google.com/uc?export=download&id=1FrjH4t33r_btzEfjYqzcMdW0YJDbLore\" target=\"_blank\" rel=\"noopener\">Результати вибору для 4 класу</a></td> </tr> <tr style=\"height: 22.3906px;\"> <td class=\"xl65\" style=\"height: 22.3906px; text-align: center; padding: 3px;\" height=\"20\"><a href=\"https://drive.google.com/uc?export=download&id=1wF5kkXtaHSXKfc7zqnUUtpWfPkollJi7\" target=\"_blank\" rel=\"noopener\">Результати вибору для 8 класу</a></td> </tr> <tr style=\"height: 22.3906px;\"> <td class=\"xl65\" style=\"height: 22.3906px; text-align: center; padding: 3px;\" height=\"20\"><a href=\"https://drive.google.com/uc?export=download&id=1ToCoHX6KHApR3UTFFtQSDVNtdrhhY-3_\" target=\"_blank\" rel=\"noopener\">Результати вибору з історії та інформатики 8 клас</a></td> </tr> <tr style=\"height: 22.3906px;\"> <td style=\"height: 22.3906px; text-align: center; padding: 3px;\" height=\"20\">&nbsp;</td> </tr> <tr style=\"height: 22.3906px;\"> <td style=\"height: 22.3906px; text-align: center; background-color: rgb(194, 224, 244);\" height=\"20\"><strong>2019-2020 навчальний рік</strong></td> </tr> <tr style=\"height: 22.3906px;\"> <td class=\"xl65\" style=\"height: 22.3906px; text-align: center; padding: 3px;\" height=\"20\"><a href=\"https://drive.google.com/uc?export=download&id=1GzdGA0SU4yFoNyNeLnSvWXI8VGzsug5L\" target=\"_blank\" rel=\"noopener\">Результати вибору для 3 класу</a></td> </tr> <tr style=\"height: 22.3906px;\"> <td class=\"xl65\" style=\"height: 22.3906px; text-align: center; padding: 3px;\" height=\"20\"><a href=\"https://drive.google.com/uc?export=download&id=1b2hJhSEDMNBQyLYhWLCvlTwTtUzE8RbQ\" target=\"_blank\" rel=\"noopener\">Результати вибору для 7 класу</a></td> </tr> <tr style=\"height: 22.3906px;\"> <td style=\"height: 22.3906px; text-align: center; padding: 3px;\" height=\"20\">&nbsp;</td> </tr> <tr style=\"height: 22.3906px;\"> <td style=\"height: 22.3906px; text-align: center; background-color: rgb(194, 224, 244);\" height=\"20\"><strong>2018-2019 навчальний рік</strong></td> </tr> <tr style=\"height: 22.3906px;\"> <td class=\"xl65\" style=\"height: 22.3906px; text-align: center; padding: 3px;\" height=\"20\"><a href=\"https://docs.google.com/spreadsheets/d/13eQIb1C5_7R2M39ob7qvwUWAk9CSKgu_/edit?usp=sharing&amp;ouid=107211966436332045560&amp;rtpof=true&amp;sd=true\" target=\"_blank\" rel=\"noopener\">Результати вибору для 2 класу</a></td> </tr> <tr style=\"height: 22.3906px;\"> <td class=\"xl65\" style=\"height: 22.3906px; text-align: center; padding: 3px;\" height=\"20\"><a href=\"https://docs.google.com/spreadsheets/d/1-dQnpZz-D-ibQp40K77Ij27YZ_U9jpge/edit?usp=sharing&amp;ouid=107211966436332045560&amp;rtpof=true&amp;sd=true\" target=\"_blank\" rel=\"noopener\">Результати вибору підручників з інформатики для 5 класу</a></td> </tr> <tr style=\"height: 22.3906px;\"> <td class=\"xl65\" style=\"height: 22.3906px; text-align: center; padding: 3px;\" height=\"20\"><a href=\"https://docs.google.com/spreadsheets/d/1fBF0WDhplzPiEBsQEsQrvQtWnneKkjCL/edit?usp=sharing&amp;ouid=107211966436332045560&amp;rtpof=true&amp;sd=true\" target=\"_blank\" rel=\"noopener\">Результати вибору для 6 класу</a></td> </tr> <tr style=\"height: 22.3906px;\"> <td style=\"height: 22.3906px; text-align: center; padding: 3px;\" height=\"20\">&nbsp;</td> </tr> <tr style=\"height: 22.3906px;\"> <td style=\"height: 22.3906px; text-align: center; background-color: rgb(194, 224, 244);\" height=\"20\"><strong>2017-2018 навчальний рік</strong></td> </tr> <tr style=\"height: 22.3906px;\"> <td class=\"xl65\" style=\"height: 22.3906px; text-align: center; padding: 3px;\" height=\"20\"><a href=\"https://drive.google.com/uc?export=download&id=1bP5JDWhOVnD071iHDMk7KLZ8MhE-i4ez\" target=\"_blank\" rel=\"noopener\">Результати вибору для 1 класу</a></td> </tr> <tr style=\"height: 22.3906px;\"> <td class=\"xl65\" style=\"height: 22.3906px; text-align: center; padding: 3px;\" height=\"20\"><a href=\"https://docs.google.com/spreadsheets/d/1WB1kmqkYT3Pyc3z52VFIVPbMQ1y_fTty/edit?usp=sharing&amp;ouid=107211966436332045560&amp;rtpof=true&amp;sd=true\" target=\"_blank\" rel=\"noopener\">Результати вибору для 5 класу</a></td> </tr> <tr style=\"height: 22.3906px;\"> <td class=\"xl65\" style=\"height: 22.3906px; text-align: center; padding: 3px;\" height=\"20\"><a href=\"https://docs.google.com/spreadsheets/d/1nnb0B0kSyQsYZzoESaYT1AGGwGwhQgHd/edit?usp=sharing&amp;ouid=107211966436332045560&amp;rtpof=true&amp;sd=true\">Результати вибору для 10 класу</a></td> </tr> </tbody> </table> </div>'",
@@ -2565,7 +2574,7 @@
         "Кнопка з посиланням": "#"
     },
     {
-        "id": "285",
+        "id": "286",
         "Розділ": "Вибори підручників та посібників",
         "Тип (1 - картки, 2- абзаци)": "",
         "Абзац": "<p><a href=\"https://drive.google.com/drive/folders/1oHJ1BVMnhlHXV9wPSbjam7k515asz2S_?usp=sharing\" target=\"_blank\" rel=\"noopener\">Підручники, за якими працює Куликівський ліцей</a></p>",
@@ -2574,7 +2583,7 @@
         "Кнопка з посиланням": "#"
     },
     {
-        "id": "286",
+        "id": "287",
         "Розділ": "«Сокіл» («Джура») 2024",
         "Тип (1 - картки, 2- абзаци)": "",
         "Абзац": "<p style=\"text-align: center;\">\n<iframe width=\"930\" height=\"523\" src=\"https://www.youtube.com/embed/j1P9y3IRt60\" title=\"Старша ланка\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></p>\n\n<p style=\"text-align: center;\"><iframe width=\"930\" height=\"523\" src=\"https://www.youtube.com/embed/tztrUT-jVXA\" title=\"Середня ланка  Джура\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></p>\n\n\n<p style=\"text-align: center;\"><iframe width=\"930\" height=\"523\" src=\"https://www.youtube.com/embed/lC9Vz5n_anw\" title=\"Джура  Молодша ланка\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></p>\n\n\n\n<h3 style=\"text-align: center;\">Книга звитяг</h3>\n<p style=\"text-align: center;\">&nbsp;</p>\n<div style=\"display: flex; justify-content: center; flex-wrap: wrap;\">\n<div style=\"display: flex; flex-direction: column;\">\n\n\n<div style=\"display: flex; flex-direction: column;\">\n<h4 style=\"text-align: center;\">Старша ланка</h4>\n<p><iframe style=\"width: 480px; height: 644px; display: table; margin-left: auto; margin-right: auto;\" src=\"https://drive.google.com/file/d/1XCGmNjrf1SSM5R3_J_U5y56TeCzIZG3-/preview\" width=\"487\" height=\"646\"></iframe></p>\n</div>\n\n<div style=\"display: flex; flex-direction: column;\">\n<h4 style=\"text-align: center;\">Середня ланка</h4>\n<p>\n<iframe style=\"width: 480px; height: 644px; display: table; margin-left: auto; margin-right: auto;\" src=\"https://drive.google.com/file/d/1X4-Bu62iSVWP8g10xelYEtliNHQI-Ok5/preview\" width=\"487\" height=\"646\"></iframe>\n</p>\n</div>\n\n<h4 style=\"text-align: center;\">Молодша ланка</h4>\n<p><iframe style=\"width: 480px; height: 644px;\" src=\"https://drive.google.com/file/d/1WywsKpnqHIc__PkT62AEODjf_AfNfwKl/preview\" width=\"483\" height=\"644\"></iframe>&nbsp; &nbsp; &nbsp;&nbsp;</p>\n</div>\n\n</div>",
@@ -2583,7 +2592,7 @@
         "Кнопка з посиланням": "#"
     },
     {
-        "id": "287",
+        "id": "288",
         "Розділ": "«Сокіл» («Джура») 2025",
         "Тип (1 - картки, 2- абзаци)": "",
         "Абзац": "<p style=\"text-align: center;\">\n<iframe width=\"930\" height=\"523\" src=\"https://www.youtube.com/embed/WV_GGMxEsfk\" title=\"Старша ланка\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></p>\n\n<p style=\"text-align: center;\"><iframe width=\"930\" height=\"523\" src=\"https://www.youtube.com/embed/5TGb-d8A224\" title=\"Середня ланка  Джура\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></p>\n\n\n<p style=\"text-align: center;\"><iframe width=\"930\" height=\"523\" src=\"https://www.youtube.com/embed/dejmRaHIkaA\" title=\"Джура  Молодша ланка\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></p>\n\n\n\n<h3 style=\"text-align: center;\">Книга звитяг</h3>\n<p style=\"text-align: center;\">&nbsp;</p>\n<div style=\"display: flex; justify-content: center; flex-wrap: wrap;\">\n<div style=\"display: flex; flex-direction: column;\">\n\n\n<div style=\"display: flex; flex-direction: column;\">\n<h4 style=\"text-align: center;\">Старша ланка</h4>\n<p><iframe style=\"width: 480px; height: 644px; display: table; margin-left: auto; margin-right: auto;\" src=\"https://drive.google.com/file/d/1bkG2rUtESJXjWluTsjjA4OSUuZ8b6FHm/preview\" width=\"487\" height=\"646\"></iframe></p>\n</div>\n\n<div style=\"display: flex; flex-direction: column;\">\n<h4 style=\"text-align: center;\">Середня ланка</h4>\n<p>\n<iframe style=\"width: 480px; height: 644px; display: table; margin-left: auto; margin-right: auto;\" src=\"https://drive.google.com/file/d/1bkxpWxKDJoLzGXDgONHlImO7dSmo9-nN/preview\" width=\"487\" height=\"646\"></iframe>\n</p>\n</div>\n\n<h4 style=\"text-align: center;\">Молодша ланка</h4>\n<p><iframe style=\"width: 480px; height: 644px;\" src=\"https://drive.google.com/file/d/1brrPzjP3TRLIp-E4kINMoIjGeIUB4SXD/preview\" width=\"483\" height=\"644\"></iframe>&nbsp; &nbsp; &nbsp;&nbsp;</p>\n</div>\n\n</div>",
@@ -2592,7 +2601,7 @@
         "Кнопка з посиланням": "#"
     },
     {
-        "id": "288",
+        "id": "289",
         "Розділ": "Курінь ім. Ігоря Сніжка",
         "Тип (1 - картки, 2- абзаци)": "",
         "Абзац": "<div style=\"width:1200px;text-align:center;font-size:18px;margin:24px 0;\">Книги звитяг</div>",
@@ -2601,7 +2610,7 @@
         "Кнопка з посиланням": "#"
     },
     {
-        "id": "289",
+        "id": "290",
         "Розділ": "Курінь ім. Ігоря Сніжка",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "«Сокіл» («Джура») 2021",
@@ -2610,7 +2619,7 @@
         "Кнопка з посиланням": "./page?titlePages=«Сокіл» («Джура»)&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
-        "id": "290",
+        "id": "291",
         "Розділ": "Курінь ім. Ігоря Сніжка",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "«Сокіл» («Джура») 2022",
@@ -2619,7 +2628,7 @@
         "Кнопка з посиланням": "./page?titlePages=«Сокіл» («Джура») 2022&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
-        "id": "291",
+        "id": "292",
         "Розділ": "Курінь ім. Ігоря Сніжка",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "«Сокіл» («Джура») 2023",
@@ -2628,7 +2637,7 @@
         "Кнопка з посиланням": "./page?titlePages=«Сокіл» («Джура») 2023&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
-        "id": "292",
+        "id": "293",
         "Розділ": "Курінь ім. Ігоря Сніжка",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "«Сокіл» («Джура») 2024",
@@ -2637,7 +2646,7 @@
         "Кнопка з посиланням": "./page?titlePages=«Сокіл» («Джура») 2024&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
-        "id": "293",
+        "id": "294",
         "Розділ": "Курінь ім. Ігоря Сніжка",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "«Сокіл» («Джура») 2025",
@@ -2646,7 +2655,7 @@
         "Кнопка з посиланням": "./page?titlePages=«Сокіл» («Джура») 2025&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
-        "id": "294",
+        "id": "295",
         "Розділ": "Рій Червона калина",
         "Тип (1 - картки, 2- абзаци)": "",
         "Абзац": "<p><iframe style=\"width: 85vw; height: 80vh;\" src=\"https://drive.google.com/file/d/1NTxemBqRnSq-JmlMX2S8--Ctcwb8DMIp/preview\" width=\"483\" height=\"644\"></iframe>&nbsp; &nbsp; &nbsp;&nbsp;</p>",
@@ -2655,7 +2664,7 @@
         "Кнопка з посиланням": "#"
     },
     {
-        "id": "295",
+        "id": "296",
         "Розділ": "Положення та порядки",
         "Тип (1 - картки, 2- абзаци)": "",
         "Абзац": "<p style=\"font-size: 18px;\"><a href=\"https://drive.google.com/file/d/19SQKmnXcLDcUNb9py3SoD5U8Nftc0EM6/view?usp=sharing\" target=\"_blank\" rel=\"noopener\">Положення про запобігання і протидію насильству та жорстокому поводженню з дітьми в закладі освіти</a></p>\r\n<p style=\"font-size: 18px;\"><a href=\"https://drive.google.com/file/d/1o0vuzck8_NViu9ZD3bZ7pf5JWhSucgWh/view?usp=sharing\" target=\"_blank\" rel=\"noopener\">Положення про про внутрішній моніторинг якості освітнього процесу</a></p>\r\n<p style=\"font-size: 18px;\"><a href=\"https://docs.google.com/document/d/1-XbMrovYprLLIynCSpkJvFwhZocTQ5IM/edit\">Положення про дотримання протиепідемічних заходів</a></p>\r\n<p style=\"font-size: 18px;\"><a href=\"https://drive.google.com/file/d/1ueZU4itCC-2OChTrDjdlYrO-O7BTF5Qf/view\">Положення про внутрішню систему забезпечення якості освіти</a></p>\r\n<p style=\"font-size: 18px;\"><a href=\"https://drive.google.com/file/d/1zTJLRvo50QbV9_BDW0PP51pQQBGubQpT/view\">Положення про порядок розгляду випадків булінгу (цькування)</a></p>\r\n<p style=\"font-size: 18px;\"><a href=\"https://drive.google.com/file/d/1Gvc_iUpEc9QnSNh4NVruyQbh0RK5ODS7/view\">Положення про дистанційне навчання під час карантину в комунальному опорному закладі&laquo;Куликівський заклад загальної середньої освіти І-ІІІ ступенів&raquo; Куликівської селищної ради</a></p>\r\n<p style=\"font-size: 18px;\"><a href=\"https://docs.google.com/document/d/1-UxHYFz94Fdb_t4NYubX1kP_3tVPFZtB/edit\">Положення про педагогічну раду КОЗ &laquo;Куликівський ЗЗСО І-ІІІ ступенів&raquo; Куликівської селищної ради</a></p>\r\n<p style=\"font-size: 18px;\"><a href=\"https://drive.google.com/file/d/1ubyAqXycE0jsKhlV0F-jr_xh93apD00R/view?usp=sharing\">Положення про академічну доброчесність</a></p>\r\n<p style=\"font-size: 18px;\"><a href=\"https://drive.google.com/file/d/1XaNHoq_7Wlp-jVqK8iTe9lhvQkyKt1BQ/view\">Положення про Загальні збори (конференцію) КОЗ &laquo;Куликівський ЗЗСО І-ІІІ ступенів&raquo; Куликівської селищної ради</a></p>\r\n<p style=\"font-size: 18px;\"><a href=\"https://drive.google.com/file/d/1C-cTePl_IOVG1xLOQPm6ISnD7sYb6ov3/view\">Положення про Методичну раду Куликівського ліцею</a></p>\r\n<p style=\"font-size: 18px;\"><a href=\"https://docs.google.com/document/d/10gVFzfB7ZwFcLujQhstXl-m4v7eR3rJK/edit?usp=sharing&amp;ouid=107211966436332045560&amp;rtpof=true&amp;sd=true\">Положення про Методичні комісії Куликівського ліцею</a></p>\r\n<p style=\"font-size: 18px;\"><a href=\"https://drive.google.com/open?id=11k0_mHTBOFFDf_Q9HbVADDDcjDRSTA-0&amp;usp=drive_fs\">Положення про електронний класний журнал</a></p>\r\n<p style=\"font-size: 18px;\"><a href=\"https://drive.google.com/file/d/15Ur3sGpJDDyWFCr7tbc1dRxKC-oY-wNm/view?usp=sharing\">Положення про команду психолого-педагогічного супроводу</a></p>\r\n<p style=\"font-size: 18px;\"><a href=\"https://drive.google.com/file/d/1Q54ASid5CV-_wfFwkoUlwGm9-1XYqvMV/view?usp=sharing\">Положення про підвищення кваліфікації педагогічних працівників</a></p>\r\n<p style=\"font-size: 18px;\"><a href=\"https://drive.google.com/file/d/1M9oV9QVLGclLujJt5mvL_lMnMU9vNPoJ/view?usp=sharing\">Положення про індивідуальне навчання</a></p>\r\n<p style=\"font-size: 18px;\"><a href=\"https://drive.google.com/drive/folders/1M6tXjw5agldA8OElzshw1kgWRgsa99ao?usp=sharing\">Положення по спортивних змаганнях</a></p>",
@@ -2664,7 +2673,7 @@
         "Кнопка з посиланням": "#"
     },
     {
-        "id": "296",
+        "id": "297",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування одноразові харчові ланч-бокси",
@@ -2673,7 +2682,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1XDpjNwDTDLbwJxH2JE-ZAflRPo09b8HL"
     },
     {
-        "id": "297",
+        "id": "298",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування садовий трактор-газонокосарка",
@@ -2682,7 +2691,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1rfQg6YiKF3AuqevzyEsk5MVJ-3hyPO2f"
     },
     {
-        "id": "298",
+        "id": "299",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування інтерактивний кіоск",
@@ -2691,7 +2700,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1wGzN6AVQgkJddxQG-eG9Ies2PKHlQHRp"
     },
     {
-        "id": "299",
+        "id": "300",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування турнікети з розпашними стулками 01.10.2025",
@@ -2700,7 +2709,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1cpKhdGJ6E0ak4X6FD2gCy771sFPeI3qI"
     },
     {
-        "id": "300",
+        "id": "301",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування каналізаційна установка",
@@ -2709,7 +2718,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1s6kkaJSK-1AetogDJg_uPn9y7B4QKira"
     },
     {
-        "id": "301",
+        "id": "302",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування турнікети з розпашними стулками",
@@ -2718,7 +2727,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1mPoghaecarVA6COVtNio5AniyZJmuOAq"
     },
     {
-        "id": "302",
+        "id": "303",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування  смуга перешкод",
@@ -2727,7 +2736,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1H0YexJorhqsHxjZXj66h1HVY-xJSD-j8"
     },
     {
-        "id": "303",
+        "id": "304",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування  епоксидна фарба для бетонної підлоги 21.08.2025",
@@ -2736,7 +2745,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1g9KQp5Xn_amaUJ9Lq4n8lkpZY6hcG5LB"
     },
     {
-        "id": "304",
+        "id": "305",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування  трибуни глядацькі",
@@ -2745,7 +2754,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1eDVYiceC5oNu0ZEk3fz579_CEiAagfBW"
     },
     {
-        "id": "305",
+        "id": "306",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування  засоби навчання НУШ",
@@ -2754,7 +2763,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1e6mSxqQIjPGPdkkirW4GAyGmP0pnPYkO"
     },
     {
-        "id": "306",
+        "id": "307",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування  шафи металеві для одягу",
@@ -2763,7 +2772,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1e6ETksUBwH-4Tdwdf0NBlAg9240_xgeW"
     },
     {
-        "id": "307",
+        "id": "308",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування  епоксидна фарба для бетонної підлоги",
@@ -2772,7 +2781,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1dVaC8ZJEdGxqcq2xEyvXMFyB4CS7DE4v"
     },
     {
-        "id": "308",
+        "id": "309",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування  стеля армстронг з комплектуючими",
@@ -2781,7 +2790,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1dUzTmQ6X4TuXfQrEUrey4hpyBO8ShLs4"
     },
     {
-        "id": "309",
+        "id": "310",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування нафтопродукти 21.05.2025",
@@ -2790,7 +2799,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1NEOKzemUnO9g-WjUo5BYznlX480tjDM5"
     },
     {
-        "id": "310",
+        "id": "311",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування  електроенергія 10.04.2025",
@@ -2799,7 +2808,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1C4sYwZKVQimY84bTow5_2LEiNg_Zp4ox"
     },
     {
-        "id": "311",
+        "id": "312",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування. Вантажний автомобіль",
@@ -2808,7 +2817,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1imtHBchCntNxQ0s_MMs-eEgT_DfFnz5_"
     },
     {
-        "id": "312",
+        "id": "313",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування. Стадіон",
@@ -2817,7 +2826,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=13UloKFor1CcrJjQHV0hZU93-nCGl7ifQ"
     },
     {
-        "id": "313",
+        "id": "314",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Лист-запит Капітальний ремонт стадіону",
@@ -2826,7 +2835,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=13F_myDM03gaIcgesU0j1b2dNL7nWl8Wq"
     },
     {
-        "id": "314",
+        "id": "315",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Запит цінової пропозиції",
@@ -2835,7 +2844,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=13BRB_WwECsWu8f0aLW5tfgIrnngQi_pZ"
     },
     {
-        "id": "315",
+        "id": "316",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування. Нафтопродукти 23.12.2024",
@@ -2844,7 +2853,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1QmS2rhAX5bKXjruklN7y4cAnjedYw4eE"
     },
     {
-        "id": "316",
+        "id": "317",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування. Електроенергія 12.12.2024",
@@ -2853,7 +2862,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1Qh7JMwo5j4yGaUVWaaxaglEUNczrf_E6"
     },
     {
-        "id": "317",
+        "id": "318",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування харчоблок 10.10.2024",
@@ -2862,7 +2871,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1QnB-YFZGJGI1d5pj3Y3qATotzmuxlr0v"
     },
     {
-        "id": "318",
+        "id": "319",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування харчоблок 28.08.2024",
@@ -2871,7 +2880,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1Qpd5qc2G-iYDL9gg9M_bmMqLC91XqZSj"
     },
     {
-        "id": "319",
+        "id": "320",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування поточний ремонт  Куликівка ліцей",
@@ -2880,7 +2889,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=10zPHOJYuFPk1LHH2c7V41xX936vzLXfW"
     },
     {
-        "id": "320",
+        "id": "321",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування поточний ремонт  Куликівка ліцей",
@@ -2889,7 +2898,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1PSvCzwJg_0LyNb-Q02UR7K-Qr7Hndbxi"
     },
     {
-        "id": "321",
+        "id": "322",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування капітальний ремонт  Куликівка ліцей",
@@ -2898,7 +2907,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1OXfa-hcj_qarT6g2yRZHMkeXkiWqiktW"
     },
     {
-        "id": "322",
+        "id": "323",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування капітальний ремонт  Куликівка ліцей",
@@ -2907,19 +2916,10 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=17FrpxHvOT5251I6Y1fuL70yjkmpqD2dI"
     },
     {
-        "id": "323",
-        "Розділ": "Закупівлі",
-        "Тип (1 - картки, 2- абзаци)": "1",
-        "Абзац": "Обгрунтування електроенергія",
-        "Фото": "./assets/icons/docum.svg",
-        "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1L2DqDuFysuTihf5T44g6yHUk6dEBKjV2"
-    },
-    {
         "id": "324",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
-        "Абзац": "Обгрунтування ДП, бензин  Куликівка  ліцей",
+        "Абзац": "Обгрунтування електроенергія",
         "Фото": "./assets/icons/docum.svg",
         "Ширина малюнка (%)": "",
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1L2DqDuFysuTihf5T44g6yHUk6dEBKjV2"
@@ -2931,7 +2931,7 @@
         "Абзац": "Обгрунтування ДП, бензин  Куликівка  ліцей",
         "Фото": "./assets/icons/docum.svg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1oBSJAhjJeLeUxa_0_GiToNaWDaDSb3H5"
+        "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1L2DqDuFysuTihf5T44g6yHUk6dEBKjV2"
     },
     {
         "id": "326",
@@ -2940,7 +2940,7 @@
         "Абзац": "Обгрунтування ДП, бензин  Куликівка  ліцей",
         "Фото": "./assets/icons/docum.svg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1VD_JIJdy3K6YURuoYBCyP6_iK9-A6dla"
+        "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1oBSJAhjJeLeUxa_0_GiToNaWDaDSb3H5"
     },
     {
         "id": "327",
@@ -2949,7 +2949,7 @@
         "Абзац": "Обгрунтування ДП, бензин  Куликівка  ліцей",
         "Фото": "./assets/icons/docum.svg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1-LAivTqkACr94ivFUkIjHAl_hXWcoeH9"
+        "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1VD_JIJdy3K6YURuoYBCyP6_iK9-A6dla"
     },
     {
         "id": "328",
@@ -2958,7 +2958,7 @@
         "Абзац": "Обгрунтування ДП, бензин  Куликівка  ліцей",
         "Фото": "./assets/icons/docum.svg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1JH2SI_B_9WsKEV1XGQqJt7Wga_HV7p4i"
+        "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1-LAivTqkACr94ivFUkIjHAl_hXWcoeH9"
     },
     {
         "id": "329",
@@ -2967,16 +2967,16 @@
         "Абзац": "Обгрунтування ДП, бензин  Куликівка  ліцей",
         "Фото": "./assets/icons/docum.svg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1FD7aPTJlwqUDYtr07ApP3iqS5CXBli6k"
+        "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1JH2SI_B_9WsKEV1XGQqJt7Wga_HV7p4i"
     },
     {
         "id": "330",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
-        "Абзац": "Обгрунтування. Укриття",
+        "Абзац": "Обгрунтування ДП, бензин  Куликівка  ліцей",
         "Фото": "./assets/icons/docum.svg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=18Iu5rzEmlBfC71K47wLOmNL3RBnHguUM"
+        "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1FD7aPTJlwqUDYtr07ApP3iqS5CXBli6k"
     },
     {
         "id": "331",
@@ -2985,10 +2985,19 @@
         "Абзац": "Обгрунтування. Укриття",
         "Фото": "./assets/icons/docum.svg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=10zPHOJYuFPk1LHH2c7V41xX936vzLXfW"
+        "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=18Iu5rzEmlBfC71K47wLOmNL3RBnHguUM"
     },
     {
         "id": "332",
+        "Розділ": "Закупівлі",
+        "Тип (1 - картки, 2- абзаци)": "1",
+        "Абзац": "Обгрунтування. Укриття",
+        "Фото": "./assets/icons/docum.svg",
+        "Ширина малюнка (%)": "",
+        "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=10zPHOJYuFPk1LHH2c7V41xX936vzLXfW"
+    },
+    {
+        "id": "333",
         "Розділ": "Атестація педагогічних працівників 2024-2025 н.р.___",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Протокол № 1",
@@ -2997,7 +3006,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1DqMdVbZUseyvmCzg8UdLjn63Jf68c6MS"
     },
     {
-        "id": "333",
+        "id": "334",
         "Розділ": "Атестація педагогічних працівників 2024-2025 н.р.___",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Протокол № 2",
@@ -3006,7 +3015,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1ahUpRzldjdwypYVdLGSa4v4KFuAxolHR"
     },
     {
-        "id": "334",
+        "id": "335",
         "Розділ": "Харчування",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Замовлення харчування",
@@ -3015,7 +3024,7 @@
         "Кнопка з посиланням": "https://docs.google.com/forms/d/e/1FAIpQLSftIn1k1uxg6G9PoQsYfAP5yUrIHX73VsIq1yFTtuLEXPk5tQ/viewform"
     },
     {
-        "id": "335",
+        "id": "336",
         "Розділ": "Харчування",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Чотиритижневе меню вересень 2025",
@@ -3024,7 +3033,7 @@
         "Кнопка з посиланням": "https://drive.google.com/file/d/1H8Z3E0zC2fSGYioQs4lN1SUeFyYKDkTJ/view?usp=sharing"
     },
     {
-        "id": "336",
+        "id": "337",
         "Розділ": "Шкільний громадський бюджет",
         "Тип (1 - картки, 2- абзаци)": "",
         "Абзац": "<p class=\"MsoNormal\" style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\" data-mce-style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\">Виший свою історію&nbsp;<span style=\"mso-spacerun: yes;\" data-mce-style=\"mso-spacerun: yes;\">&nbsp; </span>&gt;&gt; <span style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\"><span style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\"><a href=\"https://drive.google.com/open?id=102TtU0Wjzp4_X8MEmaswuQ0AGclccwAI&amp;usp=drive_fs\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://drive.google.com/open?id=102TtU0Wjzp4_X8MEmaswuQ0AGclccwAI&amp;usp=drive_fs\" style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-selected=\"inline-boundary\">Відео</a></span></span></p><p class=\"MsoNormal\" style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\" data-mce-style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\">Мить релаксу в ліцеї<span style=\"mso-spacerun: yes;\" data-mce-style=\"mso-spacerun: yes;\">&nbsp; </span>&gt;&gt; &nbsp;<span style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\"><span style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\"><a href=\"https://drive.google.com/open?id=1-KBVYSVGLPcKx4oi1A-cboyVN15dEvR8&amp;usp=drive_fs\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://drive.google.com/open?id=1-KBVYSVGLPcKx4oi1A-cboyVN15dEvR8&amp;usp=drive_fs\" style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\">Відео</a></span></span></p><p class=\"MsoNormal\" style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\" data-mce-style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\"><span lang=\"EN-US\" style=\"mso-ansi-language: EN-US;\" data-mce-style=\"mso-ansi-language: EN-US;\">EcoAqua</span>: ключ до здоров’я<span style=\"mso-spacerun: yes;\" data-mce-style=\"mso-spacerun: yes;\">&nbsp; </span>&gt;&gt; <span style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\"><span style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\"><a href=\"https://drive.google.com/open?id=1-Paadw5VORhvGaTpStu-A8S86HSK8lOs&amp;usp=drive_fs\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://drive.google.com/open?id=1-Paadw5VORhvGaTpStu-A8S86HSK8lOs&amp;usp=drive_fs\" style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\">Відео</a></span></span></p><p class=\"MsoNormal\" style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\" data-mce-style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\">Спортивно тренажерний простір – «<span lang=\"EN-US\" style=\"mso-ansi-language: EN-US;\" data-mce-style=\"mso-ansi-language: EN-US;\">Pride</span>»<span style=\"mso-spacerun: yes;\" data-mce-style=\"mso-spacerun: yes;\">&nbsp; </span>&gt;&gt; <span style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\"><span style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\"><a href=\"https://drive.google.com/open?id=1-QagIn_bmNB8A0VmQaxrQHPYmHW-yJ69&amp;usp=drive_fs\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://drive.google.com/open?id=1-QagIn_bmNB8A0VmQaxrQHPYmHW-yJ69&amp;usp=drive_fs\" style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\">Відео</a></span></span></p><p class=\"MsoNormal\" style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\" data-mce-style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\">Сучасні книги для сучасних дітей<span style=\"mso-spacerun: yes;\" data-mce-style=\"mso-spacerun: yes;\">&nbsp; </span>&gt;&gt; <span style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\"><span style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\"><a href=\"https://drive.google.com/open?id=1-SrkypX6K2VhdZyG0ez7eWWfGN_Gsuvw&amp;usp=drive_fs\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://drive.google.com/open?id=1-SrkypX6K2VhdZyG0ez7eWWfGN_Gsuvw&amp;usp=drive_fs\" style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\">Відео</a></span></span></p><p class=\"MsoNormal\" style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\" data-mce-style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\">Дім Хаскі – місце, де дарують емоції<span style=\"mso-spacerun: yes;\" data-mce-style=\"mso-spacerun: yes;\">&nbsp; </span>&gt;&gt;<span style=\"color: rgb(35, 111, 161);\" data-mce-style=\"color: rgb(35, 111, 161);\"> <span style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\"><a href=\"https://drive.google.com/open?id=1-_LTVsWPGdn4XIBtN79BiVi_tQd_ANxm&amp;usp=drive_fs\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://drive.google.com/open?id=1-_LTVsWPGdn4XIBtN79BiVi_tQd_ANxm&amp;usp=drive_fs\" style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\">Відео</a></span></span></p><p class=\"MsoNormal\" style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\" data-mce-style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\">Ми&nbsp; за безпеку в укритті<span style=\"mso-spacerun: yes;\" data-mce-style=\"mso-spacerun: yes;\">&nbsp; </span>&gt;&gt; <span style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\">&nbsp;<span style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\"><a href=\"https://drive.google.com/open?id=1-cDdN8-lWoGTADmm0oRvFcIL8ErTmuqb&amp;usp=drive_fs\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://drive.google.com/open?id=1-cDdN8-lWoGTADmm0oRvFcIL8ErTmuqb&amp;usp=drive_fs\" style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\">Відео</a></span></span></p><p class=\"MsoNormal\" style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\" data-mce-style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\">Настільні ігри в укритті<span style=\"mso-spacerun: yes;\" data-mce-style=\"mso-spacerun: yes;\">&nbsp; </span>&gt;&gt; &nbsp;<span style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\"><span style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\"><a href=\"https://drive.google.com/open?id=1-fPI-rrOkPcTgp9Zu4_ihdLl1q7UsZoD&amp;usp=drive_fs\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://drive.google.com/open?id=1-fPI-rrOkPcTgp9Zu4_ihdLl1q7UsZoD&amp;usp=drive_fs\" style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\">Відео</a></span></span></p><p class=\"MsoNormal\" style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\" data-mce-style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\">Подкаст-студія у ліцеї: голос молоді, який варто почути<span style=\"mso-spacerun: yes;\" data-mce-style=\"mso-spacerun: yes;\">&nbsp; </span>&gt;&gt; <span style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\"><span style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\"><a href=\"https://drive.google.com/open?id=1N13LhETf_6XxgEasyydZo6CtqckNh22V&amp;usp=drive_fs\" target=\"_blank\" data-mce-href=\"https://drive.google.com/open?id=1N13LhETf_6XxgEasyydZo6CtqckNh22V&amp;usp=drive_fs\" style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\">Відео</a></span></span></p><p class=\"MsoNormal\" style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\" data-mce-style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\">Nature чай<span style=\"mso-spacerun: yes;\" data-mce-style=\"mso-spacerun: yes;\">&nbsp; </span>&gt;&gt; <span style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\">&nbsp;</span><a href=\"https://drive.google.com/open?id=1-puAX3OBq9qBQR3uxN87cFo4eJQz2bt3&amp;usp=drive_fs\" target=\"_blank\" data-mce-href=\"https://drive.google.com/open?id=1-puAX3OBq9qBQR3uxN87cFo4eJQz2bt3&amp;usp=drive_fs\"><span style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\"><span style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\">Відео</span></span></a></p><p class=\"MsoNormal\" style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\" data-mce-style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\">Еко-драйв: парк електросамокатів у ліцеї<span style=\"mso-spacerun: yes;\" data-mce-style=\"mso-spacerun: yes;\">&nbsp; </span>&gt;&gt; <span style=\"color: rgb(35, 111, 161);\" data-mce-style=\"color: rgb(35, 111, 161);\">&nbsp;<span style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\"><a href=\"https://drive.google.com/open?id=1-vg4XeoAxrJHaCvtdbl5tev2JykcbB3y&amp;usp=drive_fs\" target=\"_blank\" data-mce-href=\"https://drive.google.com/open?id=1-vg4XeoAxrJHaCvtdbl5tev2JykcbB3y&amp;usp=drive_fs\" style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\">Відео</a></span></span></p><p class=\"MsoNormal\" style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\" data-mce-style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\">STEAM laboratory<span style=\"mso-spacerun: yes;\" data-mce-style=\"mso-spacerun: yes;\">&nbsp; </span>&gt;&gt; <span style=\"color: rgb(35, 111, 161);\" data-mce-style=\"color: rgb(35, 111, 161);\">&nbsp;<span style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\"><a href=\"https://drive.google.com/open?id=1-ptUqZSUFEzT2XtCIIgZkQQj0d7SOH4L&amp;usp=drive_fs\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://drive.google.com/open?id=1-ptUqZSUFEzT2XtCIIgZkQQj0d7SOH4L&amp;usp=drive_fs\" style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\">Відео</a></span></span></p><p class=\"MsoNormal\" style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\" data-mce-style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\">Young media hub (обладнання для подкаст-студії та медіаконтенту)<span style=\"mso-spacerun: yes;\" data-mce-style=\"mso-spacerun: yes;\">&nbsp; </span>&gt;&gt; <span style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\"><span style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\"><a href=\"https://drive.google.com/open?id=10-_l_yOWL22m-LDYCtkRqZByzT3wbGtF&amp;usp=drive_fs\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://drive.google.com/open?id=10-_l_yOWL22m-LDYCtkRqZByzT3wbGtF&amp;usp=drive_fs\" style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\">Відео</a></span></span></p>",
