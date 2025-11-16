@@ -5,6 +5,9 @@ source venv/bin/activate
 # Запускаємо Python скрипт
 python3 main.py
 
+# поновлюємо галерею
+python gallery_create.py
+
 # Додаємо всі зміни до Git
 git add .
 
