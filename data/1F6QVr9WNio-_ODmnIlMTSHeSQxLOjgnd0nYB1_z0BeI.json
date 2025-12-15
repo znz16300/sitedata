@@ -2694,13 +2694,22 @@
         "id": "299",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
+        "Абзац": "Обгрунтування  електроенергія 12.12.2025",
+        "Фото": "./assets/icons/docum.svg",
+        "Ширина малюнка (%)": "",
+        "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1QQdhafk6BnmYgRH3iQKcjEXMR2c0rIBo"
+    },
+    {
+        "id": "300",
+        "Розділ": "Закупівлі",
+        "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування садовий трактор-газонокосарка",
         "Фото": "./assets/icons/docum.svg",
         "Ширина малюнка (%)": "",
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=15-fbP1YIeCIONxI1xRzvS0gv85n-9fwZ"
     },
     {
-        "id": "300",
+        "id": "301",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування одноразові харчові ланч-бокси",
@@ -2709,7 +2718,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1XDpjNwDTDLbwJxH2JE-ZAflRPo09b8HL"
     },
     {
-        "id": "301",
+        "id": "302",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування садовий трактор-газонокосарка",
@@ -2718,7 +2727,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1rfQg6YiKF3AuqevzyEsk5MVJ-3hyPO2f"
     },
     {
-        "id": "302",
+        "id": "303",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування інтерактивний кіоск",
@@ -2727,7 +2736,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1wGzN6AVQgkJddxQG-eG9Ies2PKHlQHRp"
     },
     {
-        "id": "303",
+        "id": "304",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування турнікети з розпашними стулками 01.10.2025",
@@ -2736,7 +2745,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1cpKhdGJ6E0ak4X6FD2gCy771sFPeI3qI"
     },
     {
-        "id": "304",
+        "id": "305",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування каналізаційна установка",
@@ -2745,7 +2754,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1s6kkaJSK-1AetogDJg_uPn9y7B4QKira"
     },
     {
-        "id": "305",
+        "id": "306",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування турнікети з розпашними стулками",
@@ -2754,7 +2763,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1mPoghaecarVA6COVtNio5AniyZJmuOAq"
     },
     {
-        "id": "306",
+        "id": "307",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування  смуга перешкод",
@@ -2763,7 +2772,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1H0YexJorhqsHxjZXj66h1HVY-xJSD-j8"
     },
     {
-        "id": "307",
+        "id": "308",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування  епоксидна фарба для бетонної підлоги 21.08.2025",
@@ -2772,7 +2781,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1g9KQp5Xn_amaUJ9Lq4n8lkpZY6hcG5LB"
     },
     {
-        "id": "308",
+        "id": "309",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування  трибуни глядацькі",
@@ -2781,7 +2790,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1eDVYiceC5oNu0ZEk3fz579_CEiAagfBW"
     },
     {
-        "id": "309",
+        "id": "310",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування  засоби навчання НУШ",
@@ -2790,7 +2799,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1e6mSxqQIjPGPdkkirW4GAyGmP0pnPYkO"
     },
     {
-        "id": "310",
+        "id": "311",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування  шафи металеві для одягу",
@@ -2799,7 +2808,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1e6ETksUBwH-4Tdwdf0NBlAg9240_xgeW"
     },
     {
-        "id": "311",
+        "id": "312",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування  епоксидна фарба для бетонної підлоги",
@@ -2808,7 +2817,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1dVaC8ZJEdGxqcq2xEyvXMFyB4CS7DE4v"
     },
     {
-        "id": "312",
+        "id": "313",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування  стеля армстронг з комплектуючими",
@@ -2817,7 +2826,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1dUzTmQ6X4TuXfQrEUrey4hpyBO8ShLs4"
     },
     {
-        "id": "313",
+        "id": "314",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування нафтопродукти 21.05.2025",
@@ -2826,7 +2835,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1NEOKzemUnO9g-WjUo5BYznlX480tjDM5"
     },
     {
-        "id": "314",
+        "id": "315",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування  електроенергія 10.04.2025",
@@ -2835,7 +2844,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1C4sYwZKVQimY84bTow5_2LEiNg_Zp4ox"
     },
     {
-        "id": "315",
+        "id": "316",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування. Вантажний автомобіль",
@@ -2844,7 +2853,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1imtHBchCntNxQ0s_MMs-eEgT_DfFnz5_"
     },
     {
-        "id": "316",
+        "id": "317",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування. Стадіон",
@@ -2853,7 +2862,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=13UloKFor1CcrJjQHV0hZU93-nCGl7ifQ"
     },
     {
-        "id": "317",
+        "id": "318",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Лист-запит Капітальний ремонт стадіону",
@@ -2862,7 +2871,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=13F_myDM03gaIcgesU0j1b2dNL7nWl8Wq"
     },
     {
-        "id": "318",
+        "id": "319",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Запит цінової пропозиції",
@@ -2871,7 +2880,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=13BRB_WwECsWu8f0aLW5tfgIrnngQi_pZ"
     },
     {
-        "id": "319",
+        "id": "320",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування. Нафтопродукти 23.12.2024",
@@ -2880,7 +2889,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1QmS2rhAX5bKXjruklN7y4cAnjedYw4eE"
     },
     {
-        "id": "320",
+        "id": "321",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування. Електроенергія 12.12.2024",
@@ -2889,7 +2898,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1Qh7JMwo5j4yGaUVWaaxaglEUNczrf_E6"
     },
     {
-        "id": "321",
+        "id": "322",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування харчоблок 10.10.2024",
@@ -2898,7 +2907,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1QnB-YFZGJGI1d5pj3Y3qATotzmuxlr0v"
     },
     {
-        "id": "322",
+        "id": "323",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування харчоблок 28.08.2024",
@@ -2907,7 +2916,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1Qpd5qc2G-iYDL9gg9M_bmMqLC91XqZSj"
     },
     {
-        "id": "323",
+        "id": "324",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування поточний ремонт  Куликівка ліцей",
@@ -2916,7 +2925,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=10zPHOJYuFPk1LHH2c7V41xX936vzLXfW"
     },
     {
-        "id": "324",
+        "id": "325",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування поточний ремонт  Куликівка ліцей",
@@ -2925,7 +2934,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1PSvCzwJg_0LyNb-Q02UR7K-Qr7Hndbxi"
     },
     {
-        "id": "325",
+        "id": "326",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування капітальний ремонт  Куликівка ліцей",
@@ -2934,7 +2943,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1OXfa-hcj_qarT6g2yRZHMkeXkiWqiktW"
     },
     {
-        "id": "326",
+        "id": "327",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Обгрунтування капітальний ремонт  Куликівка ліцей",
@@ -2943,19 +2952,10 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=17FrpxHvOT5251I6Y1fuL70yjkmpqD2dI"
     },
     {
-        "id": "327",
-        "Розділ": "Закупівлі",
-        "Тип (1 - картки, 2- абзаци)": "1",
-        "Абзац": "Обгрунтування електроенергія",
-        "Фото": "./assets/icons/docum.svg",
-        "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1L2DqDuFysuTihf5T44g6yHUk6dEBKjV2"
-    },
-    {
         "id": "328",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
-        "Абзац": "Обгрунтування ДП, бензин  Куликівка  ліцей",
+        "Абзац": "Обгрунтування електроенергія",
         "Фото": "./assets/icons/docum.svg",
         "Ширина малюнка (%)": "",
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1L2DqDuFysuTihf5T44g6yHUk6dEBKjV2"
@@ -2967,7 +2967,7 @@
         "Абзац": "Обгрунтування ДП, бензин  Куликівка  ліцей",
         "Фото": "./assets/icons/docum.svg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1oBSJAhjJeLeUxa_0_GiToNaWDaDSb3H5"
+        "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1L2DqDuFysuTihf5T44g6yHUk6dEBKjV2"
     },
     {
         "id": "330",
@@ -2976,7 +2976,7 @@
         "Абзац": "Обгрунтування ДП, бензин  Куликівка  ліцей",
         "Фото": "./assets/icons/docum.svg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1VD_JIJdy3K6YURuoYBCyP6_iK9-A6dla"
+        "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1oBSJAhjJeLeUxa_0_GiToNaWDaDSb3H5"
     },
     {
         "id": "331",
@@ -2985,7 +2985,7 @@
         "Абзац": "Обгрунтування ДП, бензин  Куликівка  ліцей",
         "Фото": "./assets/icons/docum.svg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1-LAivTqkACr94ivFUkIjHAl_hXWcoeH9"
+        "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1VD_JIJdy3K6YURuoYBCyP6_iK9-A6dla"
     },
     {
         "id": "332",
@@ -2994,7 +2994,7 @@
         "Абзац": "Обгрунтування ДП, бензин  Куликівка  ліцей",
         "Фото": "./assets/icons/docum.svg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1JH2SI_B_9WsKEV1XGQqJt7Wga_HV7p4i"
+        "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1-LAivTqkACr94ivFUkIjHAl_hXWcoeH9"
     },
     {
         "id": "333",
@@ -3003,16 +3003,16 @@
         "Абзац": "Обгрунтування ДП, бензин  Куликівка  ліцей",
         "Фото": "./assets/icons/docum.svg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1FD7aPTJlwqUDYtr07ApP3iqS5CXBli6k"
+        "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1JH2SI_B_9WsKEV1XGQqJt7Wga_HV7p4i"
     },
     {
         "id": "334",
         "Розділ": "Закупівлі",
         "Тип (1 - картки, 2- абзаци)": "1",
-        "Абзац": "Обгрунтування. Укриття",
+        "Абзац": "Обгрунтування ДП, бензин  Куликівка  ліцей",
         "Фото": "./assets/icons/docum.svg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=18Iu5rzEmlBfC71K47wLOmNL3RBnHguUM"
+        "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1FD7aPTJlwqUDYtr07ApP3iqS5CXBli6k"
     },
     {
         "id": "335",
@@ -3021,10 +3021,19 @@
         "Абзац": "Обгрунтування. Укриття",
         "Фото": "./assets/icons/docum.svg",
         "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=10zPHOJYuFPk1LHH2c7V41xX936vzLXfW"
+        "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=18Iu5rzEmlBfC71K47wLOmNL3RBnHguUM"
     },
     {
         "id": "336",
+        "Розділ": "Закупівлі",
+        "Тип (1 - картки, 2- абзаци)": "1",
+        "Абзац": "Обгрунтування. Укриття",
+        "Фото": "./assets/icons/docum.svg",
+        "Ширина малюнка (%)": "",
+        "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=10zPHOJYuFPk1LHH2c7V41xX936vzLXfW"
+    },
+    {
+        "id": "337",
         "Розділ": "Атестація педагогічних працівників 2024-2025 н.р.___",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Протокол № 1",
@@ -3033,7 +3042,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1DqMdVbZUseyvmCzg8UdLjn63Jf68c6MS"
     },
     {
-        "id": "337",
+        "id": "338",
         "Розділ": "Атестація педагогічних працівників 2024-2025 н.р.___",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Протокол № 2",
@@ -3042,7 +3051,7 @@
         "Кнопка з посиланням": "https://drive.google.com/uc?export=download&id=1ahUpRzldjdwypYVdLGSa4v4KFuAxolHR"
     },
     {
-        "id": "338",
+        "id": "339",
         "Розділ": "Харчування",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Замовлення харчування",
@@ -3051,7 +3060,7 @@
         "Кнопка з посиланням": "https://docs.google.com/forms/d/e/1FAIpQLSftIn1k1uxg6G9PoQsYfAP5yUrIHX73VsIq1yFTtuLEXPk5tQ/viewform"
     },
     {
-        "id": "339",
+        "id": "340",
         "Розділ": "Харчування",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Чотиритижневе меню вересень 2025",
@@ -3060,7 +3069,7 @@
         "Кнопка з посиланням": "https://drive.google.com/file/d/1H8Z3E0zC2fSGYioQs4lN1SUeFyYKDkTJ/view?usp=sharing"
     },
     {
-        "id": "340",
+        "id": "341",
         "Розділ": "Шкільний громадський бюджет",
         "Тип (1 - картки, 2- абзаци)": "",
         "Абзац": "<p class=\"MsoNormal\" style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\" data-mce-style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\">Виший свою історію&nbsp;<span style=\"mso-spacerun: yes;\" data-mce-style=\"mso-spacerun: yes;\">&nbsp; </span>&gt;&gt; <span style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\"><span style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\"><a href=\"https://drive.google.com/open?id=102TtU0Wjzp4_X8MEmaswuQ0AGclccwAI&amp;usp=drive_fs\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://drive.google.com/open?id=102TtU0Wjzp4_X8MEmaswuQ0AGclccwAI&amp;usp=drive_fs\" style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-selected=\"inline-boundary\">Відео</a></span></span></p><p class=\"MsoNormal\" style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\" data-mce-style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\">Мить релаксу в ліцеї<span style=\"mso-spacerun: yes;\" data-mce-style=\"mso-spacerun: yes;\">&nbsp; </span>&gt;&gt; &nbsp;<span style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\"><span style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\"><a href=\"https://drive.google.com/open?id=1-KBVYSVGLPcKx4oi1A-cboyVN15dEvR8&amp;usp=drive_fs\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://drive.google.com/open?id=1-KBVYSVGLPcKx4oi1A-cboyVN15dEvR8&amp;usp=drive_fs\" style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\">Відео</a></span></span></p><p class=\"MsoNormal\" style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\" data-mce-style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\"><span lang=\"EN-US\" style=\"mso-ansi-language: EN-US;\" data-mce-style=\"mso-ansi-language: EN-US;\">EcoAqua</span>: ключ до здоров’я<span style=\"mso-spacerun: yes;\" data-mce-style=\"mso-spacerun: yes;\">&nbsp; </span>&gt;&gt; <span style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\"><span style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\"><a href=\"https://drive.google.com/open?id=1-Paadw5VORhvGaTpStu-A8S86HSK8lOs&amp;usp=drive_fs\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://drive.google.com/open?id=1-Paadw5VORhvGaTpStu-A8S86HSK8lOs&amp;usp=drive_fs\" style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\">Відео</a></span></span></p><p class=\"MsoNormal\" style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\" data-mce-style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\">Спортивно тренажерний простір – «<span lang=\"EN-US\" style=\"mso-ansi-language: EN-US;\" data-mce-style=\"mso-ansi-language: EN-US;\">Pride</span>»<span style=\"mso-spacerun: yes;\" data-mce-style=\"mso-spacerun: yes;\">&nbsp; </span>&gt;&gt; <span style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\"><span style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\"><a href=\"https://drive.google.com/open?id=1-QagIn_bmNB8A0VmQaxrQHPYmHW-yJ69&amp;usp=drive_fs\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://drive.google.com/open?id=1-QagIn_bmNB8A0VmQaxrQHPYmHW-yJ69&amp;usp=drive_fs\" style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\">Відео</a></span></span></p><p class=\"MsoNormal\" style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\" data-mce-style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\">Сучасні книги для сучасних дітей<span style=\"mso-spacerun: yes;\" data-mce-style=\"mso-spacerun: yes;\">&nbsp; </span>&gt;&gt; <span style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\"><span style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\"><a href=\"https://drive.google.com/open?id=1-SrkypX6K2VhdZyG0ez7eWWfGN_Gsuvw&amp;usp=drive_fs\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://drive.google.com/open?id=1-SrkypX6K2VhdZyG0ez7eWWfGN_Gsuvw&amp;usp=drive_fs\" style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\">Відео</a></span></span></p><p class=\"MsoNormal\" style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\" data-mce-style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\">Дім Хаскі – місце, де дарують емоції<span style=\"mso-spacerun: yes;\" data-mce-style=\"mso-spacerun: yes;\">&nbsp; </span>&gt;&gt;<span style=\"color: rgb(35, 111, 161);\" data-mce-style=\"color: rgb(35, 111, 161);\"> <span style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\"><a href=\"https://drive.google.com/open?id=1-_LTVsWPGdn4XIBtN79BiVi_tQd_ANxm&amp;usp=drive_fs\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://drive.google.com/open?id=1-_LTVsWPGdn4XIBtN79BiVi_tQd_ANxm&amp;usp=drive_fs\" style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\">Відео</a></span></span></p><p class=\"MsoNormal\" style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\" data-mce-style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\">Ми&nbsp; за безпеку в укритті<span style=\"mso-spacerun: yes;\" data-mce-style=\"mso-spacerun: yes;\">&nbsp; </span>&gt;&gt; <span style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\">&nbsp;<span style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\"><a href=\"https://drive.google.com/open?id=1-cDdN8-lWoGTADmm0oRvFcIL8ErTmuqb&amp;usp=drive_fs\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://drive.google.com/open?id=1-cDdN8-lWoGTADmm0oRvFcIL8ErTmuqb&amp;usp=drive_fs\" style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\">Відео</a></span></span></p><p class=\"MsoNormal\" style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\" data-mce-style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\">Настільні ігри в укритті<span style=\"mso-spacerun: yes;\" data-mce-style=\"mso-spacerun: yes;\">&nbsp; </span>&gt;&gt; &nbsp;<span style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\"><span style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\"><a href=\"https://drive.google.com/open?id=1-fPI-rrOkPcTgp9Zu4_ihdLl1q7UsZoD&amp;usp=drive_fs\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://drive.google.com/open?id=1-fPI-rrOkPcTgp9Zu4_ihdLl1q7UsZoD&amp;usp=drive_fs\" style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\">Відео</a></span></span></p><p class=\"MsoNormal\" style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\" data-mce-style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\">Подкаст-студія у ліцеї: голос молоді, який варто почути<span style=\"mso-spacerun: yes;\" data-mce-style=\"mso-spacerun: yes;\">&nbsp; </span>&gt;&gt; <span style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\"><span style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\"><a href=\"https://drive.google.com/open?id=1N13LhETf_6XxgEasyydZo6CtqckNh22V&amp;usp=drive_fs\" target=\"_blank\" data-mce-href=\"https://drive.google.com/open?id=1N13LhETf_6XxgEasyydZo6CtqckNh22V&amp;usp=drive_fs\" style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\">Відео</a></span></span></p><p class=\"MsoNormal\" style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\" data-mce-style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\">Nature чай<span style=\"mso-spacerun: yes;\" data-mce-style=\"mso-spacerun: yes;\">&nbsp; </span>&gt;&gt; <span style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\">&nbsp;</span><a href=\"https://drive.google.com/open?id=1-puAX3OBq9qBQR3uxN87cFo4eJQz2bt3&amp;usp=drive_fs\" target=\"_blank\" data-mce-href=\"https://drive.google.com/open?id=1-puAX3OBq9qBQR3uxN87cFo4eJQz2bt3&amp;usp=drive_fs\"><span style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\"><span style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\">Відео</span></span></a></p><p class=\"MsoNormal\" style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\" data-mce-style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\">Еко-драйв: парк електросамокатів у ліцеї<span style=\"mso-spacerun: yes;\" data-mce-style=\"mso-spacerun: yes;\">&nbsp; </span>&gt;&gt; <span style=\"color: rgb(35, 111, 161);\" data-mce-style=\"color: rgb(35, 111, 161);\">&nbsp;<span style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\"><a href=\"https://drive.google.com/open?id=1-vg4XeoAxrJHaCvtdbl5tev2JykcbB3y&amp;usp=drive_fs\" target=\"_blank\" data-mce-href=\"https://drive.google.com/open?id=1-vg4XeoAxrJHaCvtdbl5tev2JykcbB3y&amp;usp=drive_fs\" style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\">Відео</a></span></span></p><p class=\"MsoNormal\" style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\" data-mce-style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\">STEAM laboratory<span style=\"mso-spacerun: yes;\" data-mce-style=\"mso-spacerun: yes;\">&nbsp; </span>&gt;&gt; <span style=\"color: rgb(35, 111, 161);\" data-mce-style=\"color: rgb(35, 111, 161);\">&nbsp;<span style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\"><a href=\"https://drive.google.com/open?id=1-ptUqZSUFEzT2XtCIIgZkQQj0d7SOH4L&amp;usp=drive_fs\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://drive.google.com/open?id=1-ptUqZSUFEzT2XtCIIgZkQQj0d7SOH4L&amp;usp=drive_fs\" style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\">Відео</a></span></span></p><p class=\"MsoNormal\" style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\" data-mce-style=\"margin-left: 5.25pt; tab-stops: 35.8pt 321.9pt;\">Young media hub (обладнання для подкаст-студії та медіаконтенту)<span style=\"mso-spacerun: yes;\" data-mce-style=\"mso-spacerun: yes;\">&nbsp; </span>&gt;&gt; <span style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\"><span style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\"><a href=\"https://drive.google.com/open?id=10-_l_yOWL22m-LDYCtkRqZByzT3wbGtF&amp;usp=drive_fs\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://drive.google.com/open?id=10-_l_yOWL22m-LDYCtkRqZByzT3wbGtF&amp;usp=drive_fs\" style=\"color: rgb(35, 111, 161); text-decoration: underline;\" data-mce-style=\"color: rgb(35, 111, 161); text-decoration: underline;\">Відео</a></span></span></p>",
@@ -3069,7 +3078,7 @@
         "Кнопка з посиланням": "#"
     },
     {
-        "id": "341",
+        "id": "342",
         "Розділ": "Оголошення",
         "Тип (1 - картки, 2- абзаци)": "",
         "Абзац": "<div style=\"background: #A7C4E9; padding: 12px;\">\r\n    <p>Міністерством цифрової трансформації України спільно з Центром протидії&nbsp;дезінформації при Раді національної\r\n        безпеки і оборони України розроблено&nbsp;освітній серіал «ДезінFAKEкція» (далі – серіал).<br>Серіал навчає\r\n        користувачів критично мислити, розпізнавати фейки й маніпуляції, розуміти методи та інструменти пропаганди;\r\n        надає інформацію про основні види дезінформації та засоби протидії шкідливому інформаційному<br>впливу.<br>У\r\n        серіалі також наводяться наочні приклади інформаційної війни рф проти України і роз’яснюється, як кожен може\r\n        долучитися до інформаційного спротиву.<br>Серіал розміщено на порталі Дія. Освіта за посиланням:&nbsp;<a\r\n            href=\"https://osvita.diia.gov.ua/courses/disinfaketion\">https://osvita.diia.gov.ua/courses/disinfaketion</a>.\r\n    </p>\r\n    <p><br data-mce-bogus=\"1\"></p>\r\n    <p><img src=\"https://znz16300.github.io/sitedata/images/2025-12-04_111156.png\" width=\"800\" height=\"566\" alt=\"\"\r\n            data-mce-src=\"https://znz16300.github.io/sitedata/images/2025-12-04_111156.png\"\r\n            style=\"display: block; margin-left: auto; margin-right: auto;\"\r\n            data-mce-style=\"display: block; margin-left: auto; margin-right: auto;\"><br data-mce-bogus=\"1\"></p>\r\n    <p><br data-mce-bogus=\"1\"></p>\r\n    </div>",
@@ -3078,7 +3087,7 @@
         "Кнопка з посиланням": ""
     },
     {
-        "id": "342",
+        "id": "343",
         "Розділ": "Оголошення",
         "Тип (1 - картки, 2- абзаци)": "",
         "Абзац": "<div style=\"background: #d0d2d4; padding: 12px;\"><p dir=\"ltr\">Вакансія на постійне місце роботи комірника в Куликівський ліцей</p><p dir=\"ltr\">Вимога до кандидата: відповідальність, уважність та організованість, бажано досвід роботи на аналогічній посаді.</p><p dir=\"ltr\">Основні обов'язки: приймання, облік та зберігання продуктів харчування;</p><p dir=\"ltr\">видача продуктів харчування;</p><p dir=\"ltr\">Ведення обліку та звітності;</p><p dir=\"ltr\">дотримання санітарних норм і правил зберігання продуктів харчування.</p><p dir=\"ltr\">Графік роботи: понеділок - п'ятниця.</p><p dir=\"ltr\">Контакти: +380631766060 мобільний; 2-12-08 Орсагош Оксана Валеріївна</p><hr><p><br data-mce-bogus=\"1\"></p></div>",
@@ -3087,7 +3096,7 @@
         "Кнопка з посиланням": ""
     },
     {
-        "id": "343",
+        "id": "344",
         "Розділ": "Оголошення",
         "Тип (1 - картки, 2- абзаци)": "",
         "Абзац": "<div style=\"background: #A7C4E9; padding: 12px;\"><p dir=\"ltr\">Куликівський ліцей запрошує на&nbsp; вакантну посаду механіка.</p><p dir=\"ltr\">Вимоги до кандидата: повна або базова вища освіта відповідного напряму підготовки (спеціаліст або бакалавр); для спеціаліста - без вимог до стажу роботи, бакалавра - стаж роботи за професією, пов'язаною з експлуатацією, ремонтом та обслуговуванням автотранспортних засобів, - не менше 1 року.</p><p dir=\"ltr\">Пропонуємо: офіційне працевлаштування, повний робочий день, соціальний пакет (оплачувані лікарняні та щорічні основні відпустки).</p><p dir=\"ltr\">Обов’язки:</p><p dir=\"ltr\">Забезпечує контроль технічного стану автотранспортних засобів і випуск їх на лінію. Виконує огляд та визначає несправності під час повернення автотранспортних засобів з лінії після закінчення роботи. Бере участь у наданні технічної допомоги автомобілям на лінії. Здійснює контроль за дотриманням водіями правил технічної експлуатації, проводить інструктаж водіїв перед виїздом їх на лінію. Контролює ефективність витрат водіями паливно-мастильних матеріалів, шин. Бере участь в розробці графіків проведення технічного обслуговування автотранспортних засобів і здійснює контроль за якістю і своєчасністю виконання цих робіт. Вивчає умови роботи автотранспортних засобів з метою виявлення причин їх передчасного зносу. Аналізує причини і тривалість простоїв, пов'язаних з технічним станом автотранспортних засобів, розробляє і впроваджує заходи щодо збільшення термінів їх служби, скорочення простоїв через технічні несправності.</p><p dir=\"ltr\">Оплата здійснюється відповідно до штатного розпису.</p><p dir=\"ltr\">Звертатися за адресою: смт Куликівка, вулиця Шевченка, 4,&nbsp; телефон 04643 -2-12-08 з 08.00 до 17.00.</p><hr><p><br data-mce-bogus=\"1\"></p></div>",
@@ -3096,7 +3105,7 @@
         "Кнопка з посиланням": ""
     },
     {
-        "id": "344",
+        "id": "345",
         "Розділ": "Оголошення",
         "Тип (1 - картки, 2- абзаци)": "",
         "Абзац": "<div style=\"background: #d0d2d4; padding: 12px;\"><p dir=\"ltr\">Куликівський ліцей запрошує на вакантну посаду фахівця з охорони праці.</p><p dir=\"ltr\">Вимоги до кандидата: повна вища освіта відповідного напряму підготовки (спеціаліст) без вимог до стажу роботи.</p><p dir=\"ltr\">Пропонуємо: офіційне працевлаштування, повний робочий день, соціальний пакет (оплачувані лікарняні та щорічні основні відпустки).</p><p dir=\"ltr\">Обов’язки:</p><p dir=\"ltr\">Розробка та впровадження заходів з охорони праці</p><p dir=\"ltr\">Контроль за дотриманням вимог з безпеки праці в установі</p><p dir=\"ltr\">Проведення інструктажів з безпеки праці</p><p dir=\"ltr\">Ведення документації з питань охорони праці</p><p dir=\"ltr\">Оплата здійснюється відповідно до штатного розпису.</p><p dir=\"ltr\">Звертатися за адресою: смт Куликівка, вулиця Шевченка, 4, телефон 04643 -2-12-08 з 08.00 до 17.00.</p><p><br data-mce-bogus=\"1\"></p><hr><p><br data-mce-bogus=\"1\"></p></div>",
@@ -3105,7 +3114,7 @@
         "Кнопка з посиланням": ""
     },
     {
-        "id": "345",
+        "id": "346",
         "Розділ": "Оголошення",
         "Тип (1 - картки, 2- абзаци)": "",
         "Абзац": "<div style=\"background: #A7C4E9; padding: 12px;\"><p dir=\"ltr\">Куликівський ліцей запрошує на&nbsp; посаду сестри медичної з дієтичного харчування.</p><p dir=\"ltr\">Вимоги до кандидата: : наявність освіти за спеціальністю, вільне володіння українською мовою,&nbsp; знання ПК.</p><p dir=\"ltr\">Пропонуємо: офіційне працевлаштування, повний робочий день, соціальний пакет (оплачувані лікарняні та щорічні основні відпустки).</p><p dir=\"ltr\">Обов’язки:</p><p dir=\"ltr\">· &nbsp; &nbsp; &nbsp; &nbsp; відповідає за організацію та контроль харчування учнів, зокрема за складання меню, контроль якості продуктів та приготування їжі, а також за дотримання санітарно-гігієнічних норм у їдальні.</p><p dir=\"ltr\">· &nbsp; &nbsp; &nbsp; &nbsp; Оплата здійснюється відповідно до штатного розпису.</p><p dir=\"ltr\">Звертатися за адресою: смт Куликівка, вулиця Шевченка, 4,&nbsp; телефон 04643 -2-12-08 з 08.00 до 17.00.</p><hr><p><br data-mce-bogus=\"1\"></p></div>",
@@ -3114,7 +3123,7 @@
         "Кнопка з посиланням": ""
     },
     {
-        "id": "346",
+        "id": "347",
         "Розділ": "Розробки вчителів",
         "Тип (1 - картки, 2- абзаци)": "",
         "Абзац": "<a href=\"https://drive.google.com/drive/u/4/folders/1PFn8A34ZqZ0-qHwj-GPe6NpNtrtwzmT5\">Методичні розробки вчителів</a>",
