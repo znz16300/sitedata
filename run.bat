@@ -1,4 +1,6 @@
 @echo off
+git pull
+
 REM Запускаємо Python скрипт
 
 git pull

@@ -2,6 +2,8 @@
 
 source venv/bin/activate
 
+git pull
+
 # Запускаємо Python скрипт
 python3 main.py
 
