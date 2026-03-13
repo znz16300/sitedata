@@ -2352,13 +2352,22 @@
         "id": "261",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
+        "Абзац": "Комунікація з учасниками освітнього процесу",
+        "Фото": "./assets/icons/docum.svg",
+        "Ширина малюнка (%)": "",
+        "Кнопка з посиланням": "./page?titlePages=Комунікація%20з%20учасниками%20освітнього%20процесу&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
+    },
+    {
+        "id": "262",
+        "Розділ": "Відкритість та прозорість",
+        "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Статут закладу освіти",
         "Фото": "./assets/icons/docum.svg",
         "Ширина малюнка (%)": "",
         "Кнопка з посиланням": "https://drive.google.com/open?id=1Drk2ImJTaCGXRMXrFlEytjFJ7HT8cA0v&usp=drive_fs"
     },
     {
-        "id": "262",
+        "id": "263",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Стратегія розвитку на 2025-2026 роки",
@@ -2367,7 +2376,7 @@
         "Кнопка з посиланням": "https://drive.google.com/open?id=1P7vTUnoshkqLCaRj8r8jI5WnAss0tBL-"
     },
     {
-        "id": "263",
+        "id": "264",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Ліцензії на провадження освітньої діяльності ",
@@ -2376,7 +2385,7 @@
         "Кнопка з посиланням": "https://drive.google.com/file/d/1jDF6unG_pRHNwJrLwwZyTYkJ2zdYH6-o/view?usp=sharing"
     },
     {
-        "id": "264",
+        "id": "265",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Ліцензії на провадження освітньої діяльності",
@@ -2385,7 +2394,7 @@
         "Кнопка з посиланням": "https://docs.google.com/document/d/1i1AVufR9BtmoVjGhPHeamnuYsu_7CGv_/edit?usp=sharing&ouid=107211966"
     },
     {
-        "id": "265",
+        "id": "266",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Сертифікати про акредитацію освітніх програм",
@@ -2394,7 +2403,7 @@
         "Кнопка з посиланням": "https://docs.google.com/document/d/1hv4dlMcfLedpQCLR-i1tiaheufGTDWWY/edit?usp=sharing&ouid=107211966436332045560&rtpof=true&sd=true"
     },
     {
-        "id": "266",
+        "id": "267",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Правила прийому до закладу освіти",
@@ -2403,7 +2412,7 @@
         "Кнопка з посиланням": "https://drive.google.com/file/d/1jYUnwtfrDzymZxgNh6rjilyhyhw-7Ugb/view"
     },
     {
-        "id": "267",
+        "id": "268",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Річний звіт про діяльність закладу освіти",
@@ -2412,7 +2421,7 @@
         "Кнопка з посиланням": "https://drive.google.com/open?id=1L28BdyO810LfW29vCkYxjMVyaXrGBjdW"
     },
     {
-        "id": "268",
+        "id": "269",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Структура та органи управління закладу освіти",
@@ -2421,7 +2430,7 @@
         "Кнопка з посиланням": "https://docs.google.com/document/d/1hwtbSFbtL2Z6I0SNKEe2Ch4AdKi-qXrI/edit?usp=sharing&ouid=107211966436332045560&rtpof=true&sd=true"
     },
     {
-        "id": "269",
+        "id": "270",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Кадровий склад закладу освіти згідно з ліцензійними умовами",
@@ -2430,7 +2439,7 @@
         "Кнопка з посиланням": "./page?titlePages=Учительська&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
-        "id": "270",
+        "id": "271",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Освітні програми, що реалізуються в закладі освіти, та перелік освітніх компонентів, що передбачені відповідною освітньою програмою",
@@ -2439,7 +2448,7 @@
         "Кнопка з посиланням": "https://drive.google.com/drive/u/2/folders/1DGJTGrrXmUMjLUFlxlekKR-s1fACd8PL"
     },
     {
-        "id": "271",
+        "id": "272",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Територія обслуговування, закріплена за закладом освіти його засновником",
@@ -2448,7 +2457,7 @@
         "Кнопка з посиланням": "https://drive.google.com/file/d/16YU1eGWnZBKUG9wHRUTbOPk7u_4TSuhf"
     },
     {
-        "id": "272",
+        "id": "273",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Ліцензований обсяг та фактична кількість осіб, які навчаються у закладі освіти",
@@ -2457,7 +2466,7 @@
         "Кнопка з посиланням": "./page?titlePages=Ліцензований%20обсяг%20та%20фактична%20кількість%20осіб,%20які%20навчаються%20у%20закладі%20освіти&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
-        "id": "273",
+        "id": "274",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Кошторис на 2026 рік",
@@ -2466,7 +2475,7 @@
         "Кнопка з посиланням": "https://drive.google.com/file/d/1xvwg_WfFroqlFSE3IDrrTYJHqa5Ah5dn/view?usp=sharing"
     },
     {
-        "id": "274",
+        "id": "275",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Мова (мови) освітнього процесу",
@@ -2475,7 +2484,7 @@
         "Кнопка з посиланням": "https://drive.google.com/open?id=1w7Ix7tbRsugYoXhVA-eDLe_ZxOvIMHRU&usp=drive_fs"
     },
     {
-        "id": "275",
+        "id": "276",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Наявність вакантних посад, порядок і умови проведення конкурсу на їх заміщення (у разі його проведення)",
@@ -2484,7 +2493,7 @@
         "Кнопка з посиланням": "https://docs.google.com/document/d/1EQ21OtQ4eoI9gHarcYH8zMulXQYCE4er?rtpof=true&usp=drive_fs"
     },
     {
-        "id": "276",
+        "id": "277",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Матеріально-технічне забезпечення закладу освіти (згідно з ліцензійними умовами)",
@@ -2493,7 +2502,7 @@
         "Кнопка з посиланням": "./page?titlePages=%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE-%D1%82%D0%B5%D1%85%D0%BD%D1%96%D1%87%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B0&keyPages=12tqoeJpUs1qa9paI7YuMpZ17nynq44-qqmn0zgoEup4"
     },
     {
-        "id": "277",
+        "id": "278",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Результати моніторингу якості освіти",
@@ -2502,7 +2511,7 @@
         "Кнопка з посиланням": "https://docs.google.com/document/d/1hvM4Ndy2sgWtbPLyiJUDvzIEtHumG__p/edit?usp=sharing&ouid=107211966436332045560&rtpof=true&sd=true"
     },
     {
-        "id": "278",
+        "id": "279",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Умови доступності закладу освіти для навчання осіб з особливими освітніми потребами",
@@ -2511,7 +2520,7 @@
         "Кнопка з посиланням": "https://docs.google.com/document/d/1hrUfGYj2XFDIXGJMoNNSXhQdw6n6EgBv/edit?usp=sharing&ouid=107211966436332045560&rtpof=true&sd=true"
     },
     {
-        "id": "279",
+        "id": "280",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Перелік додаткових освітніх та інших послуг, їх вартість, порядок надання та оплати",
@@ -2520,7 +2529,7 @@
         "Кнопка з посиланням": "./page?titlePages=Перелік додаткових освітніх та інших послуг, їх вартість, порядок надання та оплати&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
-        "id": "280",
+        "id": "281",
         "Розділ": "Перелік додаткових освітніх та інших послуг, їх вартість, порядок надання та оплати",
         "Тип (1 - картки, 2- абзаци)": "",
         "Абзац": "<p><a href=\"https://drive.google.com/file/d/1s_wHbFbHnbE7fefQloNo58euxgLzqf-O/view?usp=sharing\" target=\"_blank\" rel=\"noopener\">Порядок надання платних послуг з виробництва та реалізації продукції громадського харчування, організації її споживання у Куликівському ліцеї</a></p>\n<p><a href=\"https://drive.google.com/file/d/1vFBfROj42q35bAZ5wXFzOp7L3NbaxgxN/view?usp=sharing\" target=\"_blank\" rel=\"noopener\">Розпорядження про затвердження калькуляції вартості разового харчування для працівників Куликівського ліцею 05.03.2025</a></p>\n<p><a href=\"https://drive.google.com/file/d/1_balM2fHVuawu0vdnlDIipNYJ65az_Od/view?usp=sharing\" target=\"_blank\" rel=\"noopener\">Калькуляція харчування 05.03.2025</a></p>\n<p><a href=\"https://drive.google.com/file/d/1fq8IDe-z3i9HG-XHcPlqe5zDEWUKExQR/view?usp=sharing\" target=\"_blank\" rel=\"noopener\">Калькуляція харчування 29.09.2025</a></p>",
@@ -2529,7 +2538,7 @@
         "Кнопка з посиланням": "#"
     },
     {
-        "id": "281",
+        "id": "282",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Правила поведінки здобувача освіти в закладі освіти",
@@ -2538,7 +2547,7 @@
         "Кнопка з посиланням": "https://drive.google.com/file/d/1vg-BzgtyalxjVKztV_cOp461k51LZs27/view"
     },
     {
-        "id": "282",
+        "id": "283",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "План заходів, спрямованих на запобігання та протидію булінгу в закладі освіти",
@@ -2547,7 +2556,7 @@
         "Кнопка з посиланням": "./page?titlePages=%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B4%D1%96%D1%8F%20%D0%B1%D1%83%D0%BB%D1%96%D0%BD%D0%B3%D1%83&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
-        "id": "283",
+        "id": "284",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Порядок подання та розгляду (з дотриманням конфіденційності) заяв про випадки булінгу в закладі освіти",
@@ -2556,7 +2565,7 @@
         "Кнопка з посиланням": "./page?titlePages=%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B4%D1%96%D1%8F%20%D0%B1%D1%83%D0%BB%D1%96%D0%BD%D0%B3%D1%83&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
-        "id": "284",
+        "id": "285",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Порядок реагування на доведені випадки булінгу в закладі освіти та відповідальність осіб, причетних до булінгу",
@@ -2565,7 +2574,7 @@
         "Кнопка з посиланням": "https://docs.google.com/document/d/1nvGN4R0-dYMDeteVtWiEL1m58FMISGoo/edit?usp=sharing&ouid=107211966436332045560&rtpof=true&sd=true"
     },
     {
-        "id": "285",
+        "id": "286",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Закупівлі",
@@ -2574,7 +2583,7 @@
         "Кнопка з посиланням": "./page?titlePages=Закупівлі&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
-        "id": "286",
+        "id": "287",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Фінансовий звіт за 2025 рік",
@@ -2583,7 +2592,7 @@
         "Кнопка з посиланням": "https://drive.google.com/drive/folders/1-bHk_4ETVjZp3iqei6Us5XsidDp_HHWy?usp=sharing"
     },
     {
-        "id": "287",
+        "id": "288",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Фінансовий звіт за 2024 рік",
@@ -2592,7 +2601,7 @@
         "Кнопка з посиланням": "https://drive.google.com/drive/folders/17sytNdRdRpi7g1Tv-lwFB3GSQH9hDT6b?usp=sharing"
     },
     {
-        "id": "288",
+        "id": "289",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Фінансовий звіт за 2023 рік",
@@ -2601,7 +2610,7 @@
         "Кнопка з посиланням": "https://drive.google.com/drive/folders/1-qGZWWSQsuThiO8eOp-0828zhGBU3jnj?usp=sharing"
     },
     {
-        "id": "289",
+        "id": "290",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Орієнтовний план підвищення кваліфікації педагогічних працівників на 2024 рік",
@@ -2610,7 +2619,7 @@
         "Кнопка з посиланням": "https://drive.google.com/open?id=1KKGGYwUZzhLgHF0SgCdhQAGW-oc8RtaJ"
     },
     {
-        "id": "290",
+        "id": "291",
         "Розділ": "Відкритість та прозорість",
         "Тип (1 - картки, 2- абзаци)": "1",
         "Абзац": "Орієнтовний план підвищення кваліфікації педагогічних працівників на 2025 рік",
@@ -2619,7 +2628,7 @@
         "Кнопка з посиланням": "https://docs.google.com/document/d/10TZMTScWyLYQHNMJJ7T1bo26wl4-81_a/edit?usp=sharing&ouid=107211966436332045560&rtpof=true&sd=true"
     },
     {
-        "id": "291",
+        "id": "292",
         "Розділ": "Вибори підручників та посібників",
         "Тип (1 - картки, 2- абзаци)": "",
         "Абзац": "<div style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><table style=\"border-collapse: collapse; width: 100%;\" border=\"1\" data-mce-style=\"border-collapse: collapse; width: 100%;\"><tbody><tr style=\"background: #c2e0f4;\" data-mce-style=\"background: #c2e0f4;\"><td><strong>2025-2026 навчальний рік</strong></td></tr><tr><td><a href=\"https://drive.google.com/file/d/1hajm2WXYjocmHmwMiOh1Us5D4AeRITfj/view?usp=sharing\" target=\"_blank\" data-mce-href=\"https://drive.google.com/file/d/1hajm2WXYjocmHmwMiOh1Us5D4AeRITfj/view?usp=sharing\">Результати вибору для 4 класу</a></td></tr><tr><td><a href=\"https://drive.google.com/file/d/1OCPJClB1qpRAJrUA-uvzURd-vqY2AKnJ/view?usp=sharing\" target=\"_blank\" data-mce-href=\"https://drive.google.com/file/d/1OCPJClB1qpRAJrUA-uvzURd-vqY2AKnJ/view?usp=sharing\">Результати вибору для 6 класу</a></td></tr><tr><td><a href=\"https://drive.google.com/file/d/1qcpcUH1I15APlPILOpp0Y4wqpaDzI1eP/view?usp=sharing\" target=\"_blank\" data-mce-href=\"https://drive.google.com/file/d/1qcpcUH1I15APlPILOpp0Y4wqpaDzI1eP/view?usp=sharing\">Результати вибору для 7 класу</a></td></tr><tr><td><a href=\"https://drive.google.com/file/d/12_AOYTiGd9C00ZAeY5Kddm3PeYCVzSmt/view?usp=sharing\" target=\"_blank\" data-mce-href=\"https://drive.google.com/file/d/12_AOYTiGd9C00ZAeY5Kddm3PeYCVzSmt/view?usp=sharing\" data-mce-selected=\"inline-boundary\">Результати вибору для 9 класу</a></td></tr><tr><td><br data-mce-bogus=\"1\"></td></tr><tr style=\"background: #c2e0f4;\" data-mce-style=\"background: #c2e0f4;\"><td><strong>2024-2025 навчальний рік</strong></td></tr><tr><td><a href=\"https://drive.google.com/uc?export=download&amp;id=1lEH11DOdJp2IZF1esYKP5BPICc8nTMBd\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://drive.google.com/uc?export=download&amp;id=1lEH11DOdJp2IZF1esYKP5BPICc8nTMBd\">Результати вибору для 1 класу</a></td></tr><tr><td><a href=\"https://drive.google.com/uc?export=download&amp;id=1lEdd48LBxrCWSezvA7hfy052v3g-c3Z6\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://drive.google.com/uc?export=download&amp;id=1lEdd48LBxrCWSezvA7hfy052v3g-c3Z6\">Результати вибору для 2 класу</a></td></tr><tr><td><a href=\"https://drive.google.com/uc?export=download&amp;id=1BrLrXFARmxFlySiLAmNqG9MSXZWjwOZi\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://drive.google.com/uc?export=download&amp;id=1BrLrXFARmxFlySiLAmNqG9MSXZWjwOZi\">Результати вибору для 3 класу</a></td></tr><tr><td><a href=\"https://drive.google.com/uc?export=download&amp;id=1AZ6nVLSfH17YJaNETcOHUaeVHIXeG8Dn\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://drive.google.com/uc?export=download&amp;id=1AZ6nVLSfH17YJaNETcOHUaeVHIXeG8Dn\">Результати вибору для 8 класу</a></td></tr><tr><td><br data-mce-bogus=\"1\"></td></tr><tr style=\"background: #c2e0f4;\" data-mce-style=\"background: #c2e0f4;\"><td><strong>2023-2024 навчальний рік</strong></td></tr><tr><td><a href=\"https://drive.google.com/uc?export=download&amp;id=1IJB42fUZ47jlqDoRuNEooRNjeWfuFu0L\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://drive.google.com/uc?export=download&amp;id=1IJB42fUZ47jlqDoRuNEooRNjeWfuFu0L\">Результати вибору для 1 класу</a></td></tr><tr><td><a href=\"https://drive.google.com/open?id=1TRY8nic72YkpKzmr8fcSKGmnGgl_2dB7\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://drive.google.com/open?id=1TRY8nic72YkpKzmr8fcSKGmnGgl_2dB7\">Результати вибору для 2 класу</a></td></tr><tr><td><a href=\"https://drive.google.com/open?id=1awpDwLKfu6YfgvYWe_MzUOiO-eeCFeVC\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://drive.google.com/open?id=1awpDwLKfu6YfgvYWe_MzUOiO-eeCFeVC\">Результати вибору для 7 класу</a></td></tr><tr><td><a href=\"https://drive.google.com/uc?export=download&amp;id=12ABOk6sf77GdIzvv56uyTMfqVy9L_URG\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://drive.google.com/uc?export=download&amp;id=12ABOk6sf77GdIzvv56uyTMfqVy9L_URG\">Результати вибору для 11 класу</a></td></tr><tr><td><a href=\"https://drive.google.com/uc?export=download&amp;id=1RjJJVxTCqjjdpc_N4S70z93rEJSm4wMl\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://drive.google.com/uc?export=download&amp;id=1RjJJVxTCqjjdpc_N4S70z93rEJSm4wMl\">Результати вибору для 11 класу</a></td></tr><tr><td><br data-mce-bogus=\"1\"></td></tr><tr style=\"background: #c2e0f4;\" data-mce-style=\"background: #c2e0f4;\"><td><strong>2022-2023 навчальний рік</strong></td></tr><tr><td><a href=\"https://drive.google.com/uc?export=download&amp;id=1zXAdAxPqZ9Ge5WGJdy1x2wWAJgq5mQJi\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://drive.google.com/uc?export=download&amp;id=1zXAdAxPqZ9Ge5WGJdy1x2wWAJgq5mQJi\">Результати вибору для 1 класу</a></td></tr><tr><td><a href=\"https://drive.google.com/uc?export=download&amp;id=1BYF6Hy32kRJrVGO235MvrRCZ4Fn5REjO\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://drive.google.com/uc?export=download&amp;id=1BYF6Hy32kRJrVGO235MvrRCZ4Fn5REjO\">Результати вибору для 6 класу</a></td></tr><tr><td><a href=\"https://drive.google.com/uc?export=download&amp;id=1uaS85kgEZr1xulBrfiriNuuaR6nK7G8x\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://drive.google.com/uc?export=download&amp;id=1uaS85kgEZr1xulBrfiriNuuaR6nK7G8x\">Результати вибору для 10 класу</a></td></tr></tbody></table></div>",
@@ -2628,22 +2637,13 @@
         "Кнопка з посиланням": "#"
     },
     {
-        "id": "292",
+        "id": "293",
         "Розділ": "Вибори підручників та посібників",
         "Тип (1 - картки, 2- абзаци)": "",
         "Абзац": "<p><a href=\"https://drive.google.com/drive/folders/1oHJ1BVMnhlHXV9wPSbjam7k515asz2S_?usp=sharing\" target=\"_blank\" rel=\"noopener\">Підручники, за якими працює Куликівський ліцей</a></p>",
         "Фото": "",
         "Ширина малюнка (%)": "",
         "Кнопка з посиланням": "#"
-    },
-    {
-        "id": "293",
-        "Розділ": "Відкритість та прозорість",
-        "Тип (1 - картки, 2- абзаци)": "1",
-        "Абзац": "Комунікація з учасниками освітнього процесу",
-        "Фото": "",
-        "Ширина малюнка (%)": "",
-        "Кнопка з посиланням": "./page?titlePages=Комунікація%20з%20учасниками%20освітнього%20процесу&keyPages=1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI"
     },
     {
         "id": "294",
