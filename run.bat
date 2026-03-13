@@ -14,4 +14,3 @@ git commit -m "deploy"
 REM Пушимо зміни на віддалений репозиторій
 git push
 
-pause
