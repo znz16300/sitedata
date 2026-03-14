@@ -1,4 +1,5 @@
 venv
+fb_downloads
 project-*.json
 test
 downloaded_files
