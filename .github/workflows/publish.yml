@@ -1,0 +1,92 @@
+# Автоматичне оновлення даних сайту з Google Таблиць.
+# Інструкція з налаштування — README.md → «Автоматичне оновлення на GitHub».
+name: Оновлення даних сайту
+
+on:
+  # Кожні 30 хв у робочий час, пн–пт.
+  # GitHub рахує час в UTC: 5–16 UTC = 7:00–18:30 за Києвом узимку (UTC+2)
+  #                                   = 8:00–19:30 улітку (UTC+3).
+  # Змінити розклад: https://crontab.guru (не частіше ніж раз на 5 хв).
+  schedule:
+    - cron: '*/30 5-16 * * 1-5'
+
+  # Кнопка «Run workflow» на сторінці Actions і кнопка «Опублікувати» в Google Таблиці
+  workflow_dispatch:
+    inputs:
+      only:
+        description: 'Лише ці таблиці (через кому: news,pages,documents…). Порожньо — всі.'
+        required: false
+        default: ''
+      reason:
+        description: 'Хто/звідки запустив (заповнює Google Таблиця)'
+        required: false
+        default: 'вручну'
+
+# Не запускати два оновлення одночасно (друге почекає першого)
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+permissions:
+  contents: write   # комітити data/ та img-news/
+  pages: write      # попросити GitHub Pages оновити сайт
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Встановити залежності
+        run: pip install -r requirements.txt
+
+      - name: Отримати дані з Google Таблиць
+        id: publish
+        env:
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+          ONLY: ${{ github.event.inputs.only }}
+        run: |
+          echo "Запуск: ${{ github.event_name }} ${{ github.event.inputs.reason }}"
+          set +e
+          if [ -n "$ONLY" ]; then python publish.py --only "$ONLY"; else python publish.py; fi
+          code=$?
+          echo "code=$code" >> "$GITHUB_OUTPUT"
+          # 0 — все добре; 1 — частина таблиць з помилками (решту все одно публікуємо); інше — збій
+          [ $code -le 1 ] || exit $code
+
+      - name: Зберегти зміни
+        id: commit
+        run: |
+          git config user.name  "sitedata-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data img-news
+          if git diff --cached --quiet; then
+            echo "Змін немає."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git commit -m "data: оновлення $(TZ=Europe/Kyiv date '+%d.%m.%Y %H:%M')"
+          for i in 1 2 3; do
+            git pull --rebase --autostash && git push && break
+            echo "Повтор push ($i)…"; sleep 5
+          done
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Оновити GitHub Pages
+        if: steps.commit.outputs.changed == 'true'
+        continue-on-error: true   # зазвичай Pages і так оновлюється після push
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds" --silent && echo "Запит на збірку Pages надіслано"
+
+      - name: Позначити запуск як невдалий, якщо були помилки
+        if: steps.publish.outputs.code == '1'
+        run: |
+          echo "::error::Частину таблиць не вдалося оновити — подробиці в підсумку запуску (Summary)."
+          exit 1

@@ -1,7 +1,17 @@
-venv
-fb_downloads
+# Ключі доступу — НІКОЛИ не комітити
+secrets/*
+!secrets/README.md
+*service-account*.json
 project-*.json
-test
-downloaded_files
-apikey.json
-tmp*
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Тимчасове
+downloaded_files/
+fb_downloads/
+.DS_Store
+Thumbs.db
