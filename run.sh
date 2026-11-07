@@ -1,21 +1,19 @@
-#!/bin/bash
+#!/usr/bin/env bash
+# Ручний запуск на своєму комп'ютері (зазвичай не потрібен — працює GitHub Actions).
+set -euo pipefail
+cd "$(dirname "$0")"
 
+[ -d venv ] || python3 -m venv venv
 source venv/bin/activate
+pip install -q -r requirements.txt
 
-git pull
+git pull --rebase --autostash
+python publish.py "$@" || echo "⚠️  Частина таблиць з помилками — публікуємо те, що вдалося."
 
-# Запускаємо Python скрипт
-python3 main.py
-
-# поновлюємо галерею
-python gallery_create.py
-
-# Додаємо всі зміни до Git
-git add .
-
-# Створюємо комміт з повідомленням "deploy"
-git commit -m "deploy"
-
-# Пушимо зміни на віддалений репозиторій
-git push
-
+git add data img-news
+if git diff --cached --quiet; then
+  echo "Змін немає — нічого не публікуємо."
+else
+  git commit -m "data: оновлення $(date '+%d.%m.%Y %H:%M')"
+  git push
+fi

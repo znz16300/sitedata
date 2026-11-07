@@ -1,5 +1,77 @@
 {
-  "repo_path": ["./data", "./img-news"],
-  "branch": "main",
-  "commit_message": "data"
+  "_README": "Налаштування публікації. Пояснення кожного поля — у README.md, розділ «config.json».",
+
+  "public_base_url": "https://znz16300.github.io/sitedata",
+  "output_dir": "data",
+  "credentials_file": "secrets/service-account.json",
+
+  "images": {
+    "dir": "img-news",
+    "max_size": 1600,
+    "quality": 82,
+    "thumb_size": 640,
+    "thumb_quality": 74
+  },
+
+  "never_publish_columns": [
+    "(?i)електронн\\w* (адреса|пошта)",
+    "(?i)e-?mail",
+    "(?i)ваша .*пошта",
+    "(?i)телефон",
+    "(?i)покликання на редагування",
+    "^old_photo$",
+    "^Статус публікації$"
+  ],
+
+  "tables": [
+    {
+      "name": "news",
+      "title": "Новини та оголошення",
+      "id": "1Dk0WYpOKeRoDATgzMkIkFjUcFwNAG5MRn4W7bEyzd0M",
+      "columns": ["Позначка часу", "Назва новини", "Текст новини", "Фото", "Тип (новина/оголошення/і те і інше)", "show"],
+      "defaults": { "show": "1" },
+      "write_defaults_to_sheet": true,
+      "photos_column": "Фото",
+      "photo_folder_from": "Позначка часу",
+      "stable_id_from": "Позначка часу"
+    },
+    {
+      "name": "pages",
+      "title": "Сторінки сайту",
+      "id": "1F6QVr9WNio-_ODmnIlMTSHeSQxLOjgnd0nYB1_z0BeI",
+      "columns": "*"
+    },
+    {
+      "name": "pages2",
+      "title": "Сторінки сайту (2)",
+      "id": "12tqoeJpUs1qa9paI7YuMpZ17nynq44-qqmn0zgoEup4",
+      "columns": "*"
+    },
+    {
+      "name": "teachers",
+      "title": "Педагогічний колектив",
+      "id": "15D-n7O5AdsttUF3LfkOhRexS-Q4T78MfXDbUlmsPHRc",
+      "columns": "*"
+    },
+    {
+      "name": "documents",
+      "title": "Документи",
+      "id": "1O_bJjH8TAHww34uxA51rdyJoX4PaxMGOzL57N8G7H34",
+      "columns": "*",
+      "file_info_column": "Файл(и) документу",
+      "stable_id_from": "Позначка часу"
+    },
+    {
+      "name": "schedules",
+      "title": "Розклади та заміни",
+      "id": "1vWepnObCCI_61Ubt4Dlh6nWBjOUICCCrn8MyG-od9Sg",
+      "type": "all_sheets"
+    }
+  ],
+
+  "gallery": {
+    "output": "photogallery.json",
+    "title": "Фотогалерея",
+    "description": "Колекція фотографій з новин"
+  }
 }
