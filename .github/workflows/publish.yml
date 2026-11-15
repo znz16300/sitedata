@@ -9,7 +9,7 @@ on:
   # Змінити розклад: https://crontab.guru (не частіше ніж раз на 5 хв).
   schedule:
     - cron: '*/30 5-16 * * 1-5'
-    - cron: '0 15 * * 0'  
+    - cron: '0 16 * * 0'  
   # Кнопка «Run workflow» на сторінці Actions і кнопка «Опублікувати» в Google Таблиці
   workflow_dispatch:
     inputs:
